@@ -92,16 +92,25 @@ It's not a valid E-Mail Address.</IsNotEmail>
   <Community>
 	<Title>
 	Meet your fellow patchers and stay on top of the latest happenings in the univvvverse!
-(Links open in your browser)
 	</Title>
+	<Subtitle>
+	Links open in your browser:
+	</Subtitle>
+	<Chat title="Chat">
+		<Rooms>
+			<Room title="Chat (EN)" link="https://riot.im/app/#/room/#vvvv:matrix.org"/>
+			<Room title="ES" link="https://riot.im/app/#/room/#vvvv-es:matrix.org"/>
+			<Room title="DE" link="https://riot.im/app/#/room/#vvvv-de:matrix.org"/>
+			<Room title="FR" link="https://riot.im/app/#/room/#vvvv-fr:matrix.org"/>
+			<Room title="JP" link="https://riot.im/app/#/room/#vvvv-jp:matrix.org"/>
+			<Room title="RU" link="https://riot.im/app/#/room/#vvvv-ru:matrix.org"/>
+			<Room title="FARSI" link="https://riot.im/app/#/room/#vvvv-farsi:matrix.org"/>
+			<Room title="HU" link="https://riot.im/app/#/room/#vvvv-hu:matrix.org"/>
+		</Rooms>
+	</Chat>
 	<Item title="Forum" link="https://discourse.vvvv.org/c/vvvv-gamma">
 		<Description>
 		Where you find answers to your vvvv questions
-		</Description>
-	</Item>
-	<Item title="Chat" link="https://riot.im/app/#/room/#vvvv:matrix.org">
-		<Description>
-		Where patchers hang out 24/7 to help each other
 		</Description>
 	</Item>
 	<Item title="Meetups" link="https://gettogether.community/vvvv/events/">
@@ -161,4 +170,15 @@ It's not a valid E-Mail Address.</IsNotEmail>
 	</Item>
   </Community>
 
+  <Videos>
+		<Video pack="CoreLib" title="HowTo Use a ForEach Loop" length="7:55" thumbnail="" youtube="ptnhAwxnYV4"/>
+		<Video pack="CoreLib" title="HowTo Use a Repeat Loop" length="3:00" thumbnail="" youtube="mXI5_VHFZ98"/>
+		<Video pack="CoreLib" title="HowTo Create Links between Nodes" length="1:45" youtube="A69NRQ19gRc"/>
+		<Video pack="CoreLib" title="HowTo Create a Comment" length="1:25" thumbnail="" youtube="-yBmFctV_fM"/>
+		<Video pack="CoreLib" title="HowTo Make a Node" length="3:55" thumbnail=""  youtube="wEziL9RTkMM"/>
+		<Video pack="CoreLib" title="HowTo Manage Items in a Spread" length="2:39" thumbnail=""  youtube="tiFLGTrDagc"/>
+		<Video pack="CoreLib" title="HowTo Use NuGets" length="4:26" thumbnail=""  youtube="-U_kUQ3VDog"/>
+		<Video pack="CoreLib" title="HowTo Export an Application" length="2:02" thumbnail=""  youtube="Pj1QVqM0QJA"/>
+  </Videos>
+  
 </Helpbrowser>
