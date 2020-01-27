@@ -27,6 +27,7 @@
 	<license type="free" url="https://vvvv.org/contribution/instance-noodles#about" />
 	<release version="0.6" >
 		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/InstanceNoodles_3.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
 	</release>
 </Pack>
 <Pack id="dx11.particles">
@@ -39,10 +40,12 @@
 	<release version="1.0.6" >
 		<item cpu="x64" url="https://vvvv.org/sites/default/files/uploads/dx11.particles_1.0.6_x64.zip" />
 		<item cpu="x86" url="https://vvvv.org/sites/default/files/dx11.particles_1.0.6_x86.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
 	</release>
 	<release version="1.0.5" >
 		<item cpu="x64" url="https://vvvv.org/sites/default/files/uploads/dx11.particles_1.0.5_x64.zip" />
 		<item cpu="x86" url="https://vvvv.org/sites/default/files/dx11.particles_1.0.5_x86.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
 	</release>
 </Pack>
 <Pack id="FieldTrip">
@@ -54,6 +57,7 @@
 	<license type="free" url="https://vvvv.org/contribution/fieldtrip#about" />
 	<release version="0.3" >
 		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/FieldTrip_0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
 	</release>
 </Pack>
 <Pack id="SuperPhysical">
@@ -64,6 +68,7 @@
 	<url>https://vvvv.org/contribution/superphysical</url>
 	<release version="3.0.0" >
 		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/SuperPhysical_0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
 	</release>
 </Pack>
 <Pack id="Happy.fxh">
@@ -75,6 +80,7 @@
 	<license type="free" url="https://vvvv.org/contribution/happy.fxh#about" />
 	<release version="3.0.0" >
 		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/Happy.fxh__0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
 	</release>
 </Pack>
 <Pack id="CraftLie">
@@ -85,6 +91,7 @@
 	<url>https://vvvv.org/contribution/craftlie-dx11-drawing-for-vl</url>
 	<release version="1.5.0" >
 		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/CraftLie.1.5.0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
 	</release>
 </Pack>
 </vvvv-beta-packs>
