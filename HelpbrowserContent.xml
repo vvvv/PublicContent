@@ -97,6 +97,9 @@ It's not a valid E-Mail Address.</IsNotEmail>
 	Links open in your browser:
 	</Subtitle>
 	<Chat title="Chat">
+		<Description>
+		Main chat in English, where patchers hang out 24/7 to help each other. Prefer a different language? Join one of these rooms: 
+		</Description>
 		<Rooms>
 			<Room title="Chat (EN)" link="https://riot.im/app/#/room/#vvvv:matrix.org"/>
 			<Room title="ES" link="https://riot.im/app/#/room/#vvvv-es:matrix.org"/>
