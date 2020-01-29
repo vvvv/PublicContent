@@ -1,0 +1,103 @@
+<vvvv-beta-packs>
+<Pack id="dx11">
+	<title>DirectX11 Nodes</title>
+	<author>vux</author>
+	<info>DirectX 11 Nodes pack</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/images/68747470733a2f2f7261772e6769746875622e636f6d2f6d727675782f647831312d767676762d6769726c706f7765722f6d61737465722f696d616765732f526561646d654865616465722e706e67.png</imageurl>
+	<url>https://vvvv.org/contribution/directx11-nodes</url>
+	<changelogurl>https://github.com/mrvux/dx11-vvvv/blob/master/CHANGELOG.md</changelogurl>
+	<license type="donation" url="https://www.patreon.com/mrvux" />
+	<release version="1.3.1" >
+		<minbetaVersion>33.7</minbetaVersion>
+		<item cpu="x64" url="https://vvvv.org/sites/default/files/uploads/vvvv-packs-dx11-1.3.1.x64.zip" />
+		<item cpu="x86" url="https://vvvv.org/sites/default/files/vvvv-packs-dx11-x86-1.3.1.zip" />
+	</release>		
+	<release version="1.3" >
+		<minbetaVersion>33.7</minbetaVersion>
+		<item cpu="x64" url="https://vvvv.org/sites/default/files/uploads/vvvv-packs-dx11-1.3-x64.zip" />
+		<item cpu="x86" url="https://vvvv.org/sites/default/files/vvvv-packs-dx11-1.3-x86.zip" />
+	</release>	
+</Pack>
+<Pack id="InstanceNoodles">
+	<title>Instance Noodles</title>
+	<author>everyoneishappy</author>
+	<info>A modular patching system for Compute and Geometry shaders in DX11</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/Fresh_ramen_noodle_001.jpg</imageurl>
+	<url>https://vvvv.org/contribution/instance-noodles</url>
+	<license type="free" url="https://vvvv.org/contribution/instance-noodles#about" />
+	<release version="0.6" >
+		<minbetaVersion>35.7</minbetaVersion>
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/InstanceNoodles_3.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+		<dependency id="happy.fxh" minversion="3.0.0" />
+	</release>
+</Pack>
+<Pack id="dx11.particles">
+	<title>DX11.Particles</title>
+	<author>tmp</author>
+	<info>A comprehensive particle library that also supports kinect 1 and kinect 2</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/particleslogo.png</imageurl>
+	<url>https://vvvv.org/contribution/dx11.particles</url>
+	<changelogurl>https://github.com/letmp/dx11-particles/blob/master/CHANGELOG.md</changelogurl>
+	<license type="commercial" url="https://vvvv.org/contribution/dx11.particles#license" />
+	<release version="1.0.6" >
+		<item cpu="x64" url="https://vvvv.org/sites/default/files/uploads/dx11.particles_1.0.6_x64.zip" />
+		<item cpu="x86" url="https://vvvv.org/sites/default/files/dx11.particles_1.0.6_x86.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+	</release>
+	<release version="1.0.5" >
+		<item cpu="x64" url="https://vvvv.org/sites/default/files/uploads/dx11.particles_1.0.5_x64.zip" />
+		<item cpu="x86" url="https://vvvv.org/sites/default/files/dx11.particles_1.0.5_x86.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+	</release>
+</Pack>
+<Pack id="FieldTrip">
+	<title>FieldTrip</title>
+	<author>everyoneishappy</author>
+	<info>A pack for working with 2D and 3D scalar and vector fields</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/1895-ill3-1024x586.jpg</imageurl>
+	<url>https://vvvv.org/contribution/fieldtrip</url>
+	<license type="free" url="https://vvvv.org/contribution/fieldtrip#about" />
+	<release version="0.3" >
+		<minbetaVersion>35.7</minbetaVersion>
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/FieldTrip_0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+		<dependency id="happy.fxh" minversion="3.0.0" />
+		<dependency id="InstanceNoodles" minversion="0.6" />
+	</release>
+</Pack>
+<Pack id="SuperPhysical">
+	<title>SuperPhysical</title>
+	<author>mburk</author>
+	<info>Physically based rendering: Materials, Mutliple Lights, Shadows</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/SuperPhysical_0.png</imageurl>
+	<url>https://vvvv.org/contribution/superphysical</url>
+	<release version="3.0.0" >
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/SuperPhysical_0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+	</release>
+</Pack>
+<Pack id="Happy.fxh">
+	<title>Happy.fxh</title>
+	<author>everyoneishappy</author>
+	<info>Lots of HLSL functions in a (somewhat) systematic and organised collection of header files.</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/121217-Potato-Head.png</imageurl>
+	<url>https://vvvv.org/contribution/happy.fxh</url>
+	<license type="free" url="https://vvvv.org/contribution/happy.fxh#about" />
+	<release version="3.0.0" >
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/Happy.fxh__0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+	</release>
+</Pack>
+<Pack id="CraftLie">
+	<title>CraftLie</title>
+	<author>tonfilm</author>
+	<info>A lightweight DX11 fake drawing system for VL.</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/01_Overview-Renderer_2017.06.16-19.47.45.png</imageurl>
+	<url>https://vvvv.org/contribution/craftlie-dx11-drawing-for-vl</url>
+	<release version="1.5.0" >
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/CraftLie.1.5.0.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+	</release>
+</Pack>
+</vvvv-beta-packs>

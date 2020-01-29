@@ -1,0 +1,37 @@
+<vvvv-beta-packs>
+<Pack id="SceneGraph">
+	<title>SceneGraph</title>
+	<author>woei</author>
+	<info>Convenient handling of complex 3d scenes (DX11 and EX9)</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/DemoSnap.PNG</imageurl>
+	<url>https://vvvv.org/contribution/scenegraph</url>
+	<license type="commercial" url="https://vvvv.org/contribution/scenegraph#license" />
+	<release version="2.0.0" >
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/SceneGraph_v2.0.zip" />
+	</release>
+</Pack>
+<Pack id="dope">
+	<title>d.o.p.e.</title>
+	<author>digitalwannabe</author>
+	<info>Shape-aware blend weight computation for 2D/3D meshes</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/_30.10.2016-04.07.17.gif</imageurl>
+	<url>https://vvvv.org/contribution/d.o.p.e.</url>
+	<license type="free" url="https://vvvv.org/contribution/d.o.p.e.#licenses" />
+	<release version="1.2.0" >
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/dopePACK_v1.2_AnyCPU_beta50.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+	</release>
+</Pack>
+<Pack id="ParaLib">
+	<title>ParaLib</title>
+	<author>lasal</author>
+	<info>Library for Algorithmic modelling and mesh unroll in vl and vvvv</info>
+	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/ParaLib.png</imageurl>
+	<url>https://vvvv.org/contribution/paralib</url>
+	<release version="0.2.1" >
+		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/ParaLib1.0.2.1.zip" />
+		<dependency id="dx11" minversion="1.3.1" />
+		<dependency id="InstanceNoodles" minversion="0.6" />
+	</release>
+</Pack>
+</vvvv-beta-packs>
