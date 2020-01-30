@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AddonSources>
-	<PackCategory name="Rendering" url="https://raw.githubusercontent.com/vvvv/PublicContent/master/RenderingPacks.xml" />
-	<PackCategory name="Geometry" url="https://raw.githubusercontent.com/vvvv/PublicContent/master/GeometryPacks.xml" />
-	<PackCategory name="Audio" url="https://raw.githubusercontent.com/vvvv/PublicContent/master/AudioPacks.xml" />
-</AddonSources>
+<Categories>
+	<Category name="Rendering" url="https://raw.githubusercontent.com/vvvv/PublicContent/master/RenderingPacks.xml" />
+	<Category name="Geometry" url="https://raw.githubusercontent.com/vvvv/PublicContent/master/GeometryPacks.xml" />
+	<Category name="Audio" url="https://raw.githubusercontent.com/vvvv/PublicContent/master/AudioPacks.xml" />
+</Categories>
