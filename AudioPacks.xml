@@ -1,13 +1,14 @@
-<vvvv-beta-packs>
+<?xml version="1.0" encoding="utf-8"?>
+<Category>
 <Pack id="VAudio">
-	<title>VVVV.Audio Pack Alpha</title>
-	<author>tonfilm</author>
-	<changelogurl>https://vvvv.org/contribution/vvvv.audio-pack-alpha#change-log</changelogurl>
-	<info>Audio engine supporting low latency ASIO sound cards</info>
-	<imageurl>https://vvvv.org/sites/default/files/imagecache/large/images/0_2013.12.26-01.39.04.png</imageurl>
-	<url>https://vvvv.org/contribution/vvvv.audio-pack-alpha</url>
-	<release version="18.0.0" >
-		<item cpu="any" url="https://vvvv.org/sites/default/files/uploads/VVVV.Audio_AnyCPU_V18.zip" />
-	</release>
+	<Title>VVVV.Audio Pack Alpha</Title>
+	<Author>tonfilm</Author>
+	<ChangelogUrl>https://vvvv.org/contribution/vvvv.audio-pack-alpha#change-log</ChangelogUrl>
+	<Info>Audio engine supporting low latency ASIO sound cards</Info>
+	<ImageUrl>https://vvvv.org/sites/default/files/imagecache/large/images/0_2013.12.26-01.39.04.png</ImageUrl>
+	<WebsiteUrl>https://vvvv.org/contribution/vvvv.audio-pack-alpha</WebsiteUrl>
+	<Release version="18.0.0" >
+		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/VVVV.Audio_AnyCPU_V18.zip" />
+	</Release>
 </Pack>
-</vvvv-beta-packs>
+</Category>
