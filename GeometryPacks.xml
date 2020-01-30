@@ -20,7 +20,7 @@
 	<License type="free" url="https://vvvv.org/contribution/d.o.p.e.#licenses" />
 	<Release version="1.2.0" >
 		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/dopePACK_v1.2_AnyCPU_beta50.zip" />
-		<Dependency id="dx11" minversion="1.3.1" />
+		<Dependency id="dx11" minVersion="1.3.1" />
 	</Release>
 </Pack>
 <Pack id="ParaLib">
@@ -32,7 +32,7 @@
 	<Release version="0.2.1" >
 		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/ParaLib1.0.2.1.zip" />
 		<Dependency id="dx11" minversion="1.3.1" />
-		<Dependency id="InstanceNoodles" minversion="0.6" />
+		<Dependency id="InstanceNoodles" minVersion="0.6" />
 	</Release>
 </Pack>
 </Category>
