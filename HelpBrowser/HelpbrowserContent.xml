@@ -2,7 +2,7 @@
 <Helpbrowser>
   <Documentation>
 	<GettingStarted>
-		<Boxes title="The Documentation">
+		<Boxes headline="The Documentation">
 			<Box title="Tutorial Videos" link="Learn/Tutorials" image="eye.png">
 				<Description>Beginners start here: Get a feeling for working with vvvv.</Description>
 			</Box>
@@ -16,7 +16,7 @@
 				<Description>The bigger picture: Providing background and context.</Description>
 			</Box>
 		</Boxes>
-		<Tutorials title="Tutorial Videos" seeMoreLink="Learn/Tutorials">
+		<Tutorials headline="Tutorial Videos" seeMoreLink="Learn/Tutorials">
 		  <Tutorial title="Draw a Shiny Happy Smiler" link="https://youtu.be/qthuMpWDu0g" length="5:36 min" thumbnail="Tutorials-Emoji.png">
 			<Description></Description>
 		  </Tutorial>
@@ -27,7 +27,7 @@
 			<Description></Description>
 		  </Tutorial>
 		</Tutorials>
-		<Examples title="Example Patches" seeMoreLink="Learn/HowTo">
+		<Examples headline="Example Patches" seeMoreLink="Learn/HowTo">
 		  <Example title="Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="Skia/RepellingCircles.vl">
 			<Description>Interactive circle packing</Description>
 		  </Example>
@@ -38,8 +38,7 @@
 			<Description>Simple particle system</Description>
 		  </Example>
 		</Examples>
-		<Newsletter>
-			<Headline>Sign up for our Newsletter</Headline>
+		<Newsletter headline="Sign up for our Newsletter">
 			<Description>Signing up will give you peace of mind to not miss any happenings around vvvv. Typically one mail per month.</Description>
 			<IsNotEmail>Ouch.
 It's not a valid E-Mail Address.</IsNotEmail>
