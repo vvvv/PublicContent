@@ -27,7 +27,7 @@
 			<Description></Description>
 		  </Tutorial>
 		</Tutorials>
-		<Examples headline="Example Patches" seeMoreLink="Learn/HowTo">
+		<Examples headline="Example Patches" seeMoreLink="Learn/Examples">
 		  <Example title="Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="Skia/RepellingCircles.vl">
 			<Description>Interactive circle packing</Description>
 		  </Example>
