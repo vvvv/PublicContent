@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Versions>
-	<Version number="2019.2.0-0193" website="https://vvvv.org/blog/vvvv-gamma-2019.2-preview#download">
-		<Items>
-			<Item key="Shortcuts" value="https://raw.githubusercontent.com/vvvv/The-Gray-Book/519e14cb78dbbc49bbe9a998b14147f41b22a0a0/en/reference/hde/patching.adoc"/>
-		</Items>
-	</Version>
-		<Version number="2019.2.0" website="https://vvvv.org/blog/vvvv-gamma-2019.2-preview#download">
-		<Items>
-			<Item key="Shortcuts" value="https://raw.githubusercontent.com/vvvv/The-Gray-Book/519e14cb78dbbc49bbe9a998b14147f41b22a0a0/en/reference/hde/patching.adoc"/>
-		</Items>
-	</Version>
+	<Version number="2019.2.0-0236" website="https://vvvv.org/blog/vvvv-gamma-2019.2-preview#download" />
+	<Version number="2019.2.0-0211" website="https://vvvv.org/blog/vvvv-gamma-2019.2-preview#download" />
 </Versions>
