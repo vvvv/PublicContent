@@ -27,14 +27,14 @@
 			<Description></Description>
 		  </Tutorial>
 		</Tutorials>
-		<Examples headline="Example Patches" seeMoreLink="Learn/HowTo">
-		  <Example title="Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="Skia/RepellingCircles.vl">
+		<Examples headline="Example Patches" seeMoreLink="Learn/Examples">
+		  <Example title="Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="Skia/Example Repelling Circles.vl">
 			<Description>Interactive circle packing</Description>
 		  </Example>
-		  <Example title="Branching" thumbnail="Examples-Branching2.png" link="Skia/Branching.vl">
+		  <Example title="Branching" thumbnail="Examples-Branching2.png" link="Skia/Example Branching.vl">
 			<Description>Interactive tree pattern</Description>
 		  </Example>
-		  <Example title="Spray" thumbnail="Examples-Spray.png" link="Skia/Skia-Spray.vl">
+		  <Example title="Spray" thumbnail="Examples-Spray.png" link="Skia/Example Spray.vl">
 			<Description>Simple particle system</Description>
 		  </Example>
 		</Examples>
