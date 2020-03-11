@@ -100,17 +100,4 @@ It's not a valid E-Mail Address.</IsNotEmail>
 		<Description>Packages on the .NET package managing platform NuGet tagged with "VL"</Description>
 	</Connection>
   </Connect>
-
-  <Videos>
-	<Video pack="CoreLib" title="HowTo Use a ForEach Loop" length="7:55" thumbnail="" youtube="ptnhAwxnYV4"/>
-	<Video pack="CoreLib" title="HowTo Use a Repeat Loop" length="3:00" thumbnail="" youtube="mXI5_VHFZ98"/>
-	<Video pack="CoreLib" title="HowTo Use an Accumulator" length="2:32" thumbnail="" youtube="ZOVOBxHHP00"/>	  
-	<Video pack="CoreLib" title="HowTo Create Links between Nodes" length="1:45" youtube="A69NRQ19gRc"/>
-	<Video pack="CoreLib" title="HowTo Create a Comment" length="1:25" thumbnail="" youtube="-yBmFctV_fM"/>
-	<Video pack="CoreLib" title="HowTo Make a Node" length="3:55" thumbnail=""  youtube="wEziL9RTkMM"/>
-	<Video pack="CoreLib" title="HowTo Manage Items in a Spread" length="2:39" thumbnail=""  youtube="tiFLGTrDagc"/>
-	<Video pack="CoreLib" title="HowTo Manage Items in a Dictionary" length="3:52" thumbnail=""  youtube="KDMqj3TognI"/>
-	<Video pack="CoreLib" title="HowTo Use NuGets" length="4:26" thumbnail=""  youtube="-U_kUQ3VDog"/>
-	<Video pack="CoreLib" title="HowTo Export an Application" length="2:02" thumbnail=""  youtube="Pj1QVqM0QJA"/>
-  </Videos>
 </Helpbrowser>
