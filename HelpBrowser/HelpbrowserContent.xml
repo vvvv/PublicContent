@@ -17,7 +17,10 @@
 			</Box>
 		</Boxes>
 		<Tutorials headline="Tutorial Videos" seeMoreLink="Learn/Tutorials">
-		  <Tutorial title="Draw a Shiny Happy Smiler" link="https://youtu.be/qthuMpWDu0g" length="5:36 min" thumbnail="Tutorials-Emoji.png">
+		  <Tutorial title="First Contact" link="https://youtu.be/JkCvVja4YlY" length="3:23 min" thumbnail="Tutorials-FirstContact.png">
+			<Description></Description>
+		  </Tutorial>	
+		  <Tutorial title="First Steps" link="https://youtu.be/eFVFKxhsrS8" length="9:29 min" thumbnail="Tutorials-FirstSteps.png">
 			<Description></Description>
 		  </Tutorial>
 		  <Tutorial title="Randomwalk them Circles" link="https://youtu.be/rxN-9GR4GjI" length="7:49 min" thumbnail="Tutorials-Randomwalk.png">
