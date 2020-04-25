@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<News>
+	<Item postedOn="22.04.20" link="https://vvvv.org/blog/beta39.1-release-candidate" mediaType="text" thumbnail="">
+		<Title>Beta39.1 Release Candidate</Title>
+	</Item>
+	<Item postedOn="19.04.20" link="https://medias.ircam.fr/xcc0abe" mediaType="video">
+		<Title>vvvv at Ircam Forum: Talk Recording</Title>
+	</Item>
+	<Item postedOn="03.04.20" link="https://vvvv.org/blog/2-vvorldvvide-meetup-call-for-presenters" mediaType="video">
+		<Title>#2 vvorldvvide Meetup - Call for presenters!</Title>
+	</Item>
+</News>
