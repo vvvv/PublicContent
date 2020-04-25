@@ -3,27 +3,27 @@
   <Documentation>
 	<GettingStarted>
 		<Tutorials headline="Tutorial Videos" seeMoreLink="Learn/Tutorials">
-		  <Tutorial title="First Contact" link="https://youtu.be/JkCvVja4YlY" length="3:23 min" thumbnail="https://github.com/vvvv/PublicContent/blob/master/HelpBrowser/img/Tutorials-FirstContact.png">
+		  <Tutorial title="First Contact" link="https://youtu.be/JkCvVja4YlY" length="3:23 min" thumbnail="Tutorials-FirstContact.png">
 			<Description></Description>
 		  </Tutorial>	
-		  <Tutorial title="First Steps" link="https://youtu.be/eFVFKxhsrS8" length="9:29 min" thumbnail="https://github.com/vvvv/PublicContent/blob/master/HelpBrowser/img/Tutorials-FirstSteps.png">
+		  <Tutorial title="First Steps" link="https://youtu.be/eFVFKxhsrS8" length="9:29 min" thumbnail="Tutorials-FirstSteps.png">
 			<Description></Description>
 		  </Tutorial>
-		  <Tutorial title="Randomwalk them Circles" link="https://youtu.be/rxN-9GR4GjI" length="7:49 min" thumbnail="https://github.com/vvvv/PublicContent/blob/master/HelpBrowser/img/Tutorials-Randomwalk.png">
+		  <Tutorial title="Randomwalk them Circles" link="https://youtu.be/rxN-9GR4GjI" length="7:49 min" thumbnail="Tutorials-Randomwalk.png">
 			<Description></Description>
 		  </Tutorial>
-		  <Tutorial title="Playing with Truchet Tiles" link="https://youtu.be/fjLn0qdXD-w" length="14:33 min" thumbnail="https://github.com/vvvv/PublicContent/blob/master/HelpBrowser/img/Tutorials-Truchet.png">
+		  <Tutorial title="Playing with Truchet Tiles" link="https://youtu.be/fjLn0qdXD-w" length="14:33 min" thumbnail="Tutorials-Truchet.png">
 			<Description></Description>
 		  </Tutorial>
 		</Tutorials>
 		<Examples headline="Example Patches" seeMoreLink="Learn/Examples">
-		  <Example title="Repelling Circles" thumbnail="https://github.com/vvvv/PublicContent/blob/master/HelpBrowser/img/Examples-RepellingCircles.png" link="VL.Skia/Example Repelling Circles.vl">
+		  <Example title="Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="VL.Skia/Example Repelling Circles.vl">
 			<Description>Interactive circle packing</Description>
 		  </Example>
-		  <Example title="Branching" thumbnail="https://github.com/vvvv/PublicContent/blob/master/HelpBrowser/img/Examples-Branching.png" link="VL.Skia/Example Branching.vl">
+		  <Example title="Branching" thumbnail="Examples-Branching2.png" link="VL.Skia/Example Branching.vl">
 			<Description>Interactive tree pattern</Description>
 		  </Example>
-		  <Example title="Spray" thumbnail="https://github.com/vvvv/PublicContent/blob/master/HelpBrowser/img/Examples-Spray.png" link="VL.Skia/Example Spray.vl">
+		  <Example title="Spray" thumbnail="Examples-Spray.png" link="VL.Skia/Example Spray.vl">
 			<Description>Simple particle system</Description>
 		  </Example>
 		</Examples>
@@ -82,7 +82,7 @@ It's not a valid E-Mail Address.</IsNotEmail>
 	<Connection title="YouTube" link="https://www.youtube.com/channel/UCu-xqv-TLwv6L0An7MJJA5A">
 		<Description>Tutorials, HowTo Videos, vvvv Meetup Live Streams and more</Description>
 	</Connection>
-	<Connection title="GitHub" link="https://github.com/topics/vl">
+	<Connection title="GitHub" link="https://github.com//topics/vl">
 		<Description>Projects on the developers platform GitHub tagged with "VL"</Description>
 	</Connection>
 	<Connection title="NuGet" link="https://www.nuget.org/packages?q=vl">
