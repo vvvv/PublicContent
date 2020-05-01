@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE ROOT PUBLIC "" ""[]>
 <Helpbrowser>
   <Documentation>
     <GettingStarted>
-      <Tutorials headline="Tutorial Videos" seeMoreLink="Learn/Tutorials">
+      <Tutorials headline="Tutorial Videos" seeMoreLink="Learn/Documentation?Tutorial">
         <Tutorial title="First Contact" link="https://youtu.be/JkCvVja4YlY" length="3:23 min" thumbnail="Tutorials-FirstContact.png" mediaType="video">
           <Description></Description>
         </Tutorial>
@@ -17,7 +17,7 @@
           <Description></Description>
         </Tutorial>
       </Tutorials>
-      <Examples headline="Example Patches" seeMoreLink="Learn/Examples">
+      <Examples headline="Example Patches" seeMoreLink="Learn/Documentation?Example">
         <Example title="Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="VL.Skia/Example Repelling Circles.vl" mediaType="vl">
           <Description>Interactive circle packing</Description>
         </Example>
