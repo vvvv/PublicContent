@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="01.05.20" link="https://vvvv.org/blog/vvvv-gamma-webinars-in-may" mediaType="text" thumbnail="">
+	<Item postedOn="05.05.20" link="https://vvvv.org/blog/vvvv-gamma-webinars-in-may" mediaType="text" thumbnail="">
 		<Title>vvvv gamma webinars in May</Title>
+	</Item>
+	<Item postedOn="05.05.20" link="https://therapy.domj.net/" mediaType="text" thumbnail="">
+		<Title>Join Midweek Patch Therapy with domj</Title>
 	</Item>
 	<Item postedOn="05.05.20" link="https://vvvv.org/blog/vvvvhat-happened-in-april-2020" mediaType="text">
 		<Title>vvvvhat happened in April</Title>
@@ -10,7 +13,7 @@
 		<Title>vvvv beta39.1 bugfix release is out!</Title>
 	</Item>
 	<Item postedOn="19.04.20" link="https://youtu.be/SG65AaOksFk" mediaType="video">
-		<Title>vvvv was at Ircam Forum 2020: Watch the talk</Title>
+		<Title>Ircam Forum 2020: Watch the vvvv talk</Title>
 	</Item>
 	<Item postedOn="06.04.20" link="https://vvvv.org/blog/need-a-vvvv-specialist" mediaType="text">
 		<Title>Need a vvvv specialist?</Title>
