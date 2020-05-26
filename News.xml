@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="27.05.20" link="https://youtu.be/pa3HRQ7kj6w" mediaType="text" thumbnail="">
+	<Item postedOn="27.05.20" link="https://youtu.be/pa3HRQ7kj6w" mediaType="video" thumbnail="">
 		<Title>Watch the recording of the 3rd vvorldvvide meetup</Title>
 	</Item>
 	<Item postedOn="26.05.20" link="https://vvvv.org/blog/vvvv-gamma-2020.1.2-release" mediaType="text" thumbnail="">
