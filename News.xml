@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="05.05.20" link="https://vvvv.org/blog/vvvv-gamma-webinars-in-may" mediaType="text" thumbnail="">
-		<Title>vvvv gamma Webinars in May</Title>
+	<Item postedOn="27.05.20" link="https://youtu.be/pa3HRQ7kj6w" mediaType="text" thumbnail="">
+		<Title>Watch the recording of the 3rd vvorldvvide meetup</Title>
+	</Item>
+	<Item postedOn="26.05.20" link="https://vvvv.org/blog/vvvv-gamma-2020.1.2-release" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 2020.1.2 is out!</Title>
 	</Item>
 	<Item postedOn="05.05.20" link="https://therapy.domj.net/" mediaType="text" thumbnail="">
 		<Title>Join Midweek Patch Therapy with domj</Title>
