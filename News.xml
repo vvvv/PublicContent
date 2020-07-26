@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="26.07.20" link="https://vvvv.org/blog/5.-worldwide-vvvv-meetup" mediaType="text" thumbnail="">
+		<Title>Coming up: The 5th vvorldvvide meetup on July 28, 8pm CET</Title>
+	</Item>
+	<Item postedOn="26.07.20" link="http://20.nodeforum.org/" mediaType="text" thumbnail="">
+		<Title>Coming up: NODE20 Second Nature: October 2nd - 8th</Title>
+	</Item>
 	<Item postedOn="07.07.20" link="https://vvvv.org/blog/vvvv-gamma-2020.1.7-release" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 2020.1.7 is out!</Title>
 	</Item>
@@ -8,9 +14,6 @@
 	</Item>
 	<Item postedOn="07.07.20" link="https://vvvv.org/blog/vvvvhat-happened-in-june-2020" mediaType="text">
 		<Title>vvvvhat happened in June</Title>
-	</Item>
-	<Item postedOn="24.06.20" link="https://youtu.be/i0zd68tDUVE" mediaType="video" thumbnail="">
-		<Title>Watch the recording of the 4th vvorldvvide meetup</Title>
 	</Item>
 	<Item postedOn="05.05.20" link="https://therapy.domj.net/" mediaType="text" thumbnail="">
 		<Title>Join Midweek Patch Therapy with domj</Title>
