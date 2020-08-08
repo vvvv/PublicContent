@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="8.08.20" link="https://vvvv.org/blog/vl.stride-earlyaccess-available-now" mediaType="text" thumbnail="">
+		<Title>VL.Stride EarlyAccess available now!</Title>
+	</Item>
 	<Item postedOn="6.08.20" link="https://vvvv.org/blog/5.-worldwide-vvvv-meetup" mediaType="text" thumbnail="">
 		<Title>Rewatch the 5th vvorldvvide meetup</Title>
 	</Item>
@@ -17,9 +20,6 @@
 	</Item>
 	<Item postedOn="05.05.20" link="https://therapy.domj.net/" mediaType="text" thumbnail="">
 		<Title>Join Midweek Patch Therapy with domj</Title>
-	</Item>
-	<Item postedOn="19.04.20" link="https://youtu.be/SG65AaOksFk" mediaType="video">
-		<Title>Ircam Forum 2020: Watch the vvvv talk</Title>
 	</Item>
 	<Item postedOn="06.04.20" link="https://vvvv.org/blog/need-a-vvvv-specialist" mediaType="text">
 		<Title>Need a vvvv specialist?</Title>
