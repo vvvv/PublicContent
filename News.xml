@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="08.09.20" link="https://20.nodeforum.org/program/workshops" mediaType="text">
+		<Title>Visit 25+ vvvv workshops for only 50€ at NODE20</Title>
+	</Item>
+	<Item postedOn="08.09.20" link="https://vvvv.org/blog/vvvvhat-happened-in-august-2020" mediaType="text">
+		<Title>vvvvhat happened in August</Title>
+	</Item>
 	<Item postedOn="08.08.20" link="https://vvvv.org/blog/vl.stride-earlyaccess-available-now" mediaType="text" thumbnail="">
 		<Title>VL.Stride EarlyAccess available now!</Title>
-	</Item>
-	<Item postedOn="08.08.20" link="https://vvvv.org/blog/vvvvhat-happened-in-july-2020" mediaType="text">
-		<Title>vvvvhat happened in July</Title>
 	</Item>
 	<Item postedOn="26.07.20" link="http://20.nodeforum.org/" mediaType="text" thumbnail="">
 		<Title>Coming up: NODE20 Second Nature: October 2nd - 8th</Title>
