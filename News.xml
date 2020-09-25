@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="25.09.20" link="https://vvvv.org/blog/vvvv-gamma-2020.2.0-release" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 2020.2.0 is out!</Title>
+	</Item>
 	<Item postedOn="08.09.20" link="https://20.nodeforum.org/program/workshops" mediaType="text">
 		<Title>Visit 25+ vvvv workshops for only 50€ at NODE20</Title>
 	</Item>
@@ -8,9 +11,6 @@
 	</Item>
 	<Item postedOn="08.08.20" link="https://vvvv.org/blog/vl.stride-earlyaccess-available-now" mediaType="text" thumbnail="">
 		<Title>VL.Stride EarlyAccess available now!</Title>
-	</Item>
-	<Item postedOn="07.07.20" link="https://vvvv.org/blog/vvvv-gamma-2020.1.7-release" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 2020.1.7 is out!</Title>
 	</Item>
 	<Item postedOn="07.07.20" link="https://vvvv.org/blog/vvvv50beta40" mediaType="text">
 		<Title>vvvv beta40 is out!</Title>
