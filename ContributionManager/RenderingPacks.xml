@@ -107,7 +107,7 @@
 	<Info>Spout Sender/Receiver for DX11</Info>
 	<WebsiteUrl>https://vvvv.org/contribution/spout-dx11</WebsiteUrl>
 	<ImageUrl>https://vvvv.org/sites/default/files/imagecache/large/01_Overview-Renderer_2017.06.16-19.47.45.png</ImageUrl>
-	<Release version="1.5.0" >
+	<Release version="1.0.0" >
 		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/dx11-Spout.zip" />
 		<Dependency id="dx11" minVersion="1.3.1" />
 	</Release>
