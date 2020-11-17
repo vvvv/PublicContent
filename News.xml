@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+        <Item postedOn="17.11.20" link="https://vvvv.org/blog/vvvv-gamma-2020.2.0-release" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 2020.2.3 stable is out!</Title>
+	</Item>
 	<Item postedOn="13.11.20" link="https://vvvv.org/blog/vvvvhat-happened-in-october-2020" mediaType="text" thumbnail="">
 		<Title>Here is what happened in September and October</Title>
 	</Item>
 	<Item postedOn="13.11.20" link="https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/" mediaType="text" thumbnail="">
 		<Title>Watch the 30 vvvv workshops from NODE20 for only 50€</Title>
-	</Item>
-	<Item postedOn="02.10.20" link="https://vvvv.org/blog/vvvv-gamma-2020.2.0-release" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 2020.2.2 stable is out!</Title>
 	</Item>
 	<Item postedOn="01.10.20" link="https://vvvv.org/blog/vl.stride-for-evvvveryone" mediaType="text" thumbnail="">
 		<Title>VL.Stride 3d engine available as preview!</Title>
