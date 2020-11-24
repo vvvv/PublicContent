@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-        <Item postedOn="17.11.20" link="https://vvvv.org/blog/vvvv-gamma-2020.2.0-release" mediaType="text" thumbnail="">
+        <Item postedOn="25.11.20" link="https://youtu.be/LzqaoN7QCSg" mediaType="video" thumbnail="">
+		<Title>Rewatch the last meetup!</Title>
+	</Item>
+	<Item postedOn="17.11.20" link="https://vvvv.org/blog/vvvv-gamma-2020.2.0-release" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 2020.2.3 stable is out!</Title>
 	</Item>
 	<Item postedOn="13.11.20" link="https://vvvv.org/blog/vvvvhat-happened-in-october-2020" mediaType="text" thumbnail="">
