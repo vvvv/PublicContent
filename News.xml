@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="9.12.20" link="https://vvvv.org/blog/fuse-vl.stride-gpu-tools-presentation" mediaType="text" thumbnail="">
+	<Item postedOn="09.12.20" link="https://vvvv.org/blog/fuse-vl.stride-gpu-tools-presentation" mediaType="text" thumbnail="">
 		<Title>FUSE - GPU tools and libraries for VL.Stride</Title>
 	</Item>
-        <Item postedOn="4.12.20" link="https://vvvv.org/blog/vvvvhat-happened-in-november-2020" mediaType="text" thumbnail="">
+        <Item postedOn="04.12.20" link="https://vvvv.org/blog/vvvvhat-happened-in-november-2020" mediaType="text" thumbnail="">
 		<Title>Here is what happened in November</Title>
 	</Item>
 	<Item postedOn="25.11.20" link="https://thegraybook.vvvv.org/changelog/2020.2.html" mediaType="text" thumbnail="">
