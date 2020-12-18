@@ -24,8 +24,8 @@
         <Example title="2D: Branching" thumbnail="Examples-Branching2.png" link="VL.Skia/Example Branching.vl" mediaType="vl">
           <Description>Interactive tree pattern</Description>
         </Example>
-        <Example title="2D: Spray" thumbnail="Examples-Spray.png" link="VL.Skia/Example Spray.vl" mediaType="vl">
-          <Description>Simple particle system</Description>
+        <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
+          <Description>Shadows for free</Description>
         </Example>
       </Examples>
       <Newsletter headline="Sign up for our Newsletter">
