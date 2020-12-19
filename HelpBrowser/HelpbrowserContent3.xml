@@ -42,14 +42,14 @@ It's not a valid E-Mail Address.</IsNotEmail>
     <Chat title="Chat">
       <Description>Main chat in English, where patchers hang out 24/7 to help each other. Prefer a different language? Join one of these rooms:</Description>
       <Rooms>
-        <Room title="Chat (EN)" link="https://riot.im/app/#/room/#vvvv:matrix.org" />
-        <Room title="ES" link="https://riot.im/app/#/room/#vvvv-es:matrix.org" />
-        <Room title="DE" link="https://riot.im/app/#/room/#vvvv-de:matrix.org" />
-        <Room title="FR" link="https://riot.im/app/#/room/#vvvv-fr:matrix.org" />
-        <Room title="JP" link="https://riot.im/app/#/room/#vvvv-jp:matrix.org" />
-        <Room title="RU" link="https://riot.im/app/#/room/#vvvv-ru:matrix.org" />
-        <Room title="FARSI" link="https://riot.im/app/#/room/#vvvv-farsi:matrix.org" />
-        <Room title="HU" link="https://riot.im/app/#/room/#vvvv-hu:matrix.org" />
+        <Room title="Chat (EN)" link="https://app.element.io/#/room/#vvvv:matrix.org" />
+        <Room title="ES" link="https://app.element.io/#/room/#vvvv-es:matrix.org" />
+        <Room title="DE" link="https://app.element.io/#/room/#vvvv-de:matrix.org" />
+        <Room title="FR" link="https://app.element.io/#/room/#vvvv-fr:matrix.org" />
+        <Room title="JP" link="https://app.element.io/#/room/#vvvv-jp:matrix.org" />
+        <Room title="RU" link="https://app.element.io/#/room/#vvvv-ru:matrix.org" />
+        <Room title="FARSI" link="https://app.element.io/#/room/#vvvv-farsi:matrix.org" />
+        <Room title="HU" link="https://app.element.io/#/room/#vvvv-hu:matrix.org" />
       </Rooms>
     </Chat>
     <Connection title="Forum" link="https://discourse.vvvv.org/c/vvvv-gamma">
