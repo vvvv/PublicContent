@@ -27,6 +27,9 @@
         <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
           <Description>Shadows for free</Description>
         </Example>
+		<Example title="3D: Worldcities" thumbnail="Examples-Worldcities.png" link="VL.Stride/Example Worldcities.vl" mediaType="vl">
+          <Description>25k cities with instancing</Description>
+        </Example>
       </Examples>
       <Newsletter headline="Sign up for our Newsletter">
         <Description>Signing up will give you peace of mind to not miss any happenings around vvvv. Typically one mail per month.</Description>
