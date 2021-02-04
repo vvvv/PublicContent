@@ -24,10 +24,10 @@
         <Example title="2D: Branching" thumbnail="Examples-Branching2.png" link="VL.Skia/Example Branching.vl" mediaType="vl">
           <Description>Interactive tree pattern</Description>
         </Example>
-        <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
+        <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride.Runtime/Example Rings.vl" mediaType="vl">
           <Description>Shadows for free</Description>
         </Example>
-		<Example title="3D: Worldcities" thumbnail="Examples-Worldcities.png" link="VL.Stride/Example Worldcities.vl" mediaType="vl">
+		<Example title="3D: Worldcities" thumbnail="Examples-Worldcities.png" link="VL.Stride.Runtime/Example Worldcities.vl" mediaType="vl">
           <Description>25k cities with instancing</Description>
         </Example>
       </Examples>
