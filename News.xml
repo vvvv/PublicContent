@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	
+	<Item postedOn="06.02.21" link="https://vvvv.org/blog/vvvvhat-happened-in-january-2021" mediaType="text" thumbnail="">
+		<Title>Here is what happened in January</Title>
+	</Item>
+	<Item postedOn="01.02.21" link="https://vvvv.org/blog/vvvv-gamma-2021.3-release-candidate" mediaType="text" thumbnail="">
+		<Title>We have a candidate for 2021.3</Title>
+	</Item>	
 	<Item postedOn="27.01.20" link="https://youtu.be/6QogLkSX5GE" mediaType="video" thumbnail="">
 		<Title>Rewatch the last meetup!</Title>
-	</Item>
-	<Item postedOn="08.01.21" link="https://thegraybook.vvvv.org/changelog/2020.2.html" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 2020.2.5 stable is out!</Title>
-	</Item>
-	<Item postedOn="06.02.21" link="https://vvvv.org/blog/vvvvhat-happened-in-december-2020" mediaType="text" thumbnail="">
-		<Title>Here is what happened in December</Title>
 	</Item>
 	<Item postedOn="09.12.20" link="https://vvvv.org/blog/fuse-vl.stride-gpu-tools-presentation" mediaType="text" thumbnail="">
 		<Title>FUSE - GPU tools and libraries for VL.Stride</Title>
@@ -18,9 +17,6 @@
 	</Item>
 	<Item postedOn="01.10.20" link="https://vvvv.org/blog/vl.stride-for-evvvveryone" mediaType="text" thumbnail="">
 		<Title>VL.Stride 3d engine available as preview!</Title>
-	</Item>
-	<Item postedOn="07.07.20" link="https://vvvv.org/blog/vvvv50beta40" mediaType="text">
-		<Title>vvvv beta40 is out!</Title>
 	</Item>
 	<Item postedOn="06.04.20" link="https://vvvv.org/blog/need-a-vvvv-specialist" mediaType="text">
 		<Title>Need a vvvv specialist?</Title>
