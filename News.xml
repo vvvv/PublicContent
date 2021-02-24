@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="22.02.20" link="https://vvvv.org/blog/8.-worldwide-meetup" mediaType="text" thumbnail="">
-		<Title>Join us for the meetup on February 23, 8pm CET</Title>
+	<Item postedOn="24.02.20" link="https://youtu.be/jUBEyp-z3JI" mediaType="video" thumbnail="">
+		<Title>Hear about RCP, Kairos and FUSE updates in the last online meetup</Title>
 	</Item>
 	<Item postedOn="16.02.21" link="https://vvvv.org/blog/vvvv-gamma-2021.3-release" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 2021.3 is out!</Title>
