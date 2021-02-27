@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="27.02.21" link="https://vvvv.org/blog/vvvv-gamma-2021.3-release" mediaType="text" thumbnail="">
+		<Title>Bugfix release vvvv gamma 2021.3.1 is out!</Title>
+	</Item>
 	<Item postedOn="24.02.20" link="https://youtu.be/jUBEyp-z3JI" mediaType="video" thumbnail="">
 		<Title>Hear about RCP, Kairos and FUSE updates in the last online meetup</Title>
 	</Item>
-	<Item postedOn="16.02.21" link="https://vvvv.org/blog/vvvv-gamma-2021.3-release" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 2021.3 is out!</Title>
-	</Item>	
 	<Item postedOn="06.02.21" link="https://vvvv.org/blog/vvvvhat-happened-in-january-2021" mediaType="text" thumbnail="">
 		<Title>Here is what happened in January</Title>
 	</Item>
