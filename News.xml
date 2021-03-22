@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="22.03.21" link="https://vvvv.org/blog/vvvv-gamma-end-of-earlybird-pricing" mediaType="text" thumbnail="">
+		<Title>End of Earlybird Pricing</Title>
+	</Item>
+	<Item postedOn="22.03.21" link="https://vvvv.org/blog/9.-worldwide-meetup" mediaType="text" thumbnail="">
+		<Title>Join us for the 9th online meetup on March 23rd</Title>
+	</Item>
 	<Item postedOn="12.03.21" link="https://thenodeinstitute.org/event/timeline-your-data-using-vl-kairos/" mediaType="text" thumbnail="">
 		<Title>Webinar: Timeline your data using Kairos</Title>
 	</Item>
@@ -8,17 +14,5 @@
 	</Item>
 	<Item postedOn="12.03.21" link="https://vvvv.org/blog/vvvv-gamma-the-road-ahead" mediaType="text" thumbnail="">
 		<Title>Roadmap: What to expect for the upcoming vvvv gamma 2021.4</Title>
-	</Item>
-	<Item postedOn="04.03.21" link="https://vvvv.org/blog/vvvvhat-happened-in-february-2021" mediaType="text" thumbnail="">
-		<Title>Here is what happened in February</Title>
-	</Item>
-	<Item postedOn="27.02.21" link="https://vvvv.org/blog/vvvv-gamma-2021.3-release" mediaType="text" thumbnail="">
-		<Title>Bugfix release vvvv gamma 2021.3.1 is out!</Title>
-	</Item>
-	<Item postedOn="24.02.20" link="https://youtu.be/jUBEyp-z3JI" mediaType="video" thumbnail="">
-		<Title>Hear about RCP, Kairos and FUSE updates in the last online meetup</Title>
-	</Item>
-	<Item postedOn="09.12.20" link="https://vvvv.org/blog/fuse-vl.stride-gpu-tools-presentation" mediaType="text" thumbnail="">
-		<Title>FUSE - GPU tools and libraries for VL.Stride</Title>
 	</Item>
 </News>
