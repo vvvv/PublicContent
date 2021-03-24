@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="24.03.21" link="https://youtu.be/RcQNe8iuFUU" mediaType="video" thumbnail="">
+		<Title>Rewatch the last online meetup</Title>
+	</Item>
 	<Item postedOn="22.03.21" link="https://vvvv.org/blog/vvvv-gamma-end-of-earlybird-pricing" mediaType="text" thumbnail="">
 		<Title>End of Earlybird Pricing</Title>
-	</Item>
-	<Item postedOn="22.03.21" link="https://vvvv.org/blog/9.-worldwide-meetup" mediaType="text" thumbnail="">
-		<Title>Join us for the 9th online meetup on March 23rd</Title>
 	</Item>
 	<Item postedOn="12.03.21" link="https://thenodeinstitute.org/event/timeline-your-data-using-vl-kairos/" mediaType="text" thumbnail="">
 		<Title>Webinar: Timeline your data using Kairos</Title>
