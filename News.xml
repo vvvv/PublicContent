@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="07.04.21" link="https://vvvv.org/blog/we-offer-custom-support-and-development" mediaType="text" thumbnail="">
+		<Title>We offer custom support and development</Title>
+	</Item>
 	<Item postedOn="07.04.21" link="https://thegraybook.vvvv.org/changelog/2021.3.html" mediaType="text" thumbnail="">
 		<Title>Bugfix release 2021.3.2 is out!</Title>
 	</Item>
