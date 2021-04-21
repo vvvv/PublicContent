@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="22.04.21" link="https://youtu.be/ShUefLRL_H0" mediaType="video" thumbnail="">
+		<Title>Save the date: 10th vvvv online meetup on April 27</Title>
+	</Item>
+	<Item postedOn="22.04.21" link="https://vvvv.org/blog/we-offer-custom-training" mediaType="text" thumbnail="">
+		<Title>We offer custom training</Title>
+	</Item>
 	<Item postedOn="07.04.21" link="https://vvvv.org/blog/we-offer-custom-support-and-development" mediaType="text" thumbnail="">
 		<Title>We offer custom support and development</Title>
 	</Item>
 	<Item postedOn="07.04.21" link="https://thegraybook.vvvv.org/changelog/2021.3.html" mediaType="text" thumbnail="">
 		<Title>Bugfix release 2021.3.2 is out!</Title>
-	</Item>
-	<Item postedOn="24.03.21" link="https://youtu.be/RcQNe8iuFUU" mediaType="video" thumbnail="">
-		<Title>Rewatch the last online meetup</Title>
 	</Item>
 	<Item postedOn="12.03.21" link="https://vvvv.org/blog/vl-stride-3d-engine-update-4" mediaType="text" thumbnail="">
 		<Title>A recap of the status of VL.Stride</Title>
