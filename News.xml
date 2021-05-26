@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="23.04.21" link="https://vvvv.org/blog/11.-worldwide-vvvv-meetup" mediaType="text" thumbnail="">
-		<Title>Join us for the online meetup on May 25, 8pm CET</Title>
-	</Item>
-	<Item postedOn="20.05.21" link="https://thegraybook.vvvv.org/changelog/2021.3.html" mediaType="text" thumbnail="">
-		<Title>Bugfix release 2021.3.3 is out!</Title>
-	</Item>
 	<Item postedOn="13.05.21" link="https://thenodeinstitute.org/event/shiny-generative-graphics-with-vvvv/" mediaType="text" thumbnail="">
 		<Title>Webinar May 28: Shiny generative graphics with vvvv</Title>
 	</Item>
+	<Item postedOn="26.04.21" link="https://www.youtube.com/watch?v=wuDZGIvxR9U" mediaType="video" thumbnail="">
+		<Title>Rewatch the 11th online meetup</Title>
+	</Item>
+	<Item postedOn="20.05.21" link="https://thegraybook.vvvv.org/changelog/2021.3.html" mediaType="text" thumbnail="">
+		<Title>Bugfix release 2021.3.3 is out!</Title>
+	</Item>	
 	<Item postedOn="22.04.21" link="https://vvvv.org/blog/we-offer-custom-training" mediaType="text" thumbnail="">
 		<Title>We offer custom training</Title>
 	</Item>
