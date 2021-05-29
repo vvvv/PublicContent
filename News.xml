@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="13.05.21" link="https://thenodeinstitute.org/event/shiny-generative-graphics-with-vvvv/" mediaType="text" thumbnail="">
-		<Title>Webinar May 28: Shiny generative graphics with vvvv</Title>
-	</Item>
 	<Item postedOn="26.04.21" link="https://www.youtube.com/watch?v=wuDZGIvxR9U" mediaType="video" thumbnail="">
 		<Title>Rewatch the 11th online meetup</Title>
 	</Item>
