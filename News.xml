@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="26.04.21" link="https://www.youtube.com/watch?v=wuDZGIvxR9U" mediaType="video" thumbnail="">
+	<Item postedOn="03.06.21" link="https://vvvv.org/blog/vvvvhat-happened-in-may-2021" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in May</Title>
+	</Item>
+	<Item postedOn="26.05.21" link="https://www.youtube.com/watch?v=wuDZGIvxR9U" mediaType="video" thumbnail="">
 		<Title>Rewatch the 11th online meetup</Title>
 	</Item>
 	<Item postedOn="20.05.21" link="https://thegraybook.vvvv.org/changelog/2021.3.html" mediaType="text" thumbnail="">
