@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<NuGets>
+  <NuGet id="VL.TrackObjects" version="0.0.3-alpha">
+	<Authors>vvvv</Authors>
+	<Description>Follows and identifies objects over time and assigns them a stable and unique ID</Description>
+	<Tags>tracking</Tags>
+  </NuGet>
+  <NuGet id="VL.Kairos" version="0.6.0">
+	<Authors>natan.sinigaglia</Authors>
+	<Description>Value animation system</Description>
+	<Tags></Tags>
+  </NuGet>
+  <NuGet id="VL.Audio" version="0.2.23-alpha">
+	<Authors>vvvv</Authors>
+	<Description>Audio engine for VL based on NAudio</Description>
+	<Tags>audio fft sound analysis</Tags>
+  </NuGet>
+  <NuGet id="VL.IO.Midi" version="1.0.3">
+	<Authors>vvvv</Authors>
+	<Description>Midi nodes for VL</Description>
+	<Tags></Tags>
+  </NuGet>
+  <NuGet id="VL.OpenCV" version="1.0.3">
+	<Authors>Randall Vásquez, vvvv</Authors>
+	<Description>OpenCV for VL</Description>
+	<Tags>computervision video calibration detection recognition filter tracking camera blob marker ml</Tags>
+  </NuGet>
+</NuGets>
