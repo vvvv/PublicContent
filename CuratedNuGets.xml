@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<NuGets>
+  <NuGet id="VL.TrackObjects" version="0.0.3-alpha" />
+  <NuGet id="VL.Kairos" version="0.6.0" />
+  <NuGet id="VL.Audio" version="0.2.23-alpha" />
+  <NuGet id="VL.IO.Midi" version="1.0.3" />
+  <NuGet id="VL.OpenCV" version="1.0.3" />
+</NuGets>
