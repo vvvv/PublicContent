@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="09.07.21" link="https://vvvv.org/blog/vvvvhat-happened-in-june-2021" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in June</Title>
+	</Item>
 	<Item postedOn="22.06.21" link="https://youtu.be/AkInLnC944w" mediaType="video" thumbnail="">
 		<Title>Rewatch: The 12th online meetup</Title>
-	</Item>
-	<Item postedOn="03.06.21" link="https://vvvv.org/blog/vvvvhat-happened-in-may-2021" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in May</Title>
 	</Item>
 	<Item postedOn="20.05.21" link="https://thegraybook.vvvv.org/changelog/2021.3.html" mediaType="text" thumbnail="">
 		<Title>Bugfix release 2021.3.3 is out!</Title>
