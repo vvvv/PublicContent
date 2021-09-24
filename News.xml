@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="07.09.21" link="https://vvvv.org/blog/14.-worldwide-vvvv-meetup" mediaType="text" thumbnail="">
+		<Title>Coming up September 28th: the 14th vvvv online meetup</Title>
+	</Item>
 	<Item postedOn="15.09.21" link="https://youtu.be/4xDShgbKTsQ" mediaType="video" thumbnail="">
 		<Title>Rewatch the FUSE release party</Title>
 	</Item>
 	<Item postedOn="07.09.21" link="https://vvvv.org/blog/vvvvhat-happened-in-august-2021" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in August</Title>
-	</Item>
-	<Item postedOn="07.09.21" link="https://youtu.be/2gGPh84y-mU" mediaType="video" thumbnail="">
-		<Title>Rewatch the 13th vvvv online meetup</Title>
 	</Item>
 	<Item postedOn="22.04.21" link="https://vvvv.org/blog/we-offer-custom-training" mediaType="text" thumbnail="">
 		<Title>We offer custom training</Title>
