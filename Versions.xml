@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Versions>
+	<Version number="2021.4.1" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
 	<Version number="2021.4.0" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
 	<Version number="2021.3.3" website="https://vvvv.org/blog/vvvv-gamma-2021.3-release" />
 	<Version number="2021.3.2" website="https://vvvv.org/blog/vvvv-gamma-2021.3-release" />
