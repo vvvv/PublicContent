@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="31.01.22" link="https://vvvv.org/blog/vvvv-gamma-2021.4-release" mediaType="text" thumbnail="">
+		<Title>The vvvv gamma 2021.4.6 release is out!</Title>
+	</Item>
 	<Item postedOn="30.01.22" link="https://youtu.be/ecnUCMwEgJo" mediaType="video" thumbnail="">
 		<Title>Rewatch the 16th vvvv online meetup</Title>
 	</Item>
-	<Item postedOn="18.01.22" link="https://vvvv.org/blog/vvvv-gamma-2021.4-release" mediaType="text" thumbnail="">
-		<Title>The vvvv gamma 2021.4.5 release is out!</Title>
-	</Item>	
 	<Item postedOn="06.01.22" link="https://vvvv.org/blog/vvvvhat-happened-in-december-2021" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in December</Title>
 	</Item>	
