@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="06.04.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-march-2022/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in March</Title>
+	<Item postedOn="05.04.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-april-2022/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in April</Title>
 	</Item>	
 	<Item postedOn="29.03.22" link="https://thegraybook.vvvv.org/changelog/2021.4.html" mediaType="text" thumbnail="">
 		<Title>The vvvv gamma 2021.4.8 release is out!</Title>
