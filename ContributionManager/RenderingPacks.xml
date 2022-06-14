@@ -26,9 +26,9 @@
 	<ImageUrl>https://vvvv.org/sites/default/files/imagecache/large/Fresh_ramen_noodle_001.jpg</ImageUrl>
 	<WebsiteUrl>https://vvvv.org/contribution/instance-noodles</WebsiteUrl>
 	<License type="free" url="https://vvvv.org/contribution/instance-noodles#about" />
-	<Release version="0.6" >
+	<Release version="0.7" >
 		<MinBetaVersion>35.7</MinBetaVersion>
-		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/InstanceNoodles_3.zip" />
+		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/InstanceNoodles_4.zip" />
 		<Dependency id="dx11" minVersion="1.3.1" />
 		<Dependency id="Happy.fxh" minVersion="3.0.0" />
 	</Release>
@@ -59,12 +59,12 @@
 	<ImageUrl>https://vvvv.org/sites/default/files/imagecache/large/1895-ill3-1024x586.jpg</ImageUrl>
 	<WebsiteUrl>https://vvvv.org/contribution/fieldtrip</WebsiteUrl>
 	<License type="free" url="https://vvvv.org/contribution/fieldtrip#about" />
-	<Release version="0.3" >
+	<Release version="0.5" >
 		<MinBetaVersion>35.7</MinBetaVersion>
-		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/FieldTrip_0.zip" />
+		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/FieldTrip_2.zip" />
 		<Dependency id="dx11" minVersion="1.3.1" />
-		<Dependency id="Happy.fxh" minVersion="3.0.0" />
-		<Dependency id="InstanceNoodles" minVersion="0.6" />
+		<Dependency id="Happy.fxh" minVersion="4.0.0" />
+		<Dependency id="InstanceNoodles" minVersion="0.7" />
 	</Release>
 </Pack>
 <Pack id="SuperPhysical">
@@ -85,8 +85,8 @@
 	<ImageUrl>https://vvvv.org/sites/default/files/imagecache/large/121217-Potato-Head.png</ImageUrl>
 	<WebsiteUrl>https://vvvv.org/contribution/happy.fxh</WebsiteUrl>
 	<License type="free" url="https://vvvv.org/contribution/happy.fxh#about" />
-	<Release version="3.0.0" >
-		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/Happy.fxh__0.zip" />
+	<Release version="4.0.0" >
+		<Item cpu="any" url="https://vvvv.org/sites/default/files/uploads/Happy.fxh__1.zip" />
 		<Dependency id="dx11" minVersion="1.3.1" />
 	</Release>
 </Pack>
