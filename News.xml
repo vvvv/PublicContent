@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="20.07.22" link="https://thegraybook.vvvv.org/changelog/2021.4.html" mediaType="text" thumbnail="">
+		<Title>The vvvv gamma 2021.4.10 release is out!</Title>
+	</Item>
 	<Item postedOn="09.07.22" link="https://youtu.be/nwSZ-OFDoC0" mediaType="video" thumbnail="">
 		<Title>Rewatch the 18th worldwide vvvv meetup</Title>
 	</Item>
 	<Item postedOn="04.07.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-june-2022/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in June</Title>
-	</Item>
-	<Item postedOn="27.05.22" link="https://thegraybook.vvvv.org/changelog/2021.4.html" mediaType="text" thumbnail="">
-		<Title>The vvvv gamma 2021.4.9 release is out!</Title>
 	</Item>
 	<Item postedOn="22.04.21" link="https://visualprogramming.net/blog/2021/we-offer-custom-training/" mediaType="text" thumbnail="">
 		<Title>We offer custom training</Title>
