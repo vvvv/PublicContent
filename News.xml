@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="04.08.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-july-2022/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in July</Title>
+	</Item>
 	<Item postedOn="25.07.22" link="https://visualprogramming.net/blog/2022/introducing-vioso-projector-warping-and-blending/" mediaType="text" thumbnail="">
 		<Title>Introducing: VIOSO Projector Warping and Blending</Title>
 	</Item>
@@ -8,9 +11,6 @@
 	</Item>
 	<Item postedOn="09.07.22" link="https://youtu.be/nwSZ-OFDoC0" mediaType="video" thumbnail="">
 		<Title>Rewatch the 18th worldwide vvvv meetup</Title>
-	</Item>
-	<Item postedOn="04.07.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-june-2022/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in June</Title>
 	</Item>
 	<Item postedOn="22.04.21" link="https://visualprogramming.net/blog/2021/we-offer-custom-training/" mediaType="text" thumbnail="">
 		<Title>We offer custom training</Title>
