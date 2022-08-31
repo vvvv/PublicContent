@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="04.08.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-july-2022/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in July</Title>
-	</Item>
-	<Item postedOn="25.07.22" link="https://visualprogramming.net/blog/2022/introducing-vioso-projector-warping-and-blending/" mediaType="text" thumbnail="">
-		<Title>Introducing: VIOSO Projector Warping and Blending</Title>
+	<Item postedOn="31.08.22" link="https://visualprogramming.net/blog/2022/introducing-lottie/" mediaType="text" thumbnail="">
+		<Title>Introducing: Lottie</Title>
 	</Item>
 	<Item postedOn="20.07.22" link="https://thegraybook.vvvv.org/changelog/2021.4.html" mediaType="text" thumbnail="">
 		<Title>The vvvv gamma 2021.4.10 release is out!</Title>
