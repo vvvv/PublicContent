@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="04.11.22" link="https://thenodeinstitute.org/event/19-worldwide-vvvv-meetup/" mediaType="text" thumbnail="">
+		<Title>Join the vvvv meetup in Berlin on November 11th</Title>
+	</Item>
 	<Item postedOn="01.11.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-october-2022/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in October 2022</Title>
 	</Item>
