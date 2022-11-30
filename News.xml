@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="13.11.22" link="https://youtu.be/m-tnhcX-n0k" mediaType="video" thumbnail="">
-		<Title>Watch the recording of the 19th worldwide vvvv meetup</Title>
+	<Item postedOn="30.11.22" link="https://opencollective.com/kairos-research-lab/updates/kairos-camp-1-0-report-and-current-amazing-development" mediaType="text" thumbnail="">
+		<Title>Read about the latest develpments by team Kairos</Title>
 	</Item>
 	<Item postedOn="01.11.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-october-2022/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in October 2022</Title>
 	</Item>
 	<Item postedOn="02.10.22" link="https://visualprogramming.net/blog/2022/vvvv-gamma-2022.5-previews-available-now/" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 2022.5 - Previews available now</Title>
-	</Item>
-	<Item postedOn="23.09.22" link="https://visualprogramming.net/blog/2022/introducing-show-tell/" mediaType="text" thumbnail="">
-		<Title>Introducing: Show &amp; Tell</Title>
 	</Item>
 	<Item postedOn="22.04.21" link="https://visualprogramming.net/blog/2021/we-offer-custom-training/" mediaType="text" thumbnail="">
 		<Title>We offer custom training</Title>
