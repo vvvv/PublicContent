@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="06.12.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-november-2022/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in November 2022</Title>
+	</Item>
 	<Item postedOn="30.11.22" link="https://opencollective.com/kairos-research-lab/updates/kairos-camp-1-0-report-and-current-amazing-development" mediaType="text" thumbnail="">
 		<Title>The vvvv gamma 2021.4.12 release is out!</Title>
-	</Item>
-	<Item postedOn="01.11.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-october-2022/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in October 2022</Title>
-	</Item>
+	</Item>	
 	<Item postedOn="02.10.22" link="https://visualprogramming.net/blog/2022/vvvv-gamma-2022.5-previews-available-now/" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 2022.5 - Previews available now</Title>
 	</Item>
