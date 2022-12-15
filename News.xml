@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="15.12.22" link="https://visualprogramming.net/blog/2022/introducing-support-for-openxr/" mediaType="text" thumbnail="">
+		<Title>Introducing: Support for OpenXR</Title>
+	</Item>
 	<Item postedOn="06.12.22" link="https://visualprogramming.net/blog/2022/vvvvhat-happened-in-november-2022/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in November 2022</Title>
 	</Item>
