@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="2.02.23" link="https://opencollective.com/kairos-research-lab/updates/development-update-january-2023" mediaType="text" thumbnail="">
+		<Title>Development update from the Kairos Research Lab</Title>
+	</Item>
 	<Item postedOn="1.02.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-january-2023/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in January 2022</Title>
+		<Title>vvvvhat happened in January 2023</Title>
 	</Item>
 	<Item postedOn="30.11.22" link="https://opencollective.com/kairos-research-lab/updates/kairos-camp-1-0-report-and-current-amazing-development" mediaType="text" thumbnail="">
 		<Title>The vvvv gamma 2021.4.12 release is out!</Title>
