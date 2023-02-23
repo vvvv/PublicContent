@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	
-	<Item postedOn="16.02.23" link="https://github.com/chkworks/VL.BeginnerTutorials" mediaType="text" thumbnail="">
-		<Title>VL.BeginnerTutorials - A tutorial series of 37 patches out now! </Title>
+	<Item postedOn="16.02.23" link="https://github.com/chkworks/VL.ThePatchersGuide" mediaType="text" thumbnail="">
+		<Title>VL.ThePatchersGuide - A tutorial series of 37 patches out now!</Title>
 	</Item>
 	<Item postedOn="07.02.23" link="https://visualprogramming.net/blog/2023/gammalauncher-5.0/" mediaType="text" thumbnail="">
 		<Title>GammaLauncher 5.0 is out!</Title>
