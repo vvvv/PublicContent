@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="20.03.23" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-summer-2023/" mediaType="text" thumbnail="">
+		<Title>Sign up now: vvvv beginner class summer 2023</Title>
+	</Item>
 	<Item postedOn="06.03.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-february-2023/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in February</Title>
 	</Item>
 	<Item postedOn="05.03.23" link="https://visualprogramming.net/blog/2023/introducing-vl.standardlibs/" mediaType="text" thumbnail="">
 		<Title>Introducing: VL.StandardLibs</Title>
-	</Item>
-	<Item postedOn="16.02.23" link="https://github.com/chkworks/VL.ThePatchersGuide" mediaType="text" thumbnail="">
-		<Title>VL.ThePatchersGuide - A tutorial series of 37 patches out now!</Title>
-	</Item>
-	<Item postedOn="07.02.23" link="https://visualprogramming.net/blog/2023/gammalauncher-5.0/" mediaType="text" thumbnail="">
-		<Title>GammaLauncher 5.0 is out!</Title>
 	</Item>
 	<Item postedOn="22.04.21" link="https://visualprogramming.net/blog/2021/we-offer-custom-training/" mediaType="text" thumbnail="">
 		<Title>We offer custom training</Title>
