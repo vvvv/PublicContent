@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	
+	<Item postedOn="03.04.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-march-2023/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in March</Title>
+	</Item>
 	<Item postedOn="31.03.23" link="https://visualprogramming.net/blog/2023/the-node-institute-summer-season-23/" mediaType="text" thumbnail="">
 		<Title>Call for workshop proposals and requests</Title>
 	</Item>
 	<Item postedOn="20.03.23" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-summer-2023/" mediaType="text" thumbnail="">
 		<Title>Sign up now: vvvv beginner class summer 2023</Title>
-	</Item>
-	<Item postedOn="06.03.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-february-2023/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in February</Title>
 	</Item>
 	<Item postedOn="05.03.23" link="https://visualprogramming.net/blog/2023/introducing-vl.standardlibs/" mediaType="text" thumbnail="">
 		<Title>Introducing: VL.StandardLibs</Title>
