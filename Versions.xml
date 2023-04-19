@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Versions>
-	<Version number="2021.4.12" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.10" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.9" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.8" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.7" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.6" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.5" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.4" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.3" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.2" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.1" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
-	<Version number="2021.4.0" website="https://vvvv.org/blog/vvvv-gamma-2021.4-release" />
+	<Version number="5.0" website="https://visualprogramming.net/blog/2023/vvvv-gamma-5.0-release/" />
+	<Version number="2021.4.12" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.10" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.9" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.8" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.7" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.6" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.5" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.4" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.3" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.2" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.1" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
+	<Version number="2021.4.0" website="https://visualprogramming.net/blog/2022/vvvv-gamma-2021.4-release" />
 	<Version number="2021.3.3" website="https://vvvv.org/blog/vvvv-gamma-2021.3-release" />
 	<Version number="2021.3.2" website="https://vvvv.org/blog/vvvv-gamma-2021.3-release" />
 	<Version number="2021.3.1" website="https://vvvv.org/blog/vvvv-gamma-2021.3-release" />
