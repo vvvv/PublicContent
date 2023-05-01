@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="01.05.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-april-2023/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in April</Title>
+	</Item>
 	<Item postedOn="25.04.23" link="https://thenodeinstitute.org/vvvv-intermediates-summer-2023/" mediaType="text" thumbnail="">
 		<Title>Sign up now: vvvv intermediate workshops are available</Title>
 	</Item>
 	<Item postedOn="19.04.23" link="https://visualprogramming.net/blog/2023/vvvv-gamma-5.0-release/" mediaType="text" thumbnail="">
 		<Title>The big vvvv gamma 5.0 is out!</Title>
-	</Item>
-	<Item postedOn="03.04.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-march-2023/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in March</Title>
 	</Item>
 	<Item postedOn="20.03.23" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-summer-2023/" mediaType="text" thumbnail="">
 		<Title>Sign up now: vvvv beginner class summer 2023</Title>
