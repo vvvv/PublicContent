@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="11.07.23" link="https://www.youtube.com/watch?v=bVKJAiVIdlQ" mediaType="video" thumbnail="">
+		<Title>Rewatch the 21. vvvv worldwide meetup</Title>
+	</Item>
 	<Item postedOn="04.07.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-june-2023/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in June</Title>
 	</Item>
