@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="25.08.23" link="https://visualprogramming.net/blog/2023/22.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
+		<Title>Join the 22. vvvv worldwide meetup in Berlin</Title>
+	</Item>	
 	<Item postedOn="07.08.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-july-2023/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in July</Title>
 	</Item>
-	<Item postedOn="11.07.23" link="https://www.youtube.com/watch?v=bVKJAiVIdlQ" mediaType="video" thumbnail="">
-		<Title>Rewatch the 21. vvvv worldwide meetup</Title>
-	</Item>	
 	<Item postedOn="12.06.23" link="https://thenodeinstitute.org/courses/ws23-vvvv-beginner-class/" mediaType="text" thumbnail="">
 		<Title>Upcoming vvvv beginner course announced</Title>
 	</Item>
