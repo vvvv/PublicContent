@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="25.08.23" link="https://visualprogramming.net/blog/2023/22.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
-		<Title>Join the 22. vvvv worldwide meetup in Berlin</Title>
+	<Item postedOn="29.08.23" link="https://www.youtube.com/live/o5MRTJTyzPc?si=13cFt6tv9r0H41be" mediaType="video" thumbnail="">
+		<Title>Rewatch the 22. vvvv worldwide meetup</Title>
 	</Item>	
 	<Item postedOn="07.08.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-july-2023/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in July</Title>
