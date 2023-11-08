@@ -27,7 +27,7 @@
         <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride.Runtime/Example Rings.vl" mediaType="vl">
           <Description>Shadows for free</Description>
         </Example>
-		<Example title="3D: Worldcities" thumbnail="Examples-Worldcities.png" link="VL.Stride.Runtime/Example Worldcities.vl" mediaType="vl">
+		<Example title="3D: World Cities" thumbnail="Examples-Worldcities.png" link="VL.Stride.Runtime/Example World Cities.vl" mediaType="vl">
           <Description>25k cities with instancing</Description>
         </Example>
       </Examples>
