@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="20.12.23" link="https://visualprogramming.net/blog/2023/introducing-debug-views/" mediaType="text" thumbnail="">
+		<Title>Introducing: Debug Views</Title>
+	</Item>
 	<Item postedOn="04.12.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-november-2023/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in November</Title>
 	</Item>
 	<Item postedOn="29.11.23" link="https://visualprogramming.net/blog/2023/introducing-augmenta/" mediaType="text" thumbnail="">
 		<Title>Introducing: Support for Augmenta plug'n'play people tracking</Title>
 	</Item>	
-	<Item postedOn="17.11.23" link="https://thenodeinstitute.org/ws23-vvvv-intermediates" mediaType="text" thumbnail="">
-		<Title>New vvvv intermediate courses starting November 23rd</Title>
-	</Item>
-	<Item postedOn="09.06.23" link="https://thegraybook.vvvv.org/changelog/5.x.html" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 5.2 is out!</Title>
-	</Item>
 	<Item postedOn="07.04.21" link="https://visualprogramming.net/blog/2021/we-offer-custom-support-and-development/" mediaType="text" thumbnail="">
 		<Title>We offer custom support and development</Title>
 	</Item>
