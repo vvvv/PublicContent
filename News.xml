@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="05.01.23" link="https://visualprogramming.net/blog/vvvvhat-happened-in-december-2023/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in December</Title>
+	</Item>
 	<Item postedOn="20.12.23" link="https://visualprogramming.net/blog/2023/introducing-debug-views/" mediaType="text" thumbnail="">
 		<Title>Introducing: Debug Views</Title>
 	</Item>
-	<Item postedOn="04.12.23" link="https://visualprogramming.net/blog/2023/vvvvhat-happened-in-november-2023/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in November</Title>
-	</Item>
-	<Item postedOn="29.11.23" link="https://visualprogramming.net/blog/2023/introducing-augmenta/" mediaType="text" thumbnail="">
-		<Title>Introducing: Support for Augmenta plug'n'play people tracking</Title>
-	</Item>	
 	<Item postedOn="07.04.21" link="https://visualprogramming.net/blog/2021/we-offer-custom-support-and-development/" mediaType="text" thumbnail="">
 		<Title>We offer custom support and development</Title>
 	</Item>
