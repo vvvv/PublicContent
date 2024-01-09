@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="09.01.23" link="https://visualprogramming.net/blog/23.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
+		<Title>Next Berlin meetup: January 12th</Title>
+	</Item>
 	<Item postedOn="05.01.23" link="https://visualprogramming.net/blog/vvvvhat-happened-in-december-2023/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in December</Title>
 	</Item>
