@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="07.02.23" link="https://visualprogramming.net/blog/vvvv-at-node-code-frankfurt/" mediaType="text" thumbnail="">
-		<Title>Talk and Workshop at NODE+CODE Frankfurt</Title>
-	</Item>
 	<Item postedOn="02.02.23" link="https://visualprogramming.net/blog/vvvvhat-happened-in-january-2024/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in January</Title>
-	</Item>
-	<Item postedOn="23.01.24" link="https://visualprogramming.net/blog/vvvv-at-basta-frankfurt/" mediaType="text" thumbnail="">
-		<Title>vvvv at BASTA! Frankfurt</Title>
 	</Item>
 	<Item postedOn="15.01.24" link="https://visualprogramming.net/blog/introducing-projector-calibration-by-scalable-display-technologies/" mediaType="text" thumbnail="">
 		<Title>Introducing: Projector Calibration by Scalable Display Technologies</Title>
