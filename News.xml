@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="02.02.23" link="https://visualprogramming.net/blog/vvvvhat-happened-in-january-2024/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in January</Title>
-	</Item>
-	<Item postedOn="15.01.24" link="https://visualprogramming.net/blog/introducing-projector-calibration-by-scalable-display-technologies/" mediaType="text" thumbnail="">
-		<Title>Introducing: Projector Calibration by Scalable Display Technologies</Title>
+	<Item postedOn="06.03.24" link="https://visualprogramming.net/blog/vvvvhat-happened-in-february-2024/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in February</Title>
 	</Item>
 	<Item postedOn="13.01.24" link="https://www.youtube.com/live/m-vXJDhLugE" mediaType="video" thumbnail="">
 		<Title>Rewatch the 23rd vvvv meetup</Title>
