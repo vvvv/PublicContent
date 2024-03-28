@@ -22,7 +22,7 @@
           <Description>Interactive circle packing</Description>
         </Example>
         <Example title="2D: Particle Life" thumbnail="Examples-ParticleLife.png" link="VL.Skia/Example Particle Life.vl" mediaType="vl">
-          <Description>Vivid structures from rudimentary rules</Description>
+          <Description>Patterns from simple rules</Description>
         </Example>
         <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
           <Description>Shadows for free</Description>
