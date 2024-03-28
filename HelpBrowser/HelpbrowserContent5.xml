@@ -21,8 +21,8 @@
         <Example title="2D: Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="VL.Skia/Example Repelling Circles.vl" mediaType="vl">
           <Description>Interactive circle packing</Description>
         </Example>
-        <Example title="2D: Branching" thumbnail="Examples-Branching2.png" link="VL.Skia/Example Branching.vl" mediaType="vl">
-          <Description>Interactive tree pattern</Description>
+        <Example title="2D: Particle Life" thumbnail="Examples-ParticleLife.png" link="VL.Skia/Example Particle Life.vl" mediaType="vl">
+          <Description>Vivid structures from rudimentary rules</Description>
         </Example>
         <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
           <Description>Shadows for free</Description>
