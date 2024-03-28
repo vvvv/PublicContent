@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<Helpbrowser>
+  <Documentation>
+    <GettingStarted>
+      <Tutorials headline="Tutorial Videos" seeMoreLink="Learn/Documentation?Tutorial">
+        <Tutorial title="First Contact" link="https://youtu.be/JkCvVja4YlY" length="3:23 min" thumbnail="Tutorials-FirstContact.png" mediaType="video">
+          <Description></Description>
+        </Tutorial>
+        <Tutorial title="First Steps" link="https://youtu.be/eFVFKxhsrS8" length="9:29 min" thumbnail="Tutorials-FirstSteps.png" mediaType="video">
+          <Description></Description>
+        </Tutorial>
+        <Tutorial title="Randomwalk them Circles" link="https://youtu.be/rxN-9GR4GjI" length="7:49 min" thumbnail="Tutorials-Randomwalk.png" mediaType="video">
+          <Description></Description>
+        </Tutorial>
+        <Tutorial title="Building a simple 3d Scene" link="https://youtu.be/Cs60A_pSIy0" length="15:17 min" thumbnail="Tutorials-SimpleScene.png" mediaType="video">
+          <Description></Description>
+        </Tutorial>
+      </Tutorials>
+      <Examples headline="Example Patches" seeMoreLink="Learn/Documentation?Example">
+        <Example title="2D: Repelling Circles" thumbnail="Examples-RepellingCircles.png" link="VL.Skia/Example Repelling Circles.vl" mediaType="vl">
+          <Description>Interactive circle packing</Description>
+        </Example>
+        <Example title="2D: Branching" thumbnail="Examples-Branching2.png" link="VL.Skia/Example Branching.vl" mediaType="vl">
+          <Description>Interactive tree pattern</Description>
+        </Example>
+        <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
+          <Description>Shadows for free</Description>
+        </Example>
+		<Example title="3D: World Cities" thumbnail="Examples-Worldcities.png" link="VL.Stride/Example World Cities.vl" mediaType="vl">
+          <Description>25k cities with instancing</Description>
+        </Example>
+      </Examples>
+      <Newsletter headline="Sign up for our Newsletter">
+        <Description>Signing up will give you peace of mind to not miss any happenings around vvvv. Typically one mail per month.</Description>
+        <IsNotEmail>Ouch.
+It's not a valid E-Mail Address.</IsNotEmail>
+        <Button>Subscribe</Button>
+      </Newsletter>
+    </GettingStarted>
+  </Documentation>
+  <Connect>
+    <Title>Meet your fellow patchers and stay on top of the latest happenings in the univvvverse!</Title>
+    <Subtitle>Links open in your browser:</Subtitle>
+    <Chat title="Chat">
+      <Description>Main chat in English, where patchers hang out 24/7 to help each other. Prefer a different language? Join one of these rooms:</Description>
+      <Rooms>
+        <Room title="Chat (EN)" link="https://app.element.io/#/room/#vvvv:matrix.org" />
+        <Room title="ES" link="https://app.element.io/#/room/#vvvv-es:matrix.org" />
+        <Room title="DE" link="https://app.element.io/#/room/#vvvv-de:matrix.org" />
+        <Room title="FR" link="https://app.element.io/#/room/#vvvv-fr:matrix.org" />
+        <Room title="JP" link="https://app.element.io/#/room/#vvvv-jp:matrix.org" />
+        <Room title="RU" link="https://app.element.io/#/room/#vvvv-ru:matrix.org" />
+        <Room title="FARSI" link="https://app.element.io/#/room/#vvvv-farsi:matrix.org" />
+        <Room title="HU" link="https://app.element.io/#/room/#vvvv-hu:matrix.org" />
+      </Rooms>
+    </Chat>
+    <Connection title="Forum" link="https://discourse.vvvv.org/c/vvvv-gamma">
+      <Description>Where you find answers to your vvvv questions</Description>
+    </Connection>
+    <Connection title="Meetups" link="https://mobilize.berlin/@vvvvmeetups">
+      <Description>Meet fellow patchers in real life for presentations and drinks</Description>
+    </Connection>
+    <Connection title="News" link="https://visualprogramming.net/blog/">
+      <Description>News blog on vvvv.org</Description>
+    </Connection>
+    <Connection title="Mastodon" link="https://mastodon.xyz/@vvvv">
+      <Description>Follow vvvv on the fediverse: Where you get the latest bite-size news around vvvv</Description>
+    </Connection>
+    <Connection title="Edus" link="https://vvvv.org/documentation/educational-institutions">
+      <Description>Educational institutions using vvvv in class</Description>
+    </Connection>
+    <Connection title="Jobs" link="https://discourse.vvvv.org/c/jobs">
+      <Description>Have a vvvv job to offer? Post it here for all patchers to see</Description>
+    </Connection>
+    <Connection title="Businesses" link="https://vvvv.org/businesses">
+      <Description>Get exposure for your own vvvv business or find others near by</Description>
+    </Connection>
+    <Connection title="Gallery" link="https://vvvv.org/blog/24">
+      <Description>The vvvv gallery to share your projects</Description>
+    </Connection>
+    <Connection title="Vimeo" link="https://vimeo.com/groups/vvvv">
+      <Description>The vimeo group to share your vvvv projects</Description>
+    </Connection>
+    <Connection title="YouTube" link="https://www.youtube.com/channel/UCu-xqv-TLwv6L0An7MJJA5A">
+      <Description>Tutorials, HowTo Videos, vvvv Meetup Live Streams and more</Description>
+    </Connection>
+    <Connection title="GitHub" link="https://github.com//topics/vl">
+      <Description>Projects on the developers platform GitHub tagged with "VL"</Description>
+    </Connection>
+    <Connection title="NuGet" link="https://www.nuget.org/packages?q=Tags%3A%22VL%22">
+      <Description>Packages on the .NET package managing platform NuGet tagged with "VL"</Description>
+    </Connection>
+  </Connect>
+</Helpbrowser>
