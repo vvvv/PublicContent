@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Versions>
-	<Version number="2024.6.0" website="https://visualprogramming.net/blog/vvvv-gamma-6.0-release/" />
+	<Version number="2024.6.1" website="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" />
+	<Version number="2024.6.0" website="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" />
 	<Version number="2023.5.2" website="https://visualprogramming.net/blog/2023/vvvv-gamma-5.0-release/" />
 	<Version number="2023.5.1" website="https://visualprogramming.net/blog/2023/vvvv-gamma-5.0-release/" />
 	<Version number="2023.5.0" website="https://visualprogramming.net/blog/2023/vvvv-gamma-5.0-release/" />
