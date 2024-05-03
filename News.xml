@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="03.05.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 6.3 is out!</Title>
+	</Item>
 	<Item postedOn="29.04.24" link="https://vimeo.com/930568091" mediaType="video" thumbnail="">
 		<Title>vvvv Show-Off-Reel Nr. 2 is out!</Title>
 	</Item>
 	<Item postedOn="24.04.24" link="https://thenodeinstitute.org/ss24-vvvv-intermediates/" mediaType="text" thumbnail="">
 		<Title>The summer season of vvvv workshops at The NODE Institute is out</Title>
-	</Item>
-	<Item postedOn="18.04.24" link="https://thenodeinstitute.org/ss24-vvvv-intermediates/" mediaType="text" thumbnail="">
-		<Title>Save the date: vvvv meetup on May 3rd</Title>
-	</Item>
-	<Item postedOn="11.04.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 6.2 is out!</Title>
 	</Item>
 	<Item postedOn="05.04.24" link="https://visualprogramming.net/blog/vvvvhat-happened-in-march-2024/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in March</Title>
