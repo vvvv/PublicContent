@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="05.05.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-april-2024/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in April</Title>
+	</Item>
+	<Item postedOn="01.05.24" link="https://visualprogramming.net/blog/2024/link-the-vvvv-summer-camp-24/" mediaType="text" thumbnail="">
+		<Title>Save the date: LINK - the vvvv Summer Camp 2024</Title>
+	</Item>
 	<Item postedOn="03.05.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 6.3 is out!</Title>
 	</Item>
@@ -8,9 +14,6 @@
 	</Item>
 	<Item postedOn="24.04.24" link="https://thenodeinstitute.org/ss24-vvvv-intermediates/" mediaType="text" thumbnail="">
 		<Title>The summer season of vvvv workshops at The NODE Institute is out</Title>
-	</Item>
-	<Item postedOn="05.04.24" link="https://visualprogramming.net/blog/vvvvhat-happened-in-march-2024/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in March</Title>
 	</Item>
 	<Item postedOn="07.04.21" link="https://visualprogramming.net/blog/2021/we-offer-custom-support-and-development/" mediaType="text" thumbnail="">
 		<Title>We offer custom support and development</Title>
