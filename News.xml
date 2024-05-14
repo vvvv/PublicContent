@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="14.05.24" link="https://visualprogramming.net/blog/2024/introducing-blueiot-real-time-location-system/" mediaType="text" thumbnail="">
+		<Title>Introducing: Blueiot real-time location system</Title>
+	</Item>
 	<Item postedOn="05.05.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-april-2024/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in April</Title>
 	</Item>
