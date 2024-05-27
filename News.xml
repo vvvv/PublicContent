@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="14.05.24" link="https://visualprogramming.net/blog/2024/introducing-blueiot-real-time-location-system/" mediaType="text" thumbnail="">
-		<Title>Introducing: Blueiot real-time location system</Title>
+	<Item postedOn="27.05.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 6.4 is out!</Title>
 	</Item>
 	<Item postedOn="05.05.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-april-2024/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in April</Title>
 	</Item>
 	<Item postedOn="01.05.24" link="https://visualprogramming.net/blog/2024/link-the-vvvv-summer-camp-24/" mediaType="text" thumbnail="">
 		<Title>Save the date: LINK - the vvvv Summer Camp 2024</Title>
-	</Item>
-	<Item postedOn="03.05.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 6.3 is out!</Title>
 	</Item>
 	<Item postedOn="29.04.24" link="https://vimeo.com/930568091" mediaType="video" thumbnail="">
 		<Title>vvvv Show-Off-Reel Nr. 2 is out!</Title>
