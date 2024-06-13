@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="02.06.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-may-2024/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in May</Title>
-	</Item>
 	<Item postedOn="12.06.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 6.5 is out!</Title>
+	</Item>
+	<Item postedOn="02.06.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-may-2024/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in May</Title>
 	</Item>
 	<Item postedOn="01.05.24" link="https://visualprogramming.net/blog/2024/link-the-vvvv-summer-camp-24/" mediaType="text" thumbnail="">
 		<Title>Save the date: LINK - the vvvv Summer Camp 2024</Title>
