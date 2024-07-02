@@ -10,7 +10,7 @@
         <Tutorial title="First Steps" link="https://youtu.be/eFVFKxhsrS8" length="9:29 min" thumbnail="Tutorials-FirstSteps.png" mediaType="video">
           <Description></Description>
         </Tutorial>
-        <Tutorial title="Randomwalk them Circles" link="https://youtu.be/rxN-9GR4GjI" length="7:49 min" thumbnail="Tutorials-Randomwalk.png" mediaType="video">
+        <Tutorial title="Circle Pit" link="https://youtu.be/Ma1IullIugY" length="11:00 min" thumbnail="Tutorials-CirclePit.png" mediaType="video">
           <Description></Description>
         </Tutorial>
         <Tutorial title="Building a simple 3d Scene" link="https://youtu.be/Cs60A_pSIy0" length="15:17 min" thumbnail="Tutorials-SimpleScene.png" mediaType="video">
