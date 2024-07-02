@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="02.07.24" link="https://visualprogramming.net/blog/2024/new-vvvv-tutorial-circle-pit/" mediaType="text" thumbnail="">
+		<Title>Here's the first of an upcoming series of new vvvv beginner tutorials</Title>
+	</Item>
 	<Item postedOn="01.07.24" link="https://link-summercamp.de/register/" mediaType="text" thumbnail="">
 		<Title>Registration is open for LINK - the vvvv Summer Camp 2024</Title>
 	</Item>
