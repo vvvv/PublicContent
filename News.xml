@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="03.07.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 6.6 is out!</Title>
+	</Item>
 	<Item postedOn="02.07.24" link="https://visualprogramming.net/blog/2024/new-vvvv-tutorial-circle-pit/" mediaType="text" thumbnail="">
 		<Title>Here's the first of an upcoming series of new vvvv beginner tutorials</Title>
 	</Item>
@@ -7,7 +10,7 @@
 		<Title>Registration is open for LINK - the vvvv Summer Camp 2024</Title>
 	</Item>
 	<Item postedOn="12.06.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 6.5 is out!</Title>
+		<Title>vvvv gamma 6.6 is out!</Title>
 	</Item>
 	<Item postedOn="02.06.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-may-2024/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in May</Title>
