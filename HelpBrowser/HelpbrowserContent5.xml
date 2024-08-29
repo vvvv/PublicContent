@@ -13,7 +13,7 @@
         <Tutorial title="Circle Pit" link="https://youtu.be/Ma1IullIugY" length="11:00 min" thumbnail="Tutorials-CirclePit.png" mediaType="video">
           <Description></Description>
         </Tutorial>
-        <Tutorial title="Building a simple 3d Scene" link="https://youtu.be/Cs60A_pSIy0" length="15:17 min" thumbnail="Tutorials-SimpleScene.png" mediaType="video">
+        <Tutorial title="World Cities" link="https://youtu.be/ymzrK7tZLBI" length="13:49 min" thumbnail="Tutorials-Worldcities.png" mediaType="video">
           <Description></Description>
         </Tutorial>
       </Tutorials>
@@ -27,8 +27,8 @@
         <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
           <Description>Shadows for free</Description>
         </Example>
-		<Example title="3D: World Cities" thumbnail="Examples-Worldcities.png" link="VL.Stride/Example World Cities.vl" mediaType="vl">
-          <Description>25k cities with instancing</Description>
+		<Example title="3D: Matrjoschka" thumbnail="Examples-Matrjoschka.png" link="VL.Stride/Example Matrjoschka.vl" mediaType="vl">
+          <Description>Texture Feeeedback!!1!</Description>
         </Example>
       </Examples>
       <Newsletter headline="Sign up for our Newsletter">
