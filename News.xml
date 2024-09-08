@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="09.09.24" link="https://www.noise.ist/vienna" mediaType="text" thumbnail="">
+		<Title>2 day vvvv/fuse workshop in Vienna as part of NOISE festival on Sept. 13 and 14</Title>
+	</Item>
 	<Item postedOn="29.08.24" link="https://youtu.be/ymzrK7tZLBI" mediaType="video" thumbnail="">
 		<Title>New beginner tutorial: World Cities</Title>
-	</Item>
-	<Item postedOn="14.08.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-july-2024/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in July</Title>
-	</Item>
+	</Item>	
 	<Item postedOn="03.07.24" link="https://visualprogramming.net/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 6.6 is out!</Title>
 	</Item>
