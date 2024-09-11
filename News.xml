@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="11.09.24" link="https://thenodeinstitute.org/courses/ws24-5-vvvv-beginners-class/" mediaType="text" thumbnail="">
+		<Title>12 sessions online vvvv beginner course starting October 7th</Title>
+	</Item>
 	<Item postedOn="09.09.24" link="https://www.noise.ist/vienna" mediaType="text" thumbnail="">
 		<Title>2 day vvvv/fuse workshop in Vienna as part of NOISE festival on Sept. 13 and 14</Title>
 	</Item>
