@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE ROOT PUBLIC "" ""[]>
 <Helpbrowser>
+  <Packs>
+    <Pack id="VL.Fuse">
+      <Link title="Chat" link="https://app.element.io/#/room/#VL.Fuse:matrix.org"/>
+      <Link title="Sponsor!" link="https://opencollective.com/the-fuse-lab"/>
+    </Pack>
+    <Pack id="VL.TheBigBang">
+      <Link title="Sponsor!" link="https://ko-fi.com/chk"/>
+    </Pack>
+    <Pack id="VL.Kairos">
+      <Link title="Chat" link="https://app.element.io/#/room/#VL.Kairos:matrix.org"/>
+      <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
+    </Pack>
+    <Pack id="VL.HapPlayer">
+      <Link title="Sponsor!" link="https://www.patreon.com/hap_player"/>
+    </Pack>
+    <Pack id="VL.OpenCV">
+      <Link title="Chat" link="https://app.element.io/#/room/#VLOpenCV:matrix.org"/>
+    </Pack>
+  </Packs>
   <Documentation>
     <GettingStarted>
       <Tutorials headline="Tutorial Videos" seeMoreLink="Learn/Documentation?Tutorial">
