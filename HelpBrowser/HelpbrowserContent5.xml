@@ -19,6 +19,15 @@
     <Pack id="VL.OpenCV">
       <Link title="Chat" link="https://matrix.to/#/#VLOpenCV:matrix.org"/>
     </Pack>
+    <Pack id="VL.Elementa">
+      <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org"/>
+    </Pack>
+    <Pack id="VL.CoreLib">
+      <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
+    </Pack>
+    <Pack id="VL.CoreLib.Windows">
+      <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
+    </Pack>
   </Packs>
   <Documentation>
     <GettingStarted>
