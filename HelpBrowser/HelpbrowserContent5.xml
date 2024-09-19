@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE ROOT PUBLIC "" ""[]>
 <Helpbrowser>
+  <TutorialsAndCourses title="Tutorials &amp; Courses">
+    <Description>
+      Third party Tutorials and Courses available online.
+    </Description>
+  </TutorialsAndCourses>
   <Packs>
     <Pack id="VL.Fuse">
       <Link title="Chat" link="https://matrix.to/#/#VL.Fuse:matrix.org"/>
