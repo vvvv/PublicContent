@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<Pack>
+  <Topic title="Chk">
+    <UriItem title="Tutorial VL.TheBigBang" link="https://github.com/chkworks/VL.TheBigBang" mediaType="text"/>
+  </Topic>
+  <Topic title="Takuma Nakata">
+    <Subtopic title="Graphics Tutorials">
+        <UriItem title="Tutorial Stride Texture 2 Skia" link="https://www.youtube.com/watch?v=4f1wnvPMOJA" mediaType="video"/>
+        <UriItem title="Tutorial FFT with Skia" link="https://www.youtube.com/watch?v=8T9DG3ECNRc" mediaType="video"/>
+        <UriItem title="Tutorial Feeding Skia Texture 2 Stride" link="https://www.youtube.com/watch?v=9_rvEs6FJ3s" mediaType="video"/>
+        <UriItem title="Tutorial GPU Instancing &amp; a bit of Cash Region" link="https://www.youtube.com/watch?v=fyG63KEVhoo" mediaType="video"/>
+        <UriItem title="Tutorial Path Oriented Camera Animation" link="https://www.youtube.com/watch?v=jqt6Y9TDYC0" mediaType="video"/>
+        <UriItem title="Tutorial FFT with Stride" link="https://www.youtube.com/watch?v=umfavtS1EgI" mediaType="video"/>
+        <UriItem title="Tutorial FUSE with SDF &amp; Fresnel" link="https://www.youtube.com/watch?v=4YPVbafyJ3w" mediaType="video"/>
+        <UriItem title="Tutorial Repeat Pattern on Y Axis with FUSE Shader" link="https://www.youtube.com/watch?v=b6xAN5PbgCg" mediaType="video"/>
+        <UriItem title="Tutorial Distorting Geometry using FUSE Material Function" link="https://www.youtube.com/watch?v=NcEL7QBkwgA" mediaType="video"/>
+        <UriItem title="Tutorial FUSE Particle Intro - Compute Stage" link="https://www.youtube.com/watch?v=EH8Cv0OsPaw" mediaType="video"/>
+        <UriItem title="Tutorial FBX to Pointcloud" link="https://www.youtube.com/watch?v=t087PiCAK9s" mediaType="video"/>
+        <UriItem title="Tutorial Realtime PLY Pointcloud Visualization with FUSE" link="https://www.youtube.com/watch?v=G-1KLmpbYog" mediaType="video"/>
+        <UriItem title="Tutorial FUSE Particle Intro - Emission Stage and Simulation Stage" link="https://www.youtube.com/watch?v=EX6TzcvzCNQ" mediaType="video"/>
+        <UriItem title="HowTo Create a glass like Material using FUSE" link="https://www.youtube.com/watch?v=VK526qU0XXY" mediaType="video"/>
+    </Subtopic>
+  </Topic>
+  <Topic title="TobyK">
+    <Subtopic title="Intermediate Tutorials for vvvv Gamma">
+        <UriItem title="Explanation First steps with Records" link="https://www.youtube.com/watch?v=RXDRfqLbc74" mediaType="video"/>
+        <UriItem title="Explanation Mutability (Record vs Class)" link="https://www.youtube.com/watch?v=zGufG64WSF4" mediaType="video"/>
+        <UriItem title="Tutorial VL.GameAudioPlayer Tutorial" link="https://www.youtube.com/watch?v=YpNjaCLbQZM" mediaType="video"/>
+        <UriItem title="Tutorial Exporting Data to a Spreadsheet" link="https://www.youtube.com/watch?v=cKjb3dFOXqk" mediaType="video"/>
+        <UriItem title="Explanation Ticket is the new bang" link="https://www.youtube.com/watch?v=8dasXkisqTY" mediaType="video"/>
+        <UriItem title="Explanation Definitions, Applications &amp; Dependencies" link="https://www.youtube.com/watch?v=MsQs6K4aOp4" mediaType="video"/>
+        <UriItem title="Explanation Collections" link="https://www.youtube.com/watch?v=sg4469iiao8" mediaType="video"/>
+        <UriItem title="Tutorial Manipulating Classes" link="https://www.youtube.com/watch?v=nKYn9fk9yrg" mediaType="video"/>
+        <UriItem title="Tutorial Type Flex 1: Programming-Time Type Flexibility" link="https://www.youtube.com/watch?v=a-YJviJKcDo" mediaType="video"/>
+        <UriItem title="Tutorial Type Flex 2: Run-Time Type Flexibility" link="https://www.youtube.com/watch?v=atuOObHFXpw" mediaType="video"/>
+    </Subtopic>
+  </Topic>
+  <Topic title="The Node Institute">
+      <Subtopic title="Tutorial for Absolute Beginners of VL">
+        <UriItem title="Explanation 1. Navigating the Environment" link="https://www.youtube.com/watch?v=7m1EzfxUtzo" mediaType="video"/>
+        <UriItem title="Explanation 2. Types &amp; IOBoxes" link="https://www.youtube.com/watch?v=9iH72qdb4Xk" mediaType="video"/>
+        <UriItem title="Explanation 3. Nodes &amp; Pins" link="https://www.youtube.com/watch?v=eCTEAFfb9rQ" mediaType="video"/>
+        <UriItem title="Explanation 4. Type Conversion" link="https://www.youtube.com/watch?v=r1X0VJ9oumQ" mediaType="video"/>
+        <UriItem title="Explanation 5. The Stride Rendering Pipeline" link="https://www.youtube.com/watch?v=4rDgVe1F0gg" mediaType="video"/>
+        <UriItem title="Explanation 6. Spreads &amp; Iteration" link="https://www.youtube.com/watch?v=3u3QOd4UyWM" mediaType="video"/>
+        <UriItem title="Explanation 7. Controlling Patches" link="https://www.youtube.com/watch?v=LOX32diUgOQ" mediaType="video"/>
+      </Subtopic>
+    <UriItem title="Machine Learning for Interaction Designers" link="https://thenodeinstitute.org/courses/machine-learning-for-interaction-designers/" mediaType="text"/>
+  </Topic>
+  <Topic title="Add your content">
+    <UriItem title="HowTo Submit Your Content for the Helpbrowser" link="https://thegraybook.vvvv.org/" mediaType="text"/>
+  </Topic>
+</Pack>
