@@ -4,6 +4,12 @@
         <Lib nuget="VL.Mapper"/>
         <Lib nuget="VL.MediaPipe"/>
     </Category>
+    <Category title="Extensions">
+        <Lib nuget="VL.Pipette.HDE"/>
+        <Lib nuget="VL.SpoutMonitor.HDE"/>
+        <Lib nuget="VL.TUIO.HDE"/>
+        <Lib nuget="VL.DebugInfo.HDE"/>
+    </Category>
     <Category title="2d Graphics">
         <Lib nuget="VL.Skia" builtin="true"/>
         <Lib nuget="VL.Elementa">
