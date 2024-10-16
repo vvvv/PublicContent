@@ -1,265 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
 <Libraries>
-    <Category title="Featured">
-        <Lib nuget="VL.Fuse"/>
-        <Lib nuget="VL.Mapper"/>
-        <Lib nuget="VL.MediaPipe"/>
+  <Category title="Featured">
+    <Lib nuget="VL.Fuse"/>
+    <Lib nuget="VL.Mapper"/>
+    <Lib nuget="VL.MediaPipe"/>
+  </Category>
+  <Category title="Extensions">
+    <Lib nuget="VL.Pipette.HDE"/>
+    <Lib nuget="VL.SpoutMonitor.HDE"/>
+    <Lib nuget="VL.TUIO.HDE"/>
+    <Lib nuget="VL.DebugInfo.HDE"/>
+  </Category>
+  <Category title="2d Graphics">
+    <Lib nuget="VL.Skia" builtin="true"/>
+    <Lib nuget="VL.Elementa">
+      <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org"/>
+    </Lib>
+    <Lib nuget="VL.CEF.Skia"/>
+    <Lib nuget="VL.PDFReader"/>
+    <Lib nuget="VL.PolyTools"/>
+    <Lib nuget="VL.QRCode"/>
+    <Lib nuget="VL.SRT"/>
+    <Lib nuget="VL.ScreenRecorder"/>
+    <Lib nuget="VL.SmallestCircle"/>
+    <Category title="Text Rendering">
+      <Lib nuget="VL.RichtextKit"/>
     </Category>
-    <Category title="Extensions">
-        <Lib nuget="VL.Pipette.HDE"/>
-        <Lib nuget="VL.SpoutMonitor.HDE"/>
-        <Lib nuget="VL.TUIO.HDE"/>
-        <Lib nuget="VL.DebugInfo.HDE"/>
+  </Category>
+  <Category title="3d Graphics">
+    <Category title="General">
+      <Lib nuget="VL.Fuse">
+        <Link title="Chat" link="https://matrix.to/#/#VL.Fuse:matrix.org"/>
+        <Link title="Sponsor!" link="https://opencollective.com/the-fuse-lab"/>
+      </Lib>
+      <Lib nuget="VL.Stride"/>
+      <Lib nuget="VL.Stride.BezierPatch"/>
+      <Lib nuget="VL.Stride.TextureFX"/>
+      <Lib nuget="VL.CEF.Stride"/>
+      <Lib nuget="VL.PDFReader"/>
+      <Lib nuget="VL.Addons"/>
+      <Lib nuget="VL.Stride.Text3d"/>
+      <Lib nuget="VL.Stride.SDFToMesh"/>
+      <Lib nuget="VL.IO.PLY"/>
+      <Lib nuget="VL.IO.Teximp"/>
+      <Lib nuget="VL.Assimp"/>
+      <Lib nuget="VL.OpenEXR"/>
+      <Lib nuget="VL.Boids-GPU"/>
+      <Lib nuget="VL.Radiosity"/>
+      <Lib nuget="VL.Skia3d"/>
     </Category>
-    <Category title="2d Graphics">
-        <Lib nuget="VL.Skia" builtin="true"/>
-        <Lib nuget="VL.Elementa">
-            <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org" />
-        </Lib>
-        <Lib nuget="VL.CEF.Skia"/>
-        <Lib nuget="VL.PDFReader"/>
-        <Lib nuget="VL.PolyTools"/>
-        <Lib nuget="VL.QRCode"/>
-        <Lib nuget="VL.SRT"/>
-        <Lib nuget="VL.ScreenRecorder"/>
-        <Lib nuget="VL.SmallestCircle"/>
-        <Category title="Text Rendering">
-            <Lib nuget="VL.RichtextKit"/>
-        </Category>
+    <Category title="Geometry">
+      <Lib nuget="VL.Rhino.3dm"/>
     </Category>
-    <Category title="3d Graphics">
-        <Category title="General">
-            <Lib nuget="VL.Fuse">
-                <Link title="Chat" link="https://matrix.to/#/#VL.Fuse:matrix.org" />
-                <Link title="Sponsor!" link="https://opencollective.com/the-fuse-lab" />
-            </Lib>
-            <Lib nuget="VL.Stride"/>
-            <Lib nuget="VL.Stride.BezierPatch"/>
-            <Lib nuget="VL.Stride.TextureFX"/>
-            <Lib nuget="VL.CEF.Stride"/>
-            <Lib nuget="VL.PDFReader"/>
-            <Lib nuget="VL.Addons"/>
-            <Lib nuget="VL.Stride.Text3d"/>
-            <Lib nuget="VL.Stride.SDFToMesh"/>
-            <Lib nuget="VL.IO.PLY"/>
-            <Lib nuget="VL.IO.Teximp"/>
-            <Lib nuget="VL.Assimp"/>
-            <Lib nuget="VL.OpenEXR"/>
-            <Lib nuget="VL.Boids-GPU"/>
-            <Lib nuget="VL.Radiosity"/>
-            <Lib nuget="VL.Skia3d"/>
-        </Category>
-        <Category title="Geometry">
-            <Lib nuget="VL.Rhino.3dm"/>
-        </Category>
-        <Category title="Text Rendering">
-            <Lib nuget="VL.CEF.Stride"/>
-            <Lib nuget="VL.Stride.Text3d"/>
-            <Lib nuget="VL.BMFont"/>
-        </Category>
-        <Category title="Virtual Reality">
-            <Lib nuget="VL.Stride.OpenXRExtensions"/>
-            <Lib nuget="VL.IO.OpenVR"/>
-        </Category>
+    <Category title="Text Rendering">
+      <Lib nuget="VL.CEF.Stride"/>
+      <Lib nuget="VL.Stride.Text3d"/>
+      <Lib nuget="VL.BMFont"/>
     </Category>
-    <Category title="Animation">
-        <Category title="2d Particle System">
-            <Lib nuget="VL.Animation.ParticleSystem"/>
-        </Category>
-        <Category title="Tracking Objects">
-            <Lib nuget="VL.TrackObjects"/>
-        </Category>
-        <Category title="Looping">
-            <Lib nuget="VL.LoopTool"/>
-        </Category>
-        <Category title="Timeliner">
-            <Lib nuget="VL.Kairos">
-                <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org" />
-                <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab" />
-            </Lib>
-            <Lib name="Tilda"/>
-        </Category>
-        <Category title="State Machine">
-            <Lib nuget="VL.AutomataUI"/>
-        </Category>
+    <Category title="Virtual Reality">
+      <Lib nuget="VL.Stride.OpenXRExtensions"/>
+      <Lib nuget="VL.IO.OpenVR"/>
     </Category>
-    <Category title="Audio">
-        <Lib nuget="VL.Audio" builtin="true"/>
-        <Lib nuget="VL.Audio.GPL"/>
-        <Lib nuget="VL.Audio.LTC"/>
-        <Lib nuget="VL.GameAudioPlayer"/>
-        <Lib nuget="VL.NewAudio"/>
-        <Category title="MIDI">
-            <Lib nuget="VL.IO.Midi"/>
-            <Lib nuget="VL.MiDi.Music.Utils"/>
-        </Category>
-        <Category title="FMOD">
-            <Lib nuget="VL.FMODStudio"/>
-        </Category>
+  </Category>
+  <Category title="Animation">
+    <Category title="2d Particle System">
+      <Lib nuget="VL.Animation.ParticleSystem"/>
     </Category>
-    <Category title="Augmented Reality">
-        <Lib nuget="VL.OpenCV"/>
+    <Category title="Tracking Objects">
+      <Lib nuget="VL.TrackObjects"/>
     </Category>
-    <Category title="Color">
-        <Lib nuget="VL.ColorBlender"/>
-        <Lib nuget="VL.ColorLovers"/>
-        <Lib nuget="VL.ColorThief"/>
-        <Lib nuget="VL.Unicolour"/>
-        <Lib nuget="VL.Pipette.HDE"/>
+    <Category title="Looping">
+      <Lib nuget="VL.LoopTool"/>
     </Category>
-    <Category title="Computer Vision">
-        <Lib nuget="VL.MediaPipe"/>
-        <Lib nuget="VL.Augmenta"/>
-        <Lib nuget="VL.OpenCV">
-            <Link title="Chat" link="https://matrix.to/#/#VLOpenCV:matrix.org" />
-        </Lib>
-        <Lib nuget="VL.DlibDotNet"/>
-        <Lib nuget="VL.RunwayML"/>
+    <Category title="Timeliner">
+      <Lib nuget="VL.Kairos">
+        <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org"/>
+        <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
+      </Lib>
+      <Lib name="Tilda"/>
     </Category>
-    <Category title="Databases">
-        <Lib nuget="VL.InfluxDB"/>
-        <Lib nuget="VL.IO.Redis" builtin="true"/>
+    <Category title="State Machine">
+      <Lib nuget="VL.AutomataUI"/>
     </Category>
-    <Category title="Devices">
-        <Category title="Depth Cameras">
-            <Lib nuget="VL.Devices.ZED"/>
-            <Lib nuget="VL.Devices.RealSense"/>
-            <Lib nuget="VL.Devices.Astra"/>
-            <Lib nuget="VL.Devices.AzureKinect.Body"/>
-            <Lib nuget="VL.Devices.Kinect2"/>
-            <Lib nuget="VL.Kinect2FuseUtils"/>
-            <Lib nuget="VL.Devices.Kinect"/>
-            <Lib nuget="VL.Devices.Nuitrack"/>
-            <Lib nuget="VL.Devices.Ultraleap"/>
-        </Category>
-        <Category title="Light &amp; Lasers">
-            <Lib nuget="VL.IO.ArtNet"/>
-            <Lib nuget="VL.Devices.ENTTEC"/>
-            <Lib nuget="VL.ILDA"/>
-        </Category>
-        <Category title="Cameras">
-            <Lib nuget="VL.Devices.uEye"/>
-            <Lib nuget="VL.Devices.IDS"/>
-            <Lib nuget="VL.Devices.TheImagingSource"/>
-            <Lib nuget="VL.Devices.DigiCamControl"/>
-        </Category>
-        <Category title="Capture Cards">
-            <Lib nuget="VL.Devices.DeckLink"/>
-        </Category>
-        <Category title="Other">
-            <Lib nuget="VL.Devices.StreamDeck"/>
-            <Lib nuget="VL.Devices.SpaceMouse"/>
-            <Lib nuget="VL.Devices.SpaceMouseHID"/>
-            <Lib nuget="VL.Devices.TheEyeTribe"/>
-            <Lib nuget="VL.Devices.WinTab"/>
-            <Lib nuget="VL.GameController"/>
-            <Lib nuget="VL.IO.Xbox360Controller"/>
-            <Lib nuget="VL.PJLink"/>
-            <Lib nuget="VL.M8Display"/>
-            <Lib nuget="VL.PTZ"/>
-            <Lib nuget="VL.Devices.Robotiq"/>
-        </Category>
+  </Category>
+  <Category title="Audio">
+    <Lib nuget="VL.Audio" builtin="true"/>
+    <Lib nuget="VL.Audio.GPL"/>
+    <Lib nuget="VL.Audio.LTC"/>
+    <Lib nuget="VL.GameAudioPlayer"/>
+    <Lib nuget="VL.NewAudio"/>
+    <Category title="MIDI">
+      <Lib nuget="VL.IO.Midi"/>
+      <Lib nuget="VL.MiDi.Music.Utils"/>
     </Category>
-    <Category title="IO">
-        <Category title="Networking">
-            <Lib nuget="VL.IO.TCP"/>
-            <Lib nuget="VL.IO.WebSocket"/>
-            <Lib nuget="VL.IO.TUIO"/>
-            <Lib nuget="VL.TUIO.HDE"/>
-            <Lib nuget="VL.IO.M2MQTT"/>
-            <Lib nuget="VL.IO.MQTTnet"/>
-            <Lib nuget="VL.IO.NETMQ"/>
-            <Lib nuget="VL.IO.RCP"/>
-            <Lib nuget="VL.SimpleHTTP"/>
-            <Lib nuget="VL.IO.HTTP.WebServer"/>
-            <Lib nuget="VL.IO.NDI"/>
-            <Lib nuget="VL.IO.SPNet"/>
-            <Lib nuget="VL.IO.OSC"/>
-            <Lib nuget="VL.IO.OSCQuery"/>
-            <Lib nuget="VL.SocketIO"/>
-        </Category>
-        <Category title="Others">
-            <Lib nuget="VL.IO.AbletonLink"/>
-            <Lib nuget="VL.IO.MouseKeyGlobal"/>
-            <Lib nuget="VL.BlueIOT"/>
-            <Lib nuget="VL.IO.Modbus"/>
-            <Lib nuget="VL.IO.Firmata"/>
-        </Category>
-        <Category title="Web APIs">
-            <Lib nuget="VL.IO.Mastodon"/>
-            <Lib nuget="VL.IO.Net.Mail"/>
-            <Lib nuget="VL.OpenWeather"/>
-            <Lib nuget="VL.Spotify"/>
-        </Category>
-        <Category title="Serialization">
-            <Lib nuget="VL.Serialization.Raw"/>
-            <Lib nuget="VL.Serialization.MessagePack"/>
-            <Lib nuget="VL.Serialization.FSPickler"/>
-        </Category>
+    <Category title="FMOD">
+      <Lib nuget="VL.FMODStudio"/>
     </Category>
-    <Category title="Machine Learning">
-        <Lib nuget="VL.Wekinator"/>
-        <Lib nuget="VL.OpenAI"/>
-        <Lib nuget="VLML"/>
-        <Lib nuget="VL.OpenCV"/>
-        <Lib nuget="ONNX"/>
-        <Lib nuget="VL.DlibDotNet"/>
-        <Lib nuget="VL.MLNet"/>
-        <Lib nuget="VL.RunwayML"/>
-        <Lib nuget="VLML_Stride"/>
-        <Lib nuget="VLML.ONNX"/>
-        <Lib nuget="VLML.ONNX_03"/>
+  </Category>
+  <Category title="Augmented Reality">
+    <Lib nuget="VL.OpenCV"/>
+  </Category>
+  <Category title="Color">
+    <Lib nuget="VL.ColorBlender"/>
+    <Lib nuget="VL.ColorLovers"/>
+    <Lib nuget="VL.ColorThief"/>
+    <Lib nuget="VL.Unicolour"/>
+    <Lib nuget="VL.Pipette.HDE"/>
+  </Category>
+  <Category title="Computer Vision">
+    <Lib nuget="VL.MediaPipe"/>
+    <Lib nuget="VL.Augmenta"/>
+    <Lib nuget="VL.OpenCV">
+      <Link title="Chat" link="https://matrix.to/#/#VLOpenCV:matrix.org"/>
+    </Lib>
+    <Lib nuget="VL.DlibDotNet"/>
+    <Lib nuget="VL.RunwayML"/>
+  </Category>
+  <Category title="Databases">
+    <Lib nuget="VL.InfluxDB"/>
+    <Lib nuget="VL.IO.Redis" builtin="true"/>
+  </Category>
+  <Category title="Devices">
+    <Category title="Depth Cameras">
+      <Lib nuget="VL.Devices.ZED"/>
+      <Lib nuget="VL.Devices.RealSense"/>
+      <Lib nuget="VL.Devices.Astra"/>
+      <Lib nuget="VL.Devices.AzureKinect.Body"/>
+      <Lib nuget="VL.Devices.Kinect2"/>
+      <Lib nuget="VL.Kinect2FuseUtils"/>
+      <Lib nuget="VL.Devices.Kinect"/>
+      <Lib nuget="VL.Devices.Nuitrack"/>
+      <Lib nuget="VL.Devices.Ultraleap"/>
     </Category>
-    <Category title="Physical Computing">
-        <Lib nuget="VL.Devices.Phidgets"/>
+    <Category title="Light &amp; Lasers">
+      <Lib nuget="VL.IO.ArtNet"/>
+      <Lib nuget="VL.Devices.ENTTEC"/>
+      <Lib nuget="VL.ILDA"/>
     </Category>
-    <Category title="Projection Mapping">
-        <Lib nuget="VL.BadMapper"/>
-        <Lib nuget="VL.Mapper"/>
-        <Lib name="Domemaster"/>
-        <Lib nuget="VL.ScalableDisplay"/>
-        <Lib nuget="VL.VIOSOWarpBlend"/>
+    <Category title="Cameras">
+      <Lib nuget="VL.Devices.uEye"/>
+      <Lib nuget="VL.Devices.IDS"/>
+      <Lib nuget="VL.Devices.TheImagingSource"/>
+      <Lib nuget="VL.Devices.DigiCamControl"/>
     </Category>
-    <Category title="Video">
-        <Category title="Playback &amp; Video Input">
-            <Lib nuget="VL.HapPlayer">
-                <Link title="Sponsor!" link="https://www.patreon.com/hap_player" />
-            </Lib>
-            <Lib nuget="VL.OpenCV"/>
-            <Lib nuget="VL.GStreamer"/>
-            <Lib nuget="VL.Video"/>
-            <Lib nuget="VL.Video.MediaFoundation"/>
-        </Category>
-        <Category title="Cameras">
-            <Lib nuget="VL.Devices.uEye"/>
-            <Lib nuget="VL.Devices.IDS"/>
-            <Lib nuget="VL.Devices.TheImagingSource"/>
-            <Lib nuget="VL.Devices.DigiCamControl"/>
-        </Category>
-        <Category title="Capture Cards">
-            <Lib nuget="VL.Devices.DeckLink"/>
-        </Category>
-        <Category title="NDI">
-            <Lib nuget="VL.IO.NDI"/>
-        </Category>
+    <Category title="Capture Cards">
+      <Lib nuget="VL.Devices.DeckLink"/>
     </Category>
-    <Category title="Tutorials">
-        <Lib nuget="VL.TheBigBang">
-            <Link title="Sponsor!" link="https://ko-fi.com/chk" />
-        </Lib>
-        <Lib nuget="VL.ExtendedTutorials"/>
-        <Lib nuget="VL.GenerativeGestaltung"/>
+    <Category title="Other">
+      <Lib nuget="VL.Devices.StreamDeck"/>
+      <Lib nuget="VL.Devices.SpaceMouse"/>
+      <Lib nuget="VL.Devices.SpaceMouseHID"/>
+      <Lib nuget="VL.Devices.TheEyeTribe"/>
+      <Lib nuget="VL.Devices.WinTab"/>
+      <Lib nuget="VL.GameController"/>
+      <Lib nuget="VL.IO.Xbox360Controller"/>
+      <Lib nuget="VL.PJLink"/>
+      <Lib nuget="VL.M8Display"/>
+      <Lib nuget="VL.PTZ"/>
+      <Lib nuget="VL.Devices.Robotiq"/>
     </Category>
-    <Category title="Hidden">
-        <Lib nuget="VL.PluginTemplate"/>
-        <Lib nuget="VL.NewLibrary.HDE"/>
-        <Lib nuget="VL.Audio.UI"/>
-        <Lib nuget="VL.CoreLib">
-            <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org" />
-        </Lib>
-        <Lib nuget="VL.CoreLib.Windows">
-            <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org" />
-        </Lib>
+  </Category>
+  <Category title="IO">
+    <Category title="Networking">
+      <Lib nuget="VL.IO.TCP"/>
+      <Lib nuget="VL.IO.WebSocket"/>
+      <Lib nuget="VL.IO.TUIO"/>
+      <Lib nuget="VL.TUIO.HDE"/>
+      <Lib nuget="VL.IO.M2MQTT"/>
+      <Lib nuget="VL.IO.MQTTnet"/>
+      <Lib nuget="VL.IO.NETMQ"/>
+      <Lib nuget="VL.IO.RCP"/>
+      <Lib nuget="VL.SimpleHTTP"/>
+      <Lib nuget="VL.IO.HTTP.WebServer"/>
+      <Lib nuget="VL.IO.NDI"/>
+      <Lib nuget="VL.IO.SPNet"/>
+      <Lib nuget="VL.IO.OSC"/>
+      <Lib nuget="VL.IO.OSCQuery"/>
+      <Lib nuget="VL.SocketIO"/>
     </Category>
+    <Category title="Others">
+      <Lib nuget="VL.IO.AbletonLink"/>
+      <Lib nuget="VL.IO.MouseKeyGlobal"/>
+      <Lib nuget="VL.BlueIOT"/>
+      <Lib nuget="VL.IO.Modbus"/>
+      <Lib nuget="VL.IO.Firmata"/>
+    </Category>
+    <Category title="Web APIs">
+      <Lib nuget="VL.IO.Mastodon"/>
+      <Lib nuget="VL.IO.Net.Mail"/>
+      <Lib nuget="VL.OpenWeather"/>
+      <Lib nuget="VL.Spotify"/>
+    </Category>
+    <Category title="Serialization">
+      <Lib nuget="VL.Serialization.Raw"/>
+      <Lib nuget="VL.Serialization.MessagePack"/>
+      <Lib nuget="VL.Serialization.FSPickler"/>
+    </Category>
+  </Category>
+  <Category title="Machine Learning">
+    <Lib nuget="VL.Wekinator"/>
+    <Lib nuget="VL.OpenAI"/>
+    <Lib nuget="VLML"/>
+    <Lib nuget="VL.OpenCV"/>
+    <Lib nuget="ONNX"/>
+    <Lib nuget="VL.DlibDotNet"/>
+    <Lib nuget="VL.MLNet"/>
+    <Lib nuget="VL.RunwayML"/>
+    <Lib nuget="VLML_Stride"/>
+    <Lib nuget="VLML.ONNX"/>
+    <Lib nuget="VLML.ONNX_03"/>
+  </Category>
+  <Category title="Physical Computing">
+    <Lib nuget="VL.Devices.Phidgets"/>
+  </Category>
+  <Category title="Projection Mapping">
+    <Lib nuget="VL.BadMapper"/>
+    <Lib nuget="VL.Mapper"/>
+    <Lib name="Domemaster"/>
+    <Lib nuget="VL.ScalableDisplay"/>
+    <Lib nuget="VL.VIOSOWarpBlend"/>
+  </Category>
+  <Category title="Video">
+    <Category title="Playback &amp; Video Input">
+      <Lib nuget="VL.HapPlayer">
+        <Link title="Sponsor!" link="https://www.patreon.com/hap_player"/>
+      </Lib>
+      <Lib nuget="VL.OpenCV"/>
+      <Lib nuget="VL.GStreamer"/>
+      <Lib nuget="VL.Video"/>
+      <Lib nuget="VL.Video.MediaFoundation"/>
+    </Category>
+    <Category title="Cameras">
+      <Lib nuget="VL.Devices.uEye"/>
+      <Lib nuget="VL.Devices.IDS"/>
+      <Lib nuget="VL.Devices.TheImagingSource"/>
+      <Lib nuget="VL.Devices.DigiCamControl"/>
+    </Category>
+    <Category title="Capture Cards">
+      <Lib nuget="VL.Devices.DeckLink"/>
+    </Category>
+    <Category title="NDI">
+      <Lib nuget="VL.IO.NDI"/>
+    </Category>
+  </Category>
+  <Category title="Tutorials">
+    <Lib nuget="VL.TheBigBang">
+      <Link title="Sponsor!" link="https://ko-fi.com/chk"/>
+    </Lib>
+    <Lib nuget="VL.ExtendedTutorials"/>
+    <Lib nuget="VL.GenerativeGestaltung"/>
+  </Category>
+  <Category title="Hidden">
+    <Lib nuget="VL.PluginTemplate"/>
+    <Lib nuget="VL.NewLibrary.HDE"/>
+    <Lib nuget="VL.Audio.UI"/>
+    <Lib nuget="VL.CoreLib">
+      <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
+    </Lib>
+    <Lib nuget="VL.CoreLib.Windows">
+      <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
+    </Lib>
+  </Category>
 </Libraries>
-
-
