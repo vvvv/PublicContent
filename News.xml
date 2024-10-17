@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="14.10.24" link="https://visualprogramming.net/blog/2024/25.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
-		<Title>Join us for the 25. vvvv worldwide meetup on October 17th</Title>
+	<Item postedOn="18.10.24" link="https://www.youtube.com/live/MdvTa58uxB0?si=85bT8p7EJAowwm17" mediaType="video" thumbnail="">
+		<Title>Missed the last meetup? Click here to rewatch it!</Title>
 	</Item>
 	<Item postedOn="07.10.24" link="https://thenodeinstitute.org/vvvv-education-winter-2024-25/" mediaType="text" thumbnail="">
 		<Title>2x6 sessions online vvvv beginner course to start November 4 and January 13</Title>
