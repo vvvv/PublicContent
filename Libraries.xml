@@ -2,6 +2,7 @@
 <!DOCTYPE ROOT PUBLIC "" ""[]>
 <Libraries>
   <Category title="Featured">
+    <Lib nuget="VL.Addons"/>
     <Lib nuget="VL.Fuse"/>
     <Lib nuget="VL.Mapper"/>
     <Lib nuget="VL.MediaPipe"/>
