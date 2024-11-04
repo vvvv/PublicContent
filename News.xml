@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="04.11.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-october-2024/" mediaType="text" thumbnail="">
+		<Title>Review: vvvvhat happened in October</Title>
+	</Item>
 	<Item postedOn="18.10.24" link="https://www.youtube.com/live/MdvTa58uxB0?si=85bT8p7EJAowwm17" mediaType="video" thumbnail="">
 		<Title>Missed the last meetup? Click here to rewatch it!</Title>
 	</Item>
 	<Item postedOn="07.10.24" link="https://thenodeinstitute.org/vvvv-education-winter-2024-25/" mediaType="text" thumbnail="">
 		<Title>2x6 sessions online vvvv beginner course to start November 4 and January 13</Title>
-	</Item>
-	<Item postedOn="06.10.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-september-2024/" mediaType="text" thumbnail="">
-		<Title>Review: vvvvhat happened in September</Title>
 	</Item>
 	<Item postedOn="29.08.24" link="https://youtu.be/ymzrK7tZLBI" mediaType="video" thumbnail="">
 		<Title>New beginner tutorial: World Cities</Title>
