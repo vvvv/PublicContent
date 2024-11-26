@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
 	<Item postedOn="21.11.24" link="https://www.youtube.com/live/PuuTilbqd9w" mediaType="video" thumbnail="">
-		<Title>Out now: vvvvTv S02E01: Buttons & Sliders with Dear ImGui</Title>
+		<Title>Out now: vvvvTv S02E01: Buttons &amp; Sliders with Dear ImGui</Title>
 	</Item>
 	<Item postedOn="08.11.24" link="https://thenodeinstitute.org/courses/ws24-5-vvvv-beginners-part-ii/" mediaType="text" thumbnail="">
 		<Title>6 session beginner course part 2 "Deep Dive" starts January 13th</Title>
