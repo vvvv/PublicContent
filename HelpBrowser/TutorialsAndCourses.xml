@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE ROOT PUBLIC "" ""[]>
 <Pack>
+  <Topic title="vvvTv">
+      <Subtopic title="Season 2">
+        <UriItem title="Pilot: Sensors &amp; Servos with Arduino" link="https://www.youtube.com/live/uvLNZsStve8" mediaType="video"/>
+        <UriItem title="Ep. 1: Buttons &amp; Sliders with Dear ImGui" link="https://www.youtube.com/live/PuuTilbqd9w" mediaType="video"/>
+        <UriItem title="Ep. 2: Saving &amp; Loading UI State" link="https://www.youtube.com/live/GJQGVxA1pIQ" mediaType="video"/>
+        <UriItem title="Ep. 3: Logging" link="https://www.youtube.com/live/OpUrJjTXBxM" mediaType="video"/>
+      </Subtopic>
+  </Topic>
+  
   <Topic title="By Chk">
       <Subtopic title="Introduction for absolute beginners">
         <UriItem title="Explanation 1. Navigating the Environment" link="https://www.youtube.com/watch?v=7m1EzfxUtzo" mediaType="video"/>
