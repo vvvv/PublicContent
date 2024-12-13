@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="06.12.24" link="https://www.youtube.com/live/OpUrJjTXBxM" mediaType="video" thumbnail="">
-		<Title>Out now: vvvvTv S02E03: Logging</Title>
+	<Item postedOn="13.12.24" link="https://visualprogramming.net/blog/2024/reclaiming-vvvv.org/" mediaType="text" thumbnail="">
+		<Title>Reclaiming vvvv.org: Transition to new login-provider</Title>
+	</Item>
+	<Item postedOn="13.12.24" link="https://youtube.com/live/nrXfpn5V9h0" mediaType="video" thumbnail="">
+		<Title>Out now: vvvvTv S02E04: Custom Widgets with Dear ImGui</Title>
 	</Item>
 	<Item postedOn="03.12.24" link="https://visualprogramming.net/blog/2024/vvvvhat-happened-in-november-2024/" mediaType="text" thumbnail="">
 		<Title>Review: vvvvhat happened in November</Title>
