@@ -3,10 +3,11 @@
 <Pack>
   <Topic title="vvvTv">
       <Subtopic title="Season 2">
-        <UriItem title="Pilot: Sensors &amp; Servos with Arduino" link="https://www.youtube.com/live/uvLNZsStve8" mediaType="video"/>
-        <UriItem title="Ep. 1: Buttons &amp; Sliders with Dear ImGui" link="https://www.youtube.com/live/PuuTilbqd9w" mediaType="video"/>
-        <UriItem title="Ep. 2: Saving &amp; Loading UI State" link="https://www.youtube.com/live/GJQGVxA1pIQ" mediaType="video"/>
-        <UriItem title="Ep. 3: Logging" link="https://www.youtube.com/live/OpUrJjTXBxM" mediaType="video"/>
+        <UriItem title="Tutorial Pilot: Sensors &amp; Servos with Arduino" link="https://www.youtube.com/live/uvLNZsStve8" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 1: Buttons &amp; Sliders with Dear ImGui" link="https://www.youtube.com/live/PuuTilbqd9w" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 2: Saving &amp; Loading UI State" link="https://www.youtube.com/live/GJQGVxA1pIQ" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 3: Logging" link="https://www.youtube.com/live/OpUrJjTXBxM" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 4: Custom Widgets with Dear ImGui" link="https://www.youtube.com/watch?v=nrXfpn5V9h0" mediaType="video"/>
       </Subtopic>
   </Topic>
   
