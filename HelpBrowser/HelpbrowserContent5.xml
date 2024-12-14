@@ -88,34 +88,34 @@ It's not a valid E-Mail Address.</IsNotEmail>
         <Room title="HU" link="https://app.element.io/#/room/#vvvv-hu:matrix.org" />
       </Rooms>
     </Chat>
-    <Connection title="Forum" link="https://discourse.vvvv.org/c/vvvv-gamma">
+    <Connection title="Forum" link="https://forum.vvvv.org/c/vvvv-gamma">
       <Description>Where you find answers to your vvvv questions</Description>
     </Connection>
     <Connection title="Meetups" link="https://mobilize.berlin/@vvvvmeetups">
       <Description>Meet fellow patchers in real life for presentations and drinks</Description>
     </Connection>
-    <Connection title="News" link="https://visualprogramming.net/blog/">
+    <Connection title="News" link="https://vvvv.org/blog/">
       <Description>News blog on vvvv.org</Description>
     </Connection>
     <Connection title="Mastodon" link="https://mastodon.xyz/@vvvv">
       <Description>Follow vvvv on the fediverse: Where you get the latest bite-size news around vvvv</Description>
     </Connection>
-    <Connection title="Edus" link="https://vvvv.org/documentation/educational-institutions">
+    <Connection title="Edus" link="https://legacy.vvvv.org/documentation/educational-institutions">
       <Description>Educational institutions using vvvv in class</Description>
     </Connection>
-    <Connection title="Jobs" link="https://discourse.vvvv.org/c/jobs">
+    <Connection title="Jobs" link="https://forum.vvvv.org/c/jobs">
       <Description>Have a vvvv job to offer? Post it here for all patchers to see</Description>
     </Connection>
-    <Connection title="Businesses" link="https://vvvv.org/businesses">
+    <Connection title="Businesses" link="https://legacy.vvvv.org/businesses">
       <Description>Get exposure for your own vvvv business or find others near by</Description>
     </Connection>
-    <Connection title="Gallery" link="https://visualprogramming.net/#Showcase">
+    <Connection title="Gallery" link="https://vvvv.org/#Showcase">
       <Description>The vvvv gallery to share your projects</Description>
     </Connection>
     <Connection title="Vimeo" link="https://vimeo.com/groups/vvvv">
       <Description>The vimeo group to share your vvvv projects</Description>
     </Connection>
-    <Connection title="YouTube" link="https://www.youtube.com/channel/UCu-xqv-TLwv6L0An7MJJA5A">
+    <Connection title="YouTube" link="https://www.youtube.com/@vvvvTv42">
       <Description>Tutorials, HowTo Videos, vvvv Meetup Live Streams and more</Description>
     </Connection>
     <Connection title="GitHub" link="https://github.com//topics/vl">
