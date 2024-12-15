@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="13.12.24" link="https://vvvv.org/blog/2024/reclaiming-vvvv.org/" mediaType="text" thumbnail="">
-		<Title>Reclaiming vvvv.org: Transition to new login-provider</Title>
+	<Item postedOn="15.12.24" link="https://youtu.be/YZ_qpRv_Llg" mediaType="text" thumbnail="">
+		<Title>New audio-reactive video tutorial: Dancing Polygon</Title>
 	</Item>
 	<Item postedOn="13.12.24" link="https://youtube.com/live/nrXfpn5V9h0" mediaType="video" thumbnail="">
 		<Title>Out now: vvvvTv S02E04: Custom Widgets with Dear ImGui</Title>
