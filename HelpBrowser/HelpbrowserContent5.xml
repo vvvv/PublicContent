@@ -91,6 +91,9 @@ It's not a valid E-Mail Address.</IsNotEmail>
     <Connection title="Forum" link="https://forum.vvvv.org/c/vvvv-gamma">
       <Description>Where you find answers to your vvvv questions</Description>
     </Connection>
+    <Connection title="Meetups" link="https://mobilize.berlin/@vvvvmeetups">
+      <Description>Meet fellow patchers in real life for presentations and drinks</Description>
+    </Connection>
     <Connection title="News" link="https://vvvv.org/blog/">
       <Description>News blog on vvvv.org</Description>
     </Connection>
