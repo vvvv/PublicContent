@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="03.01.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-december-2024/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in December 2024</Title>
+	</Item>
 	<Item postedOn="18.12.24" link="https://vvvv.org/blog/2024/introducing-support-for-vst3-audio-plugins/" mediaType="text" thumbnail="">
 		<Title>Introducing: VST3 audio plugin support</Title>
 	</Item>	
 	<Item postedOn="15.12.24" link="https://youtu.be/YZ_qpRv_Llg" mediaType="text" thumbnail="">
 		<Title>New audio-reactive video tutorial: Dancing Polygon</Title>
 	</Item>
-	<Item postedOn="13.12.24" link="https://youtube.com/live/nrXfpn5V9h0" mediaType="video" thumbnail="">
-		<Title>Out now: vvvvTv S02E04: Custom Widgets with Dear ImGui</Title>
-	</Item>
 	<Item postedOn="08.11.24" link="https://thenodeinstitute.org/courses/ws24-5-vvvv-beginners-part-ii/" mediaType="text" thumbnail="">
 		<Title>6 session beginner course part 2 "Deep Dive" starts January 13th</Title>
-	</Item>
-	<Item postedOn="03.07.24" link="https://vvvv.org/blog/2024/vvvv-gamma-6.0-release/" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 6.6 is out!</Title>
 	</Item>
 	<Item postedOn="07.04.21" link="https://vvvv.org/blog/2021/we-offer-custom-support-and-development/" mediaType="text" thumbnail="">
 		<Title>We offer custom support and development</Title>
