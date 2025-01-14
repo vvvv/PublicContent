@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="14.11.24" link="https://thenodeinstitute.org/vvvv-beginner-class-summer-2025/" mediaType="text" thumbnail="">
+		<Title>Early Bird: 12 session beginner course starting March 24th</Title>
+	</Item>
 	<Item postedOn="09.01.25" link="https://youtube.com/live/LZ-y5FOrdh0" mediaType="text" thumbnail="">
 		<Title>vvvvTv S02 E05: Writing nodes with C&#35;</Title>
 	</Item>
@@ -12,9 +15,6 @@
 	<Item postedOn="18.12.24" link="https://vvvv.org/blog/2024/introducing-support-for-vst3-audio-plugins/" mediaType="text" thumbnail="">
 		<Title>Introducing: VST3 audio plugin support</Title>
 	</Item>	
-	<Item postedOn="08.11.24" link="https://thenodeinstitute.org/courses/ws24-5-vvvv-beginners-part-ii/" mediaType="text" thumbnail="">
-		<Title>6 session beginner course part 2 "Deep Dive" starts January 13th</Title>
-	</Item>
 	<Item postedOn="07.04.21" link="https://vvvv.org/blog/2021/we-offer-custom-support-and-development/" mediaType="text" thumbnail="">
 		<Title>We offer custom support and development</Title>
 	</Item>
