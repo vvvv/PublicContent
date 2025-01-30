@@ -9,6 +9,7 @@
         <UriItem title="Tutorial Ep. 3: Logging" link="https://www.youtube.com/live/OpUrJjTXBxM" mediaType="video"/>
         <UriItem title="Tutorial Ep. 4: Custom Widgets with Dear ImGui" link="https://www.youtube.com/watch?v=nrXfpn5V9h0" mediaType="video"/>
         <UriItem title="Tutorial Ep. 5: Writing nodes with C&#35;" link="https://www.youtube.com/live/LZ-y5FOrdh0" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 6: Networking with MQTT" link="https://youtube.com/live/LZ-y5FOrdh0" mediaType="video"/>
       </Subtopic>
   </Topic>
   
