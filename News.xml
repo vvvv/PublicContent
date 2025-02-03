@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="03.02.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-january-2025/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in January 2025</Title>
+	</Item>
 	<Item postedOn="30.01.25" link="https://www.youtube.com/live/h_TQFUN8EQ0" mediaType="text" thumbnail="">
 		<Title>vvvvTv S02 E06: Networking with MQTT</Title>
-	</Item>
-	<Item postedOn="17.01.25" link="https://www.youtube.com/live/uRVZlBzfHjU" mediaType="text" thumbnail="">
-		<Title>Rewatch the last meetup!</Title>
-	</Item>
+	</Item>	
 	<Item postedOn="14.01.25" link="https://thenodeinstitute.org/vvvv-beginner-class-summer-2025/" mediaType="text" thumbnail="">
 		<Title>12 session beginner course starting March 24th</Title>
 	</Item>	
