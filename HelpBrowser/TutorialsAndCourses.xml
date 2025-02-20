@@ -42,12 +42,13 @@
   </Topic>
  
   <Topic title="The Node Institute">
-      <Subtopic title="Winter Season 2024/2025">
-        <UriItem title="Upcoming 12-session beginner course" link="https://thenodeinstitute.org/courses/ws24-5-vvvv-beginners-class/" mediaType="video"/>
+      <Subtopic title="Upcoming">
+        <UriItem title="12-session beginner course" link="https://thenodeinstitute.org/vvvv-beginner-class-summer-2025/?/" mediaType="video" />
       </Subtopic>
-      <Subtopic title="Summer Season 2024">
-        <UriItem title="Tutorial Intro to the Stride engine" link="https://thenodeinstitute.org/courses/ss24-vvvv-intro-to-the-stride-3d-engine-in-vvvv/" mediaType="video"/>
-        <UriItem title="Tutorial Stride engine advanced" link="https://thenodeinstitute.org/courses/ss24-vvvv-advanced-3d-rendering-in-vvvv-with-stride/" mediaType="video"/>
+      <Subtopic title="Past courses still accessible">
+        <UriItem title="Various topics" link="https://thenodeinstitute.org/courses/" />
+        <UriItem title="Winter season 2023" link="https://thenodeinstitute.org/ws23-vvvv-intermediates/" mediaType="video" />
+        <UriItem title="Summer season 2023" link="https://thenodeinstitute.org/vvvv-intermediates-summer-2023/" mediaType="video" />
       </Subtopic>
   </Topic>
 
@@ -70,7 +71,7 @@
     </Subtopic>
   </Topic>
   
-  <Topic title="Add your content">
-    <UriItem title="HowTo Submit Your Content for the Helpbrowser" link="https://thegraybook.vvvv.org/" mediaType="text"/>
+  <Topic title="Add your content here">
+    <UriItem title="HowTo Submit Your Content for the Helpbrowser" link="https://thegraybook.vvvv.org/reference/extending/providing-help.html#tutorials-and-courses" mediaType="text"/>
   </Topic>
 </Pack>
