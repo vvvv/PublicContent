@@ -10,6 +10,8 @@
         <UriItem title="Tutorial Ep. 4: Custom Widgets with Dear ImGui" link="https://www.youtube.com/watch?v=nrXfpn5V9h0" mediaType="video"/>
         <UriItem title="Tutorial Ep. 5: Writing nodes with C&#35;" link="https://www.youtube.com/live/LZ-y5FOrdh0" mediaType="video"/>
         <UriItem title="Tutorial Ep. 6: Networking with MQTT" link="https://youtube.com/live/LZ-y5FOrdh0" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 7: Talking to an API via WebSocket" link="https://www.youtube.com/live/TTvkQgGZfZw" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 8: Multiplayer installation using WebSocket" link="https://www.youtube.com/live/GtKx2v5Egxw" mediaType="video"/>
       </Subtopic>
   </Topic>
   
