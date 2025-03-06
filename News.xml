@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="03.03.25" link="https://vvvv.org/blog/2025/27.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
-		<Title>27. vvvv worldwide meetup this Thursday, March 6</Title>
-	</Item>
-	<Item postedOn="27.02.25" link="https://www.youtube.com/live/GtKx2v5Egxw" mediaType="text" thumbnail="">
-		<Title>vvvvTv S02 E08: Multiplayer installation using WebSocket</Title>
-	</Item>
-	<Item postedOn="27.02.25" link="https://www.youtube.com/live/TTvkQgGZfZw" mediaType="text" thumbnail="">
-		<Title>vvvvTv S02 E07: Talking to an API via WebSocket</Title>
-	</Item>
-	<Item postedOn="03.02.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-january-2025/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in January 2025</Title>
+	<Item postedOn="06.03.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-february-2025/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in February 2025</Title>
 	</Item>
 	<Item postedOn="14.01.25" link="https://thenodeinstitute.org/vvvv-beginner-class-summer-2025/" mediaType="text" thumbnail="">
 		<Title>12 session beginner course starting March 24th</Title>
 	</Item>	
-	<Item postedOn="07.01.25" link="https://thegraybook.vvvv.org/changelog/6.x.html" mediaType="text" thumbnail="">
-		<Title>Hotfix release vvvv gamma 6.7 is out!</Title>
-	</Item>
 	<Item postedOn="07.04.21" link="https://vvvv.org/blog/2021/we-offer-custom-support-and-development/" mediaType="text" thumbnail="">
 		<Title>We offer custom support and development</Title>
 	</Item>
