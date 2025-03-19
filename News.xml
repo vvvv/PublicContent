@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="20.03.25" link="https://youtube.com/live/mhczdsRKmaE" mediaType="text" thumbnail="">
+		<Title>vvvvTv S02 E10: Serving a Web UI for mobile access</Title>
+	</Item>	
+	<Item postedOn="20.03.25" link="https://youtube.com/live/DR1ay0WR418" mediaType="text" thumbnail="">
+		<Title>vvvvTv S02 E09: Controlling apps via a Web UI</Title>
+	</Item>	
 	<Item postedOn="18.03.25" link="https://thenodeinstitute.org/courses/ss25-cm-creative-robotics/" mediaType="text" thumbnail="">
 		<Title>7 session Creative Robotics course starting May 7th</Title>
 	</Item>	
