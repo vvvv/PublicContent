@@ -12,6 +12,8 @@
         <UriItem title="Tutorial Ep. 6: Networking with MQTT" link="https://youtube.com/live/LZ-y5FOrdh0" mediaType="video"/>
         <UriItem title="Tutorial Ep. 7: Talking to an API via WebSocket" link="https://www.youtube.com/live/TTvkQgGZfZw" mediaType="video"/>
         <UriItem title="Tutorial Ep. 8: Multiplayer installation using WebSocket" link="https://www.youtube.com/live/GtKx2v5Egxw" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 9: Controlling apps via a Web UI using WebSocket" link="https://youtube.com/live/DR1ay0WR418" mediaType="video"/>
+        <UriItem title="Tutorial Ep. 10: Serving a Web UI for mobile access" link="https://youtube.com/live/mhczdsRKmaE" mediaType="video"/>
       </Subtopic>
   </Topic>
   
