@@ -60,10 +60,13 @@
         <Example title="3D: Rings" thumbnail="Examples-Rings.png" link="VL.Stride/Example Rings.vl" mediaType="vl">
           <Description>Shadows for free</Description>
         </Example>
-		<Example title="3D: Matrjoschka" thumbnail="Examples-Matrjoschka.png" link="VL.Stride/Example Matrjoschka.vl" mediaType="vl">
+		    <Example title="3D: Matrjoschka" thumbnail="Examples-Matrjoschka.png" link="VL.Stride/Example Matrjoschka.vl" mediaType="vl">
           <Description>Texture Feeeedback!!1!</Description>
         </Example>
       </Examples>
+      <CustomSupport title="Project Support">
+        <Item text="We offer priority support and development" link="https://vvvv.org/support/"/>
+      </CustomSupport>
       <Newsletter headline="Sign up for our Newsletter">
         <Description>Signing up will give you peace of mind to not miss any happenings around vvvv. Typically one mail per month.</Description>
         <IsNotEmail>Ouch.
