@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="03.04.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-march-2025/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in March 2025</Title>
+	</Item>
+	<Item postedOn="03.04.25" link="https://vvvv.org/blog/2025/introducing-vvvvc.exe/" mediaType="text" thumbnail="">
+		<Title>Introducing: vvvvc.exe</Title>
+	</Item>
 	<Item postedOn="20.03.25" link="https://youtube.com/live/mhczdsRKmaE" mediaType="text" thumbnail="">
 		<Title>vvvvTv S02 E10: Serving a Web UI for mobile access</Title>
 	</Item>	
@@ -9,7 +15,5 @@
 	<Item postedOn="18.03.25" link="https://thenodeinstitute.org/courses/ss25-cm-creative-robotics/" mediaType="text" thumbnail="">
 		<Title>7 session Creative Robotics course starting May 7th</Title>
 	</Item>	
-	<Item postedOn="06.03.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-february-2025/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in February 2025</Title>
-	</Item>
+	
 </News>
