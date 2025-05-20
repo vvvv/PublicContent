@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="20.05.25" link="https://youtube.com/live/j7DWMET-qM8" mediaType="text" thumbnail="">
+		<Title>vvvvTv S02E12: AR using OpenCV with ArUco Markers</Title>
+	</Item>	
+	<Item postedOn="20.05.25" link="https://www.youtube.com/live/fjw2m8w6RNU" mediaType="text" thumbnail="">
+		<Title>vvvvTv S02E11: Introduction to OpenCV</Title>
+	</Item>		
 	<Item postedOn="16.05.25" link="https://youtube.com/live/rXaUijAvuWw" mediaType="text" thumbnail="">
 		<Title>Rewatch the 28th vvvv worldwide meetup</Title>
 	</Item>
 	<Item postedOn="06.05.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-april-2025/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in April 2025</Title>
 	</Item>
-	<Item postedOn="05.05.25" link="https://vvvv.org/blog/2025/introducing-vvvv-on-arm-for-windows-and-mac-phase-1/2/" mediaType="text" thumbnail="">
-		<Title>Introducing: vvvv on Arm for Windows and Mac, Phase 1/2</Title>
-	</Item>	
 </News>
