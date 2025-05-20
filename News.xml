@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="20.05.25" link="https://vvvv.org/blog/2025/vl.opencv-4.0.0-is-out-now/" mediaType="text" thumbnail="">
+		<Title>VL.OpenCV 4.0 is out!</Title>
+	</Item>	
 	<Item postedOn="20.05.25" link="https://youtube.com/live/j7DWMET-qM8" mediaType="text" thumbnail="">
 		<Title>vvvvTv S02E12: AR using OpenCV with ArUco Markers</Title>
 	</Item>	
