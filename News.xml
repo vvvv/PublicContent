@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="02.07.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-june-2025/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in June 2025</Title>
+	</Item>
 	<Item postedOn="16.06.25" link="https://vvvv.org/blog/2025/29.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
 		<Title>Join us for the next meetup on July 17</Title>
-	</Item>
-	<Item postedOn="04.06.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-may-2025/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in May 2025</Title>
-	</Item>
-	<Item postedOn="20.05.25" link="https://youtube.com/live/j7DWMET-qM8" mediaType="text" thumbnail="">
-		<Title>vvvvTv S02E12: AR using OpenCV with ArUco Markers</Title>
-	</Item>	
-	<Item postedOn="20.05.25" link="https://www.youtube.com/live/fjw2m8w6RNU" mediaType="text" thumbnail="">
-		<Title>vvvvTv S02E11: Introduction to OpenCV</Title>
 	</Item>		
 </News>
