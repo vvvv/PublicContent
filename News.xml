@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="03.07.25" link="https://vvvv.org/blog/2025/re-introducing-personal-business-and-edu-profiles/" mediaType="text" thumbnail="">
+		<Title>Re-Introducing: Personal, Business and Edu Profiles</Title>
+	</Item>
 	<Item postedOn="02.07.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-june-2025/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in June 2025</Title>
 	</Item>
