@@ -67,13 +67,13 @@ It's not a valid E-Mail Address.</IsNotEmail>
     <Connection title="Mastodon" link="https://mastodon.xyz/@vvvv">
       <Description>Follow vvvv on the fediverse: Where you get the latest bite-size news around vvvv</Description>
     </Connection>
-    <Connection title="Edus" link="https://vvvv.org/documentation/educational-institutions">
+    <Connection title="Edus" link="https://vvvv.org/edu/">
       <Description>Educational institutions using vvvv in class</Description>
     </Connection>
     <Connection title="Jobs" link="https://discourse.vvvv.org/c/jobs">
       <Description>Have a vvvv job to offer? Post it here for all patchers to see</Description>
     </Connection>
-    <Connection title="Businesses" link="https://vvvv.org/businesses">
+    <Connection title="Businesses" link="https://vvvv.org/business">
       <Description>Get exposure for your own vvvv business or find others near by</Description>
     </Connection>
     <Connection title="Gallery" link="https://vvvv.org/blog/24">
