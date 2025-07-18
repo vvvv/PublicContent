@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="18.07.25" link="https://vvvv.org/blog/2025/introducing-dollarsmocap/" mediaType="text" thumbnail="">
+		<Title>Re-Introducing: Body tracking and avateering with Dollars MoCap</Title>
+	</Item>
 	<Item postedOn="18.07.25" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-winter-2025/" mediaType="text" thumbnail="">
 		<Title>Earlybird for vvvv Beginner class starting October 27</Title>
 	</Item>	
@@ -8,9 +11,6 @@
 	</Item>		
 	<Item postedOn="09.07.25" link="https://vvvv.org/blog/2025/introducing-support-for-orbbec-femto-devices-via-k4a/" mediaType="text" thumbnail="">
 		<Title>Introducing support for Orbbec Femto devices via K4A</Title>
-	</Item>
-	<Item postedOn="03.07.25" link="https://vvvv.org/blog/2025/re-introducing-personal-business-and-edu-profiles/" mediaType="text" thumbnail="">
-		<Title>Re-Introducing: Personal, Business and Edu Profiles</Title>
 	</Item>
 	<Item postedOn="02.07.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-june-2025/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in June 2025</Title>
