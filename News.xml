@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="18.07.25" link="https://youtu.be/Npr0K63bKZc/" mediaType="text" thumbnail="">
+		<Title>Rewatch the last meetup</Title>
+	</Item>		
 	<Item postedOn="09.07.25" link="https://vvvv.org/blog/2025/introducing-support-for-orbbec-femto-devices-via-k4a/" mediaType="text" thumbnail="">
 		<Title>Introducing support for Orbbec Femto devices via K4A</Title>
 	</Item>
@@ -8,8 +11,5 @@
 	</Item>
 	<Item postedOn="02.07.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-june-2025/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in June 2025</Title>
-	</Item>
-	<Item postedOn="16.06.25" link="https://vvvv.org/blog/2025/29.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
-		<Title>Join us for the next meetup on July 17</Title>
-	</Item>		
+	</Item>	
 </News>
