@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="28.07.25" link="https://vvvv.org/blog/2025/introducing-channel-bindings/" mediaType="text" thumbnail="">
+		<Title>Introducing: Channel Bindings</Title>
+	</Item>		
+	<Item postedOn="28.07.25" link="https://vvvv.org/blog/2025/introducing-presets-and-transitions/" mediaType="text" thumbnail="">
+		<Title>Introducing: Presets and Transitions</Title>
+	</Item>
+	<Item postedOn="28.07.25" link="https://vvvv.org/blog/2025/introducing-public-channels/" mediaType="text" thumbnail="">
+		<Title>Introducing: Public Channels</Title>
+	</Item>	
 	<Item postedOn="18.07.25" link="https://vvvv.org/blog/2025/introducing-dollarsmocap/" mediaType="text" thumbnail="">
 		<Title>Introducing: Body tracking and avateering with Dollars MoCap</Title>
 	</Item>
 	<Item postedOn="18.07.25" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-winter-2025/" mediaType="text" thumbnail="">
 		<Title>Earlybird for vvvv Beginner class starting October 27</Title>
-	</Item>	
-	<Item postedOn="18.07.25" link="https://youtu.be/Npr0K63bKZc/" mediaType="text" thumbnail="">
-		<Title>Rewatch the last meetup</Title>
-	</Item>		
-	<Item postedOn="09.07.25" link="https://vvvv.org/blog/2025/introducing-support-for-orbbec-femto-devices-via-k4a/" mediaType="text" thumbnail="">
-		<Title>Introducing support for Orbbec Femto devices via K4A</Title>
-	</Item>
-	<Item postedOn="02.07.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-june-2025/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in June 2025</Title>
 	</Item>	
 </News>
