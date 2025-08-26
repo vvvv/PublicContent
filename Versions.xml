@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Versions>
+	<Version number="2025.7.0" website="https://vvvv.org/blog/2025/vvvv-gamma-7.0-release/" />
 	<Version number="2024.6.7" website="https://vvvv.org/blog/2024/vvvv-gamma-6.0-release/" />
 	<Version number="2024.6.6" website="https://vvvv.org/blog/2024/vvvv-gamma-6.0-release/" />
 	<Version number="2024.6.5" website="https://vvvv.org/blog/2024/vvvv-gamma-6.0-release/" />	
@@ -41,3 +42,4 @@
 	<Version number="2019.2.0-0236" website="https://vvvv.org/blog/2019/vvvv-gamma-2019.2-preview#download" />
 	<Version number="2019.2.0-0211" website="https://vvvv.org/blog/2019/vvvv-gamma-2019.2-preview#download" />
 </Versions>
+
