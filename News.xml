@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="25.08.25" link="https://vvvv.org/blog/2025/vvvv-gamma-7.0-release/" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 7.0 is out!</Title>
+	</Item>
 	<Item postedOn="09.08.25" link="https://vvvv.org/blog/2025/vvvv-worldwide-meetup-@-ars-electronica-festival/" mediaType="text" thumbnail="">
 		<Title>vvvv meetup at Ars Electronica Festival</Title>
 	</Item>
-	<Item postedOn="09.08.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-july-2025/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in July</Title>
-	</Item>	
-	<Item postedOn="28.07.25" link="https://vvvv.org/blog/2025/introducing-channel-bindings/" mediaType="text" thumbnail="">
-		<Title>Introducing: Channel Bindings</Title>
-	</Item>		
-	<Item postedOn="28.07.25" link="https://vvvv.org/blog/2025/introducing-presets-and-transitions/" mediaType="text" thumbnail="">
-		<Title>Introducing: Presets and Transitions</Title>
-	</Item>
-	<Item postedOn="28.07.25" link="https://vvvv.org/blog/2025/introducing-public-channels/" mediaType="text" thumbnail="">
-		<Title>Introducing: Public Channels</Title>
-	</Item>		
 </News>
+
