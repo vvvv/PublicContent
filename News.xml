@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="07.09.25" link="https://vvvv.org/blog/2025/30.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
+		<Title>30. vvvv worldwide meetup</Title>
+	</Item>
 	<Item postedOn="25.08.25" link="https://vvvv.org/blog/2025/vvvv-gamma-7.0-release/" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 7.0 is out!</Title>
 	</Item>
-	<Item postedOn="25.08.25" link="https://thenodeinstitute.org/event/nocode-2-new-media-art-with-vvvv/" mediaType="text" thumbnail="">
-		<Title>Free intro to vvvv on September 7 in Berlin</Title>
-	</Item>
-	<Item postedOn="09.08.25" link="https://vvvv.org/blog/2025/vvvv-worldwide-meetup-@-ars-electronica-festival/" mediaType="text" thumbnail="">
-		<Title>vvvv meetup at Ars Electronica Festival</Title>
-	</Item>
 </News>
-
-
