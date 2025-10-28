@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="18.09.25" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-winter-2025/" mediaType="text" thumbnail="">
-		<Title>vvvv Beginners Class starting October 27th</Title>
+	<Item postedOn="28.10.25" link="https://vvvv.org/blog/2025/update-vvvv-on-arm-for-windows-and-mac-phase-2/2/" mediaType="text" thumbnail="">
+		<Title>vvvv Arm builds now including VL.Stride</Title>
 	</Item>
-	<Item postedOn="18.09.25" link="https://www.youtube.com/live/P2poVrxXFpA" mediaType="text" thumbnail="">
-		<Title>Rewatch the 30th vvvv worldwide meetup</Title>
-	</Item>
-	<Item postedOn="17.09.25" link="https://vvvv.org/blog/2025/introducing-support-for-posistagenet/" mediaType="text" thumbnail="">
-		<Title>Introducing: Support for PosiStageNet</Title>
+	<Item postedOn="28.10.25" link="https://vvvv.org/blog/2025/31.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
+		<Title>31. vvvv worldwide meetup on November 20</Title>
 	</Item>
 	<Item postedOn="25.08.25" link="https://vvvv.org/blog/2025/vvvv-gamma-7.0-release/" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 7.0 is out!</Title>
 	</Item>
 </News>
+
 
 
 
