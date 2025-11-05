@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="05.11.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-october-2025/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in October 2025</Title>
+	</Item>
+	<Item postedOn="05.11.25" link="https://vvvv.org/blog/2025/update-avateering-support-for-stereolabs-zed-cameras/" mediaType="text" thumbnail="">
+		<Title>Avateering support for VL.Devices.ZED</Title>
+	</Item>
 	<Item postedOn="28.10.25" link="https://vvvv.org/blog/2025/update-vvvv-on-arm-for-windows-and-mac-phase-2/2/" mediaType="text" thumbnail="">
 		<Title>vvvv Arm builds now including VL.Stride</Title>
 	</Item>
@@ -10,6 +16,7 @@
 		<Title>vvvv gamma 7.0 is out!</Title>
 	</Item>
 </News>
+
 
 
 
