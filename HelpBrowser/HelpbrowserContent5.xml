@@ -18,6 +18,10 @@
       <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org"/>
       <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
     </Pack>
+    <Pack id="VL.Rhino.3dm">
+      <Link title="Chat" link="https://matrix.to/#/#VL.Rhino:matrix.org"/>
+      <Link title="Sponsor!" link="https://ko-fi.com/wmccc"/>
+    </Pack>
     <Pack id="VL.HapPlayer">
       <Link title="Sponsor!" link="https://www.patreon.com/hap_player"/>
     </Pack>
