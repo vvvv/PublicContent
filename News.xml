@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="20.11.25" link="https://vvvv.org/blog/2025/opendome-meetup-ii-at-b-dome/" mediaType="text" thumbnail="">
-		<Title>Meet us at the openDome meetup in Berlin</Title>
+	<Item postedOn="27.11.25" link="https://vvvv.org/blog/2025/introducing-support-for-optitrack/" mediaType="text" thumbnail="">
+		<Title>Introducing: Support for OptiTrack</Title>
 	</Item>
 	<Item postedOn="20.11.25" link="https://vvvv.org/blog/2025/update-avateering-support-for-orbbec-femto-cameras/" mediaType="text" thumbnail="">
 		<Title>Avateering support for VL.Devices.AzureKinect.Femto</Title>
@@ -16,3 +16,4 @@
 		<Title>vvvv gamma 7.0 is out!</Title>
 	</Item>
 </News>
+
