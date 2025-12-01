@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="01.12.25" link="https://vvvv.org/blog/2025/introducing-plugins-for-your-vvvv-apps/" mediaType="text" thumbnail="">
+		<Title>Introducing: Plugins for your vvvv apps</Title>
+	</Item>	
 	<Item postedOn="27.11.25" link="https://vvvv.org/blog/2025/introducing-support-for-optitrack/" mediaType="text" thumbnail="">
 		<Title>Introducing: Support for OptiTrack</Title>
 	</Item>
 	<Item postedOn="20.11.25" link="https://vvvv.org/blog/2025/update-avateering-support-for-orbbec-femto-cameras/" mediaType="text" thumbnail="">
 		<Title>Avateering support for VL.Devices.AzureKinect.Femto</Title>
 	</Item>
-	<Item postedOn="05.11.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-october-2025/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in October 2025</Title>
-	</Item>	
-	<Item postedOn="28.10.25" link="https://vvvv.org/blog/2025/update-vvvv-on-arm-for-windows-and-mac-phase-2/2/" mediaType="text" thumbnail="">
-		<Title>vvvv Arm builds now including VL.Stride</Title>
-	</Item>	
-	<Item postedOn="25.08.25" link="https://vvvv.org/blog/2025/vvvv-gamma-7.0-release/" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 7.0 is out!</Title>
-	</Item>
 </News>
+
 
