@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="05.12.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-november-2025/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in November</Title>
+	</Item>
 	<Item postedOn="01.12.25" link="https://vvvv.org/blog/2025/introducing-plugins-for-your-vvvv-apps/" mediaType="text" thumbnail="">
 		<Title>Introducing: Plugins for your vvvv apps</Title>
 	</Item>	
@@ -10,5 +13,6 @@
 		<Title>Avateering support for VL.Devices.AzureKinect.Femto</Title>
 	</Item>
 </News>
+
 
 
