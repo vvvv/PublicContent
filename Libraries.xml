@@ -108,6 +108,7 @@
     <Lib nuget="VL.OpenCV"/>
   </Category>
   <Category title="Color">
+    <Lib nuget="VL.OCIO"/>
     <Lib nuget="VL.ColorBlender"/>
     <Lib nuget="VL.ColourLovers"/>
     <Lib nuget="VL.ColorThief"/>
@@ -164,7 +165,7 @@
       <Lib nuget="VL.Bunraku"/>
     </Category>  
     <Category title="Lidars">
-      <Lib nuget="VL.Sick"/>
+      <Lib nuget="VL.Devices.Sick"/>
       <Lib nuget="VL.Devices.RPLidar"/>
     </Category>
     <Category title="Other">
@@ -197,6 +198,7 @@
       <Lib nuget="VL.IO.OSC"/>
       <Lib nuget="VL.IO.OSCQuery"/>
       <Lib nuget="VL.SocketIO"/>
+      <Lib nuget="VL.IO.PosiStageNet"/>
     </Category>
     <Category title="Others">
       <Lib nuget="VL.IO.AbletonLink"/>
@@ -206,8 +208,8 @@
       <Lib nuget="VL.IO.Firmata"/>
     </Category>
     <Category title="Web APIs">
-      <Lib nuget="VL.IO.Mastodon"/>
-      <Lib nuget="VL.IO.Net.Mail"/>
+      <Lib nuget="VL.IO.Mastonet"/>
+      <Lib nuget="VL.IO.Net.Email"/>
       <Lib nuget="VL.OpenWeather"/>
       <Lib nuget="VL.Spotify"/>
     </Category>
@@ -220,12 +222,14 @@
   <Category title="Machine Learning">
     <Lib nuget="VL.Wekinator"/>
     <Lib nuget="VL.OpenAI"/>
-    <Lib nuget="VLML"/>
+    <Lib nuget="VL.Ollama"/>
+    <Lib nuget="VL.YoloDotNet"/>
     <Lib nuget="VL.OpenCV"/>
+    <Lib nuget="VL.Markov"/>
+    <Lib nuget="VLML"/>
     <Lib nuget="ONNX"/>
     <Lib nuget="VL.DlibDotNet"/>
     <Lib nuget="VL.MLNet"/>
-    <Lib nuget="VL.RunwayML"/>
     <Lib nuget="VLML_Stride"/>
     <Lib nuget="VLML.ONNX"/>
     <Lib nuget="VLML.ONNX_03"/>
@@ -236,7 +240,6 @@
   <Category title="Projection Mapping">
     <Lib nuget="VL.BadMapper"/>
     <Lib nuget="VL.Mapper"/>
-    <Lib name="Domemaster"/>
     <Lib nuget="VL.ScalableDisplay"/>
     <Lib nuget="VL.VIOSOWarpBlend"/>
   </Category>
@@ -251,9 +254,9 @@
       <Lib nuget="VL.Video.MediaFoundation"/>
     </Category>
     <Category title="Cameras">
-      <Lib nuget="VL.Devices.uEye"/>
-      <Lib nuget="VL.Devices.IDS"/>
       <Lib nuget="VL.Devices.TheImagingSource"/>
+      <Lib nuget="VL.Devices.IDS"/>
+      <Lib nuget="VL.Devices.uEye"/>
       <Lib nuget="VL.Devices.DigiCamControl"/>
     </Category>
     <Category title="Capture Cards">
