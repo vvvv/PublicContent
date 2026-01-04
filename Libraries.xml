@@ -6,12 +6,14 @@
     <Lib nuget="VL.Fuse"/>
     <Lib nuget="VL.Mapper"/>
     <Lib nuget="VL.MediaPipe"/>
+    <Lib nuget="VL.OpenCV"/>
   </Category>
   <Category title="Extensions">
     <Lib nuget="VL.Pipette.HDE"/>
     <Lib nuget="VL.SpoutMonitor.HDE"/>
     <Lib nuget="VL.TUIO.HDE"/>
     <Lib nuget="VL.DebugInfo.HDE"/>
+    <Lib nuget="VL.Bookmarks.HDE"/>
   </Category>
   <Category title="2d Graphics">
     <Lib nuget="VL.Skia" builtin="true"/>
@@ -87,10 +89,13 @@
   </Category>
   <Category title="Audio">
     <Lib nuget="VL.Audio" builtin="true"/>
+    <Lib nuget="VL.Audio.VST"/>
     <Lib nuget="VL.Audio.GPL"/>
     <Lib nuget="VL.Audio.LTC"/>
     <Lib nuget="VL.GameAudioPlayer"/>
-    <Lib nuget="VL.NewAudio"/>
+    <Lib nuget="VL.SCSynth"/>
+    <Lib nuget="VL.Audio.Analysis"/>
+    <Lib nuget="VL.Audio.Analysis.UI"/>    
     <Category title="MIDI">
       <Lib nuget="VL.IO.Midi"/>
       <Lib nuget="VL.MiDi.Music.Utils"/>
@@ -104,7 +109,7 @@
   </Category>
   <Category title="Color">
     <Lib nuget="VL.ColorBlender"/>
-    <Lib nuget="VL.ColorLovers"/>
+    <Lib nuget="VL.ColourLovers"/>
     <Lib nuget="VL.ColorThief"/>
     <Lib nuget="VL.Unicolour"/>
     <Lib nuget="VL.Pipette.HDE"/>
@@ -115,11 +120,12 @@
     <Lib nuget="VL.OpenCV">
       <Link title="Chat" link="https://matrix.to/#/#VLOpenCV:matrix.org"/>
     </Lib>
-    <Lib nuget="VL.DlibDotNet"/>
-    <Lib nuget="VL.RunwayML"/>
+    <Lib nuget="VL.DollarsMoCap"/>
+    <Lib nuget="VL.IO.OptiTrack"/>
+    <Lib nuget="VL.YoloDotNet"/>
   </Category>
   <Category title="Databases">
-    <Lib nuget="VL.InfluxDB"/>
+    <Lib nuget="VL.IO.InfluxDB"/>
     <Lib nuget="VL.IO.Redis" builtin="true"/>
   </Category>
   <Category title="Devices">
@@ -127,17 +133,22 @@
       <Lib nuget="VL.Devices.ZED"/>
       <Lib nuget="VL.Devices.RealSense"/>
       <Lib nuget="VL.Devices.Astra"/>
-      <Lib nuget="VL.Devices.AzureKinect.Body"/>
+      <Lib nuget="VL.Devices.Orbbec"/>
+      <Lib nuget="VL.Devices.AzureKinect"/>
+      <Lib nuget="VL.Devices.AzureKinect.Femto"/>
       <Lib nuget="VL.Devices.Kinect2"/>
       <Lib nuget="VL.Kinect2FuseUtils"/>
       <Lib nuget="VL.Devices.Kinect"/>
       <Lib nuget="VL.Devices.Nuitrack"/>
       <Lib nuget="VL.Devices.Ultraleap"/>
+      <Lib nuget="VL.Devices.Leap"/>
+      <Lib nuget="VL.Devices.LeapOrion"/>
     </Category>
     <Category title="Light &amp; Lasers">
       <Lib nuget="VL.IO.ArtNet"/>
       <Lib nuget="VL.Devices.ENTTEC"/>
       <Lib nuget="VL.ILDA"/>
+      <Lib nuget="VL.Devices.LaserCube"/>
     </Category>
     <Category title="Cameras">
       <Lib nuget="VL.Devices.uEye"/>
@@ -147,6 +158,14 @@
     </Category>
     <Category title="Capture Cards">
       <Lib nuget="VL.Devices.DeckLink"/>
+    </Category>
+    <Category title="Robots">
+      <Lib nuget="VL.Devices.Robotiq"/>
+      <Lib nuget="VL.Bunraku"/>
+    </Category>  
+    <Category title="Lidars">
+      <Lib nuget="VL.Sick"/>
+      <Lib nuget="VL.Devices.RPLidar"/>
     </Category>
     <Category title="Other">
       <Lib nuget="VL.Devices.StreamDeck"/>
@@ -159,7 +178,7 @@
       <Lib nuget="VL.PJLink"/>
       <Lib nuget="VL.M8Display"/>
       <Lib nuget="VL.PTZ"/>
-      <Lib nuget="VL.Devices.Robotiq"/>
+      <Lib nuget="VL.AxiDraw"/>
     </Category>
   </Category>
   <Category title="IO">
@@ -168,12 +187,11 @@
       <Lib nuget="VL.IO.WebSocket"/>
       <Lib nuget="VL.IO.TUIO"/>
       <Lib nuget="VL.TUIO.HDE"/>
-      <Lib nuget="VL.IO.M2MQTT"/>
-      <Lib nuget="VL.IO.MQTTnet"/>
+      <Lib nuget="VL.IO.MQTT"/>
       <Lib nuget="VL.IO.NETMQ"/>
       <Lib nuget="VL.IO.RCP"/>
       <Lib nuget="VL.SimpleHTTP"/>
-      <Lib nuget="VL.IO.HTTP.WebServer"/>
+      <Lib nuget="VL.IO.WebServer"/>
       <Lib nuget="VL.IO.NDI"/>
       <Lib nuget="VL.IO.SPNet"/>
       <Lib nuget="VL.IO.OSC"/>
