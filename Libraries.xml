@@ -155,6 +155,7 @@
       <Lib nuget="VL.Devices.uEye"/>
       <Lib nuget="VL.Devices.IDS"/>
       <Lib nuget="VL.Devices.TheImagingSource"/>
+      <Lib nuget="VL.Devices.Axis"/>
       <Lib nuget="VL.Devices.DigiCamControl"/>
     </Category>
     <Category title="Capture Cards">
@@ -189,7 +190,7 @@
       <Lib nuget="VL.IO.TUIO"/>
       <Lib nuget="VL.TUIO.HDE"/>
       <Lib nuget="VL.IO.MQTT"/>
-      <Lib nuget="VL.IO.NETMQ"/>
+      <Lib nuget="VL.IO.NetMQ"/>
       <Lib nuget="VL.IO.RCP"/>
       <Lib nuget="VL.SimpleHTTP"/>
       <Lib nuget="VL.IO.WebServer"/>
@@ -199,6 +200,7 @@
       <Lib nuget="VL.IO.OSCQuery"/>
       <Lib nuget="VL.SocketIO"/>
       <Lib nuget="VL.IO.PosiStageNet"/>
+      <Lib nuget="VL.IO.mDNS"/>
     </Category>
     <Category title="Others">
       <Lib nuget="VL.IO.AbletonLink"/>
@@ -212,6 +214,7 @@
       <Lib nuget="VL.IO.Net.Email"/>
       <Lib nuget="VL.OpenWeather"/>
       <Lib nuget="VL.Spotify"/>
+      <Lib nuget="VL.Here"/>
     </Category>
     <Category title="Serialization">
       <Lib nuget="VL.Serialization.Raw"/>
