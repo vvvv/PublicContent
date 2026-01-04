@@ -239,6 +239,7 @@
   </Category>
   <Category title="Physical Computing">
     <Lib nuget="VL.Devices.Phidgets"/>
+    <Lib nuget="VL.IO.Firmata"/>
   </Category>
   <Category title="Projection Mapping">
     <Lib nuget="VL.BadMapper"/>
