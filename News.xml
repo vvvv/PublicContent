@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="05.12.25" link="https://vvvv.org/blog/2025/vvvvhat-happened-in-november-2025/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in November</Title>
-	</Item>
-	<Item postedOn="01.12.25" link="https://vvvv.org/blog/2025/introducing-plugins-for-your-vvvv-apps/" mediaType="text" thumbnail="">
-		<Title>Introducing: Plugins for your vvvv apps</Title>
-	</Item>	
-	<Item postedOn="27.11.25" link="https://vvvv.org/blog/2025/introducing-support-for-optitrack/" mediaType="text" thumbnail="">
-		<Title>Introducing: Support for OptiTrack</Title>
-	</Item>
-	<Item postedOn="20.11.25" link="https://vvvv.org/blog/2025/update-avateering-support-for-orbbec-femto-cameras/" mediaType="text" thumbnail="">
-		<Title>Avateering support for VL.Devices.AzureKinect.Femto</Title>
+	<Item postedOn="05.01.26" link="https://thenodeinstitute.org/event/avjam-the-node-institute/" mediaType="text" thumbnail="">
+		<Title>Open call for Audio and Video Performers, January 30, Berlin</Title>
 	</Item>
 </News>
-
-
-
