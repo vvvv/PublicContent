@@ -245,6 +245,23 @@
     <Lib nuget="VLML.ONNX"/>
     <Lib nuget="VLML.ONNX_03"/>
   </Category>
+  <Category title="Math">
+    <Lib nuget="VL.LerpX"/>
+    <Lib nuget="VL.AlchemX"/>
+    <Lib nuget="VL.DBScan"/>
+    <Lib nuget="VL.Addons.Math"/>
+    <Lib nuget="VL.SunCalc"/>
+    <Lib nuget="VL.2d.Voronoi"/>
+    <Lib nuget="VL.2d.Simplify"/>
+    <Lib nuget="VL.2DUtils"/>
+    <Lib nuget="VL.SmallestCircle"/>
+    <Lib nuget="VL.2D.CurveFitting"/>
+    <Category title="Noise">
+      <Lib nuget="VL.FastNoiseLite"/>
+      <Lib nuget="VL.FastNoise"/>
+      <Lib nuget="VL.SharpNoise"/>
+    </Category>
+  </Category>
   <Category title="Physical Computing">
     <Lib nuget="VL.Devices.Phidgets"/>
     <Lib nuget="VL.IO.Firmata"/>
