@@ -23,6 +23,7 @@
       <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org"/>
     </Lib>
     <Lib nuget="VL.CEF.Skia"/>
+    <Lib nuget="VL.Flex.Skia"/>
     <Lib nuget="VL.PDFReader"/>
     <Lib nuget="VL.PolyTools"/>
     <Lib nuget="VL.QRCode"/>
