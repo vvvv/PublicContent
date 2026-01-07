@@ -86,7 +86,7 @@
     <Lib nuget="VL.AutomataUI"/>
     <Lib nuget="VL.Interpolator"/>
     <Category title="Timelines">
-      <Lib nuget="VL.Interpolator.Addons">
+      <Lib nuget="VL.Interpolator.Addons"/>
       <Lib nuget="VL.Kairos">
         <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org"/>
         <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
