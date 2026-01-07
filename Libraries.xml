@@ -314,6 +314,7 @@
     <Lib nuget="VL.GenerativeGestaltung"/>
   </Category>
   <Category title="Hidden">
+    <Lib nuget="GithubPackageTest"/>
     <Lib nuget="VL.PluginTemplate"/>
     <Lib nuget="VL.NewLibrary.HDE"/>
     <Lib nuget="VL.Audio.UI"/>
