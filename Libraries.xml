@@ -14,9 +14,11 @@
     <Lib nuget="VL.TUIO.HDE"/>
     <Lib nuget="VL.DebugInfo.HDE"/>
     <Lib nuget="VL.Bookmarks.HDE"/>
+    <Lib nuget="VL.Preview.HDE"/>
   </Category>
   <Category title="2d Graphics">
     <Lib nuget="VL.Skia" builtin="true"/>
+    <Lib nuget="VL.ImGui.Skia"/>
     <Lib nuget="VL.Elementa">
       <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org"/>
     </Lib>
@@ -27,6 +29,9 @@
     <Lib nuget="VL.SRT"/>
     <Lib nuget="VL.ScreenRecorder"/>
     <Lib nuget="VL.SmallestCircle"/>
+    <Lib nuget="VL.Addons.Skia"/>
+    <Lib nuget="VL.Avalonia.Skia"/>
+    <Lib nuget="VL.2D.PolygonEditor"/>
     <Category title="Text Rendering">
       <Lib nuget="VL.RichtextKit"/>
     </Category>
@@ -38,6 +43,7 @@
         <Link title="Sponsor!" link="https://opencollective.com/the-fuse-lab"/>
       </Lib>
       <Lib nuget="VL.Stride"/>
+      <Lib nuget="VL.Addons.Stride"/>
       <Lib nuget="VL.Stride.BezierPatch"/>
       <Lib nuget="VL.Stride.TextureFX"/>
       <Lib nuget="VL.CEF.Stride"/>
@@ -52,6 +58,12 @@
       <Lib nuget="VL.Boids-GPU"/>
       <Lib nuget="VL.Radiosity"/>
       <Lib nuget="VL.Skia3d"/>
+      <Lib nuget="VL.Avalonia.Stride"/>
+      <Lib nuget="VL.Nvidia.CUDA"/>
+      <Lib nuget="VL.3D.Curve"/>
+      <Lib nuget="VL.Voxelizer"/>
+      <Lib nuget="VL.Alembic"/>
+      <Lib nuget="VL.PolyTools"/>
     </Category>
     <Category title="Geometry">
       <Lib nuget="VL.Rhino.3dm"/>
@@ -67,25 +79,19 @@
     </Category>
   </Category>
   <Category title="Animation">
-    <Category title="2d Particle System">
-      <Lib nuget="VL.Animation.ParticleSystem"/>
-    </Category>
-    <Category title="Tracking Objects">
-      <Lib nuget="VL.TrackObjects"/>
-    </Category>
-    <Category title="Looping">
-      <Lib nuget="VL.LoopTool"/>
-    </Category>
-    <Category title="Timeliner">
+    <Lib nuget="VL.Addons.Animation"/>
+    <Lib nuget="VL.Animation.ParticleSystem"/>
+    <Lib nuget="VL.TrackObjects"/>
+    <Lib nuget="VL.LoopTool"/>
+    <Lib nuget="VL.AutomataUI"/>
+    <Lib nuget="VL.Interpolator"/>
+    <Category title="Timelines">
+      <Lib nuget="VL.Interpolator.Addons">
       <Lib nuget="VL.Kairos">
         <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org"/>
         <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
       </Lib>
-      <Lib name="Tilda"/>
-    </Category>
-    <Category title="State Machine">
-      <Lib nuget="VL.AutomataUI"/>
-    </Category>
+    </Category>    
   </Category>
   <Category title="Audio">
     <Lib nuget="VL.Audio" builtin="true"/>
@@ -114,6 +120,7 @@
     <Lib nuget="VL.ColorThief"/>
     <Lib nuget="VL.Unicolour"/>
     <Lib nuget="VL.Pipette.HDE"/>
+    <Lib nuget="VL.Addons.Color"/>
   </Category>
   <Category title="Computer Vision">
     <Lib nuget="VL.MediaPipe"/>
@@ -224,6 +231,7 @@
   </Category>
   <Category title="Machine Learning">
     <Lib nuget="VL.Wekinator"/>
+    <Lib nuget="VL.2D.DollarQ"/>
     <Lib nuget="VL.OpenAI"/>
     <Lib nuget="VL.Ollama"/>
     <Lib nuget="VL.YoloDotNet"/>
@@ -246,6 +254,16 @@
     <Lib nuget="VL.Mapper"/>
     <Lib nuget="VL.ScalableDisplay"/>
     <Lib nuget="VL.VIOSOWarpBlend"/>
+  </Category>
+  <Category>
+    <Lib nuget="VL.SystemInfo"/>
+    <Lib nuget="VL.CredentialManager"/>
+    <Lib nuget="VL.FileTypeAssociation"/>
+    <Lib nuget="VL.PAExec"/>
+    <Lib nuget="VL.PsTools"/>
+    <Lib nuget="VL.Syslog"/>
+    <Lib nuget="VL.HardwareMonitor"/>
+    <Lib nuget="VL.SuperMonitor"/>
   </Category>
   <Category title="Video">
     <Category title="Playback &amp; Video Input">
