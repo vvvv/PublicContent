@@ -107,9 +107,7 @@
       <Lib nuget="VL.IO.Midi"/>
       <Lib nuget="VL.MiDi.Music.Utils"/>
     </Category>
-    <Category title="FMOD">
-      <Lib nuget="VL.FMODStudio"/>
-    </Category>
+    <Lib nuget="VL.FMODStudio"/>
   </Category>
   <Category title="Augmented Reality">
     <Lib nuget="VL.OpenCV"/>
@@ -134,6 +132,7 @@
     <Lib nuget="VL.YoloDotNet"/>
   </Category>
   <Category title="Databases">
+    <Lib nuget="VL.InfluxDB"/>
     <Lib nuget="VL.IO.InfluxDB"/>
     <Lib nuget="VL.IO.Redis" builtin="true"/>
   </Category>
