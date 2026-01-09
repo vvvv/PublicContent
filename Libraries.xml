@@ -316,7 +316,7 @@
     <Lib nuget="GithubPackageTest"/>
     <Lib nuget="VL.PluginTemplate"/>
     <Lib nuget="VL.NewLibrary.HDE"/>
-    <Lib nuget="VL.Audio.UI"/>
+    <Lib nuget="VL.GStreamer"/>
     <Lib nuget="VL.CoreLib">
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
