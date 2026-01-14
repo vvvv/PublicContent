@@ -312,16 +312,18 @@
     <Lib nuget="VL.ExtendedTutorials"/>
     <Lib nuget="VL.GenerativeGestaltung"/>
   </Category>
-  <Category title="Hidden">
-    <Lib nuget="GithubPackageTest"/>
-    <Lib nuget="VL.PluginTemplate"/>
-    <Lib nuget="VL.NewLibrary.HDE"/>
-    <Lib nuget="VL.GStreamer"/>
+  <Category title="Unsorted">
     <Lib nuget="VL.CoreLib">
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
     <Lib nuget="VL.CoreLib.Windows">
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
+  </Category>
+  <Category title="Hidden">
+    <Lib nuget="GithubPackageTest"/>
+    <Lib nuget="VL.PluginTemplate"/>
+    <Lib nuget="VL.NewLibrary.HDE"/>
+    <Lib nuget="VL.GStreamer"/>
   </Category>
 </Libraries>
