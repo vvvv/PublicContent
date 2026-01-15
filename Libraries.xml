@@ -215,6 +215,7 @@
       <Lib nuget="VL.BlueIOT"/>
       <Lib nuget="VL.IO.Modbus"/>
       <Lib nuget="VL.IO.Firmata"/>
+      <Lib nuget="VL.IO.OpenVR"/>
     </Category>
     <Category title="Web APIs">
       <Lib nuget="VL.IO.Mastonet"/>
