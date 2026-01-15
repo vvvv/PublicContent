@@ -19,6 +19,8 @@
   <Category title="2d Graphics">
     <Lib nuget="VL.Skia" builtin="true"/>
     <Lib nuget="VL.ImGui.Skia"/>
+    <Lib nuget="VL.ImGui.Extensions"/>
+      <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
     <Lib nuget="VL.Elementa">
       <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org"/>
     </Lib>
@@ -86,8 +88,10 @@
     <Lib nuget="VL.LoopTool"/>
     <Lib nuget="VL.AutomataUI"/>
     <Lib nuget="VL.Interpolator"/>
+      <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
     <Category title="Timelines">
       <Lib nuget="VL.Interpolator.Addons"/>
+        <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
       <Lib nuget="VL.Kairos">
         <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org"/>
         <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
@@ -102,10 +106,15 @@
     <Lib nuget="VL.GameAudioPlayer"/>
     <Lib nuget="VL.SCSynth"/>
     <Lib nuget="VL.Audio.Analysis"/>
+      <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
     <Lib nuget="VL.Audio.Analysis.UI"/>    
+      <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
     <Category title="MIDI">
       <Lib nuget="VL.IO.Midi"/>
       <Lib nuget="VL.MiDi.Music.Utils"/>
+        <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+      <Lib nuget="VL.Harmony"/>
+        <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
     </Category>
     <Lib nuget="VL.FMODStudio"/>
   </Category>
@@ -156,6 +165,7 @@
       <Lib nuget="VL.IO.ArtNet"/>
       <Lib nuget="VL.Devices.ENTTEC"/>
       <Lib nuget="VL.ILDA"/>
+        <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
       <Lib nuget="VL.Devices.LaserCube"/>
     </Category>
     <Category title="Cameras">
@@ -187,6 +197,7 @@
       <Lib nuget="VL.PJLink"/>
       <Lib nuget="VL.M8Display"/>
       <Lib nuget="VL.PTZ"/>
+        <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
       <Lib nuget="VL.AxiDraw"/>
     </Category>
   </Category>
