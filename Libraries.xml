@@ -296,7 +296,7 @@
     <Lib nuget="VL.ScalableDisplay"/>
     <Lib nuget="VL.VIOSOWarpBlend"/>
   </Category>
-  <Category>
+  <Category title="System">
     <Lib nuget="VL.SystemInfo"/>
     <Lib nuget="VL.CredentialManager"/>
     <Lib nuget="VL.FileTypeAssociation"/>
@@ -305,6 +305,22 @@
     <Lib nuget="VL.Syslog"/>
     <Lib nuget="VL.HardwareMonitor"/>
     <Lib nuget="VL.SuperMonitor"/>
+  </Category>
+  <Category title="UI">
+    <Lib nuget="VL.Avalonia"/>
+    <Lib nuget="VL.Avalonia.Custom"/>
+    <Lib nuget="VL.Avalonia.Skia"/>
+    <Lib nuget="VL.Avalonia.Stride"/>
+    <Lib nuget="VL.ImGui.Skia"/>
+    <Lib nuget="VL.ImGui.Extensions"/>
+    <Lib nuget="VL.Flex"/>
+    <Lib nuget="VL.Flex.Skia"/>
+    <Lib nuget="VL.Flex.Touchy"/>
+    <Lib nuget="VL.Flex.ImGui"/>
+    <Lib nuget="VL.Elementa"/>
+    <Lib nuget="VL.Elementa.Editor"/>
+    <Lib nuget="VL.IO.RCP"/>
+    <Lib nuget="VL.Yoga"/>
   </Category>
   <Category title="Video">
     <Category title="Playback &amp; Video Input">
