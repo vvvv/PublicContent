@@ -21,6 +21,7 @@
     <Lib nuget="VL.ImGui.Skia"/>
     <Lib nuget="VL.ImGui.Extensions"/>
       <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+    </Lib>
     <Lib nuget="VL.Elementa">
       <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org"/>
     </Lib>
@@ -89,9 +90,12 @@
     <Lib nuget="VL.AutomataUI"/>
     <Lib nuget="VL.Interpolator"/>
       <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+    </Lib>
     <Category title="Timelines">
       <Lib nuget="VL.Interpolator.Addons"/>
+        <Link title="Chat" link="https://matrix.to/#/#Interpolator:matrix.org"/>
         <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+      </Lib>
       <Lib nuget="VL.Kairos">
         <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org"/>
         <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
@@ -107,14 +111,20 @@
     <Lib nuget="VL.SCSynth"/>
     <Lib nuget="VL.Audio.Analysis"/>
       <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+    </Lib>
     <Lib nuget="VL.Audio.Analysis.UI"/>    
       <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+    </Lib>
     <Category title="MIDI">
       <Lib nuget="VL.IO.Midi"/>
       <Lib nuget="VL.MiDi.Music.Utils"/>
         <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
-      <Lib nuget="VL.Harmony"/>
-        <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+      </Lib>
+  <Category title="Music">
+    <Lib nuget="VL.Harmony"/>
+      <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+    </Lib>
+  </Category>
     </Category>
     <Lib nuget="VL.FMODStudio"/>
   </Category>
@@ -166,6 +176,7 @@
       <Lib nuget="VL.Devices.ENTTEC"/>
       <Lib nuget="VL.ILDA"/>
         <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+      </Lib>
       <Lib nuget="VL.Devices.LaserCube"/>
     </Category>
     <Category title="Cameras">
@@ -198,6 +209,7 @@
       <Lib nuget="VL.M8Display"/>
       <Lib nuget="VL.PTZ"/>
         <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
+      </Lib>
       <Lib nuget="VL.AxiDraw"/>
     </Category>
   </Category>
