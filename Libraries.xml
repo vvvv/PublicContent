@@ -36,6 +36,7 @@
     <Lib nuget="VL.Addons.Skia"/>
     <Lib nuget="VL.Avalonia.Skia"/>
     <Lib nuget="VL.2D.PolygonEditor"/>
+    <Lib nuget="VL.RogueSharp"/>
     <Category title="Text Rendering">
       <Lib nuget="VL.RichtextKit"/>
     </Category>
@@ -46,7 +47,9 @@
         <Link title="Chat" link="https://matrix.to/#/#VL.Fuse:matrix.org"/>
         <Link title="Sponsor!" link="https://opencollective.com/the-fuse-lab"/>
       </Lib>
+      <Lib nuget="VL.Fuse.Control"/>
       <Lib nuget="VL.Stride"/>
+      <Lib nuget="VL.ShaderFXtension"/>
       <Lib nuget="VL.Addons.Stride"/>
       <Lib nuget="VL.Stride.BezierPatch"/>
       <Lib nuget="VL.Stride.TextureFX"/>
@@ -100,10 +103,12 @@
         <Link title="Chat" link="https://matrix.to/#/#VL.Kairos:matrix.org"/>
         <Link title="Sponsor!" link="https://opencollective.com/kairos-research-lab"/>
       </Lib>
+      <Lib nuget="VL.Kairos.Runtime"/>
     </Category>    
   </Category>
   <Category title="Audio">
     <Lib nuget="VL.Audio" builtin="true"/>
+    <Lib nuget="VL.Audio.UI"/>
     <Lib nuget="VL.Audio.VST"/>
     <Lib nuget="VL.Audio.GPL"/>
     <Lib nuget="VL.Audio.LTC"/>
@@ -231,6 +236,8 @@
       <Lib nuget="VL.SocketIO"/>
       <Lib nuget="VL.IO.PosiStageNet"/>
       <Lib nuget="VL.IO.mDNS"/>
+      <Lib nuget="VL.Kafka"/>
+      <Lib nuget="VL.TorSharp"/>
     </Category>
     <Category title="Others">
       <Lib nuget="VL.IO.AbletonLink"/>
@@ -239,6 +246,11 @@
       <Lib nuget="VL.IO.Modbus"/>
       <Lib nuget="VL.IO.Firmata"/>
       <Lib nuget="VL.IO.OpenVR"/>
+      <Lib nuget="VL.FsNotify"/>
+      <Lib nuget="VL.IO.DotEnvFile"/>
+      <Lib nuget="VL.IO.DriveInfo"/>
+      <Lib nuget="VL.IO.GifRecorder"/>
+      <Lib nuget="VL.Touchy"/>
     </Category>
     <Category title="Web APIs">
       <Lib nuget="VL.IO.Mastonet"/>
@@ -305,6 +317,8 @@
     <Lib nuget="VL.Syslog"/>
     <Lib nuget="VL.HardwareMonitor"/>
     <Lib nuget="VL.SuperMonitor"/>
+    <Lib nuget="VL.RoboSharp"/>
+    <Lib nuget="VL.SharedMemory"/>
   </Category>
   <Category title="UI">
     <Lib nuget="VL.Avalonia"/>
@@ -351,6 +365,8 @@
     </Lib>
     <Lib nuget="VL.ExtendedTutorials"/>
     <Lib nuget="VL.GenerativeGestaltung"/>
+    <Lib nuget="VL.TK.AdventOfCode23"/>
+    <Lib nuget="VL.TK.AdventOfCode24"/>
   </Category>
   <Category title="Unsorted">
     <Lib nuget="VL.CoreLib">
