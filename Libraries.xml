@@ -75,7 +75,7 @@
     <Category title="Geometry">
       <Lib nuget="VL.Rhino.3dm">
         <Link title="Chat" link="https://matrix.to/#/#VL.Rhino:matrix.org"/>
-        <Link title="Sponsor!" link="https://ko-fi.com/wmcc"c/>
+        <Link title="Sponsor!" link="https://ko-fi.com/wmccc"/>
       </Lib>
     </Category>
     <Category title="Text Rendering">
