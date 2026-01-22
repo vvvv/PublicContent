@@ -7,6 +7,7 @@
     <Lib nuget="VL.Mapper"/>
     <Lib nuget="VL.MediaPipe"/>
     <Lib nuget="VL.OpenCV"/>
+    <Lib nuget="VL.Rhino.3dm"/>
   </Category>
   <Category title="Extensions">
     <Lib nuget="VL.Pipette.HDE"/>
