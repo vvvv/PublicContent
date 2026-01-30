@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="30.01.26" link="https://thenodeinstitute.org/courses/ui-frameworks-patterns-in-vvvv/" mediaType="text" thumbnail="">
+		<Title>Online course: February 26/27: UI Frameworks & Patterns</Title>
+	</Item>
+	<Item postedOn="30.01.26" link="https://thenodeinstitute.org/courses/interactive-sketches-with-vvvv/" mediaType="text" thumbnail="">
+		<Title>Offline course: Interactive Sketches</Title>
+	</Item>
+	<Item postedOn="30.01.26" link="https://youtu.be/7RdgcqFrmcY" mediaType="text" thumbnail="">
+		<Title>Rewatch: The 32nd vvvv worldwide meetup</Title>
+	</Item>
 	<Item postedOn="14.01.26" link="https://vvvv.org/blog/2026/introducing-an-online-browser-for-vl-packs/" mediaType="text" thumbnail="">
 		<Title>Introducing: An online browser for VL packs</Title>
-	</Item>
-	<Item postedOn="05.01.26" link="https://vvvv.org/blog/2025/32.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
-		<Title>32nd vvvv worldwide meetup on January 29</Title>
 	</Item>
 	<Item postedOn="06.01.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-december-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in December</Title>
 	</Item>	
 </News>
+
 
