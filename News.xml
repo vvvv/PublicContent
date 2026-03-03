@@ -6,10 +6,8 @@
 	<Item postedOn="04.02.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-january-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in January</Title>
 	</Item>	
-	<Item postedOn="30.01.26" link="https://thenodeinstitute.org/courses/ui-frameworks-patterns-in-vvvv/" mediaType="text" thumbnail="">
-		<Title>Online course: February 26/27: UI Frameworks &amp; Patterns</Title>
-	</Item>
 	<Item postedOn="30.01.26" link="https://thenodeinstitute.org/courses/interactive-sketches-with-vvvv/" mediaType="text" thumbnail="">
 		<Title>Offline course: Interactive Sketches</Title>
 	</Item>
 </News>
+
