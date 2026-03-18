@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="18.03.26" link="https://thegraybook.vvvv.org/changelog/7.x.html" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 7.1 is out!</Title>
+	</Item>
 	<Item postedOn="03.03.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-february-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in February</Title>
 	</Item>
