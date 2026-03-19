@@ -47,17 +47,6 @@
     </Subtopic>
   </Topic>
  
-  <Topic title="The Node Institute">
-      <Subtopic title="Upcoming">
-        <UriItem title="12-session beginner course" link="https://thenodeinstitute.org/vvvv-beginner-class-summer-2025/?/" mediaType="video" />
-      </Subtopic>
-      <Subtopic title="Past courses still accessible">
-        <UriItem title="Various topics" link="https://thenodeinstitute.org/courses/" />
-        <UriItem title="Winter season 2023" link="https://thenodeinstitute.org/ws23-vvvv-intermediates/" mediaType="video" />
-        <UriItem title="Summer season 2023" link="https://thenodeinstitute.org/vvvv-intermediates-summer-2023/" mediaType="video" />
-      </Subtopic>
-  </Topic>
-
   <Topic title="By Takuma Nakata">
     <Subtopic title="Graphics Tutorials">
         <UriItem title="Tutorial Stride Texture 2 Skia" link="https://www.youtube.com/watch?v=4f1wnvPMOJA" mediaType="video"/>
@@ -75,6 +64,11 @@
         <UriItem title="Tutorial FUSE Particle Intro - Emission Stage and Simulation Stage" link="https://www.youtube.com/watch?v=EX6TzcvzCNQ" mediaType="video"/>
         <UriItem title="HowTo Create a glass like Material using FUSE" link="https://www.youtube.com/watch?v=VK526qU0XXY" mediaType="video"/>
     </Subtopic>
+  </Topic>
+
+  <Topic title="The Node Institute">
+    <UriItem title="Tutorial All NODE Institute learning content" link="https://thenodeinstitute.org/learning-vvvv" mediaType="video" />
+		<UriItem title="Tutorial NODE20 workshop recordings" link="https://vimeo.com/showcase/node20workshops" mediaType="video" />
   </Topic>
   
   <Topic title="Add your content here">
