@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="19.03.26" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-summer-2026" mediaType="text" thumbnail="">
+		<Title>8 session vvvv beginner class starting April 27</Title>
+	</Item>
+	<Item postedOn="19.03.26" link="https://thenodeinstitute.org/courses/vvvv-intermediate-foundations-summer-2026" mediaType="text" thumbnail="">
+		<Title>4 session vvvv intermediate class starting June 29</Title>
+	</Item>
 	<Item postedOn="18.03.26" link="https://thegraybook.vvvv.org/changelog/7.x.html" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 7.1 is out!</Title>
 	</Item>
-	<Item postedOn="03.03.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-february-2026/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in February</Title>
-	</Item>
 	<Item postedOn="24.02.26" link="https://vvvv.org/blog/2026/33.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
 		<Title>Coming up: The 33rd vvvv worldwide meetup on March 19</Title>
-	</Item>
-	<Item postedOn="30.01.26" link="https://thenodeinstitute.org/courses/interactive-sketches-with-vvvv/" mediaType="text" thumbnail="">
-		<Title>Offline course: Interactive Sketches</Title>
 	</Item>
 </News>
