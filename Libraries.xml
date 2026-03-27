@@ -385,5 +385,6 @@
     <Lib nuget="VL.PluginTemplate"/>
     <Lib nuget="VL.NewLibrary.HDE"/>
     <Lib nuget="VL.GStreamer"/>
+    <Lib nuget="PaddleOCRSharp-VL-1.5"/>
   </Category>
 </Libraries>
