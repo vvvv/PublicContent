@@ -173,7 +173,6 @@
       <Lib nuget="VL.Devices.AzureKinect"/>
       <Lib nuget="VL.Devices.AzureKinect.Femto"/>
       <Lib nuget="VL.Devices.Kinect2"/>
-      <Lib nuget="VL.Kinect2FuseUtils"/>
       <Lib nuget="VL.Devices.Kinect"/>
       <Lib nuget="VL.Devices.Nuitrack"/>
       <Lib nuget="VL.Devices.Ultraleap"/>
@@ -212,7 +211,6 @@
       <Lib nuget="VL.Devices.SpaceMouseHID"/>
       <Lib nuget="VL.Devices.TheEyeTribe"/>
       <Lib nuget="VL.Devices.WinTab"/>
-      <Lib nuget="VL.GameController"/>
       <Lib nuget="VL.IO.Xbox360Controller"/>
       <Lib nuget="VL.PJLink"/>
       <Lib nuget="VL.M8Display"/>
