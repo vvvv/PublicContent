@@ -398,7 +398,6 @@
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
     <Lib nuget="VL.Geo"/>
-    <Lib nuget="VL.GIS"/>
   </Category>
   <Category title="Hidden">
     <Lib nuget="GithubPackageTest"/>
