@@ -301,6 +301,18 @@
       <Lib nuget="VL.SharpNoise"/>
     </Category>
   </Category>
+  <Category title="Motion Capture">
+      <Lib nuget="VL.Devices.ZED"/>
+      <Lib nuget="VL.Devices.RealSense"/>
+      <Lib nuget="VL.Devices.AzureKinect"/>
+      <Lib nuget="VL.Devices.AzureKinect.Femto"/>
+      <Lib nuget="VL.Devices.Kinect2"/>
+      <Lib nuget="VL.Devices.Kinect"/>
+      <Lib nuget="VL.Devices.Nuitrack"/>
+      <Lib nuget="VL.Devices.Ultraleap"/>
+      <Lib nuget="VL.IO.Optitrack"/>
+      <Lib nuget="VL.DollarsMocap"/>
+  </Category>
   <Category title="Physical Computing">
     <Lib nuget="VL.Devices.Phidgets"/>
     <Lib nuget="VL.IO.Firmata"/>
