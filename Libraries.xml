@@ -310,8 +310,9 @@
       <Lib nuget="VL.Devices.Kinect"/>
       <Lib nuget="VL.Devices.Nuitrack"/>
       <Lib nuget="VL.Devices.Ultraleap"/>
-      <Lib nuget="VL.IO.Optitrack"/>
-      <Lib nuget="VL.DollarsMocap"/>
+      <Lib nuget="VL.IO.OptiTrack"/>
+      <Lib nuget="VL.DollarsMoCap"/>
+      <Lib nuget="VL.Mediapipe"/>
   </Category>
   <Category title="Physical Computing">
     <Lib nuget="VL.Devices.Phidgets"/>
