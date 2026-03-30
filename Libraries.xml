@@ -8,6 +8,7 @@
     <Lib nuget="VL.MediaPipe"/>
     <Lib nuget="VL.OpenCV"/>
     <Lib nuget="VL.Rhino.3dm"/>
+    <Lib nuget="VL.CEF"/>
   </Category>
   <Category title="Extensions">
     <Lib nuget="VL.Pipette.HDE"/>
@@ -55,6 +56,7 @@
       <Lib nuget="VL.Stride.BezierPatch"/>
       <Lib nuget="VL.Stride.TextureFX"/>
       <Lib nuget="VL.CEF.Stride"/>
+      <Lib nuget="VL.ImGui.Stride"/>
       <Lib nuget="VL.PDFReader"/>
       <Lib nuget="VL.Addons"/>
       <Lib nuget="VL.Stride.Text3d"/>
@@ -341,7 +343,9 @@
     <Lib nuget="VL.Avalonia.Custom"/>
     <Lib nuget="VL.Avalonia.Skia"/>
     <Lib nuget="VL.Avalonia.Stride"/>
+    <Lib nuget="VL.ImGui"/>
     <Lib nuget="VL.ImGui.Skia"/>
+    <Lib nuget="VL.ImGui.Stride"/>
     <Lib nuget="VL.ImGui.Extensions"/>
     <Lib nuget="VL.Flex"/>
     <Lib nuget="VL.Flex.Skia"/>
@@ -385,6 +389,7 @@
     <Lib nuget="VL.TK.AdventOfCode24"/>
   </Category>
   <Category title="Unsorted">
+    <Lib nuget="VL.Fundamentals">
     <Lib nuget="VL.CoreLib">
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
