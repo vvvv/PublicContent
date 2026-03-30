@@ -390,7 +390,7 @@
     <Lib nuget="VL.TK.AdventOfCode24"/>
   </Category>
   <Category title="Unsorted">
-    <Lib nuget="VL.Fundamentals">
+    <Lib nuget="VL.Fundamentals"/>
     <Lib nuget="VL.CoreLib">
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
