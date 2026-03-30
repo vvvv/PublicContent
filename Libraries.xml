@@ -268,6 +268,7 @@
       <Lib nuget="VL.Serialization.Raw"/>
       <Lib nuget="VL.Serialization.MessagePack"/>
       <Lib nuget="VL.Serialization.FSPickler"/>
+      <Lib nuget="VL.JSON"/>
     </Category>
   </Category>
   <Category title="Machine Learning">
@@ -396,6 +397,8 @@
     <Lib nuget="VL.CoreLib.Windows">
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
+    <Lib nuget="VL.Geo"/>
+    <Lib nuget="VL.GIS"/>
   </Category>
   <Category title="Hidden">
     <Lib nuget="GithubPackageTest"/>
