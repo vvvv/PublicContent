@@ -60,7 +60,7 @@
       <Lib nuget="VL.Stride.Text3d"/>
       <Lib nuget="VL.Stride.SDFToMesh"/>
       <Lib nuget="VL.IO.PLY"/>
-      <Lib nuget="VL.IO.Teximp"/>
+      <Lib nuget="VL.Teximp"/>
       <Lib nuget="VL.Assimp"/>
       <Lib nuget="VL.OpenEXR"/>
       <Lib nuget="VL.Boids-GPU"/>
@@ -72,6 +72,7 @@
       <Lib nuget="VL.Voxelizer"/>
       <Lib nuget="VL.Alembic"/>
       <Lib nuget="VL.PolyTools"/>
+      <Lib nuget="VL.Fresnel"/>
     </Category>
     <Category title="Geometry">
       <Lib nuget="VL.Rhino.3dm">
