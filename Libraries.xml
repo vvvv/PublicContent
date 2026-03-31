@@ -399,6 +399,9 @@
     </Lib>
     <Lib nuget="VL.Geo"/>
   </Category>
+  <Category title="OnlyHelpbrowser">
+    <Lib nuget="VL.Fundamentals"/>
+  </Category>
   <Category title="Hidden">
     <Lib nuget="GithubPackageTest"/>
     <Lib nuget="VL.PluginTemplate"/>
