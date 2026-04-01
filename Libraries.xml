@@ -381,6 +381,7 @@
     </Category>
   </Category>
   <Category title="Tutorials">
+    <Lib nuget="VL.Fundamentals"/>
     <Lib nuget="VL.TheBigBang">
       <Link title="Sponsor!" link="https://ko-fi.com/chk"/>
     </Lib>
@@ -390,7 +391,6 @@
     <Lib nuget="VL.TK.AdventOfCode24"/>
   </Category>
   <Category title="Unsorted">
-    <Lib nuget="VL.Fundamentals"/>
     <Lib nuget="VL.CoreLib">
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
@@ -398,9 +398,6 @@
       <Link title="Chat" link="https://matrix.to/#/#VL.StandardLibs:matrix.org"/>
     </Lib>
     <Lib nuget="VL.Geo"/>
-  </Category>
-  <Category title="OnlyHelpbrowser">
-    <Lib nuget="VL.Fundamentals"/>
   </Category>
   <Category title="Hidden">
     <Lib nuget="GithubPackageTest"/>
