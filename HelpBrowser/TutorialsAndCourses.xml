@@ -20,19 +20,26 @@
   </Topic>
   
   <Topic title="By Chk">
-      <Subtopic title="Introduction for absolute beginners">
-        <UriItem title="Explanation 1. Navigating the Environment" link="https://www.youtube.com/watch?v=7m1EzfxUtzo" mediaType="video"/>
-        <UriItem title="Explanation 2. Types &amp; IOBoxes" link="https://www.youtube.com/watch?v=9iH72qdb4Xk" mediaType="video"/>
-        <UriItem title="Explanation 3. Nodes &amp; Pins" link="https://www.youtube.com/watch?v=eCTEAFfb9rQ" mediaType="video"/>
-        <UriItem title="Explanation 4. Type Conversion" link="https://www.youtube.com/watch?v=r1X0VJ9oumQ" mediaType="video"/>
-        <UriItem title="Explanation 5. The Stride Rendering Pipeline" link="https://www.youtube.com/watch?v=4rDgVe1F0gg" mediaType="video"/>
-        <UriItem title="Explanation 6. Spreads &amp; Iteration" link="https://www.youtube.com/watch?v=3u3QOd4UyWM" mediaType="video"/>
-        <UriItem title="Explanation 7. Controlling Patches" link="https://www.youtube.com/watch?v=LOX32diUgOQ" mediaType="video"/>
-      </Subtopic>
-      <UriItem title="Tutorial VL.TheBigBang" link="https://github.com/chkworks/VL.TheBigBang" mediaType="text"/>
+    <UriItem title="Tutorial VL.TheBigBang" mediaType="pack"/>
+    <UriItem title="Tutorial VL.TheBigBang" link="https://github.com/chkworks/VL.TheBigBang" mediaType="text"/>
+    <Subtopic title="Introduction for absolute beginners">
+      <UriItem title="Explanation 1. Navigating the Environment" link="https://www.youtube.com/watch?v=7m1EzfxUtzo" mediaType="video"/>
+      <UriItem title="Explanation 2. Types &amp; IOBoxes" link="https://www.youtube.com/watch?v=9iH72qdb4Xk" mediaType="video"/>
+      <UriItem title="Explanation 3. Nodes &amp; Pins" link="https://www.youtube.com/watch?v=eCTEAFfb9rQ" mediaType="video"/>
+      <UriItem title="Explanation 4. Type Conversion" link="https://www.youtube.com/watch?v=r1X0VJ9oumQ" mediaType="video"/>
+      <UriItem title="Explanation 5. The Stride Rendering Pipeline" link="https://www.youtube.com/watch?v=4rDgVe1F0gg" mediaType="video"/>
+      <UriItem title="Explanation 6. Spreads &amp; Iteration" link="https://www.youtube.com/watch?v=3u3QOd4UyWM" mediaType="video"/>
+      <UriItem title="Explanation 7. Controlling Patches" link="https://www.youtube.com/watch?v=LOX32diUgOQ" mediaType="video"/>
+    </Subtopic>
   </Topic>
 
   <Topic title="By TobyK">
+    <UriItem title="Tutorial VL.ExtendedTutorials" mediaType="pack"/>
+    <UriItem title="Tutorial VL.TK.AdventOfCode24" mediaType="pack"/>
+    <UriItem title="Tutorial VL.TK.AdventOfCode23" mediaType="pack"/>
+    <UriItem title="Tutorial VL.ExtendedTutorials" link="https://github.com/TobyKLight/VL.ExtendedTutorials" mediaType="text"/>
+    <UriItem title="Tutorial VL.TK.AdventOfCode24" link="https://github.com/TobyKLight/VL.TK.AdventOfCode24" mediaType="text"/>
+    <UriItem title="Tutorial VL.TK.AdventOfCode23" link="https://github.com/TobyKLight/VL.TK.AdventOfCode23" mediaType="text"/>
     <Subtopic title="Intermediate Tutorials">
         <UriItem title="Explanation First steps with Records" link="https://www.youtube.com/watch?v=RXDRfqLbc74" mediaType="video"/>
         <UriItem title="Explanation Mutability (Record vs Class)" link="https://www.youtube.com/watch?v=zGufG64WSF4" mediaType="video"/>
@@ -46,7 +53,10 @@
         <UriItem title="Tutorial Type Flex 2: Run-Time Type Flexibility" link="https://www.youtube.com/watch?v=atuOObHFXpw" mediaType="video"/>
     </Subtopic>
   </Topic>
- 
+  <Topic title="By Phlegma">
+    <UriItem title="Tutorial VL.GenerativeGestaltung" mediaType="pack"/>
+    <UriItem title="Tutorial VL.GenerativeGestaltung" link="https://github.com/phlegma/VL.GenerativeGestaltung" mediaType="text"/>
+  </Topic>
   <Topic title="By Takuma Nakata">
     <Subtopic title="Graphics Tutorials">
         <UriItem title="Tutorial Stride Texture 2 Skia" link="https://www.youtube.com/watch?v=4f1wnvPMOJA" mediaType="video"/>
