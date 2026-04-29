@@ -184,6 +184,7 @@
     </Category>
     <Category title="Lighting">
       <Lib nuget="VL.IO.ArtNet"/>
+      <Lib nuget="VL.IO.PosiStageNet"/>
       <Lib nuget="VL.Devices.ENTTEC"/>
     </Category>
     <Category title="Lasers">
