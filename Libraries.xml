@@ -182,13 +182,16 @@
       <Lib nuget="VL.Devices.Leap"/>
       <Lib nuget="VL.Devices.LeapOrion"/>
     </Category>
-    <Category title="Light &amp; Lasers">
+    <Category title="Lighting">
       <Lib nuget="VL.IO.ArtNet"/>
       <Lib nuget="VL.Devices.ENTTEC"/>
+    </Category>
+    <Category title="Lasers">
+      <Lib nuget="VL.Devices.Moncha"/>
+      <Lib nuget="VL.Devices.LaserCube"/>
       <Lib nuget="VL.ILDA">
         <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
-      </Lib>
-      <Lib nuget="VL.Devices.LaserCube"/>
+      </Lib>      
     </Category>
     <Category title="Cameras">
       <Lib nuget="VL.Devices.uEye"/>
