@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="20.05.26" link="https://www.youtube.com/watch?v=ktmVOzxFc80" mediaType="text" thumbnail="">
+		<Title>New Tutorial: Spray - build a dynamic particle system</Title>
+	</Item>
 	<Item postedOn="27.04.26" link="https://vvvv.org/blog/2026/34.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
 		<Title>34th vvvv worldwide meetup on May 21</Title>
 	</Item>
