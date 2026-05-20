@@ -186,6 +186,7 @@
       <Lib nuget="VL.IO.ArtNet"/>
       <Lib nuget="VL.IO.PosiStageNet"/>
       <Lib nuget="VL.Devices.ENTTEC"/>
+      <Lib nuget="VL.sACN"/>
     </Category>
     <Category title="Lasers">
       <Lib nuget="VL.Devices.Moncha"/>
@@ -221,6 +222,7 @@
       <Lib nuget="VL.IO.Xbox360Controller"/>
       <Lib nuget="VL.PJLink"/>
       <Lib nuget="VL.M8Display"/>
+      <Lib nuget="VL.IO.NFC"/>
       <Lib nuget="VL.PTZ">
         <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
       </Lib>
@@ -370,6 +372,7 @@
       <Lib nuget="VL.GStreamer"/>
       <Lib nuget="VL.Video"/>
       <Lib nuget="VL.Video.MediaFoundation"/>
+      <Lib nuget="VL.IO.NDI"/>
     </Category>
     <Category title="Cameras">
       <Lib nuget="VL.Devices.TheImagingSource"/>
@@ -379,9 +382,6 @@
     </Category>
     <Category title="Capture Cards">
       <Lib nuget="VL.Devices.DeckLink"/>
-    </Category>
-    <Category title="NDI">
-      <Lib nuget="VL.IO.NDI"/>
     </Category>
   </Category>
   <Category title="Tutorials">
