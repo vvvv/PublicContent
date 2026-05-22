@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="22.05.26" link="https://thegraybook.vvvv.org/changelog/7.x.html" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 7.2 is out!</Title>
+	</Item>
 	<Item postedOn="22.05.26" link="https://www.youtube.com/live/5_0ZN-0IocM" mediaType="video" thumbnail="">
 		<Title>Re-watch: The 34th vvvv worldwide meetup</Title>
 	</Item>
