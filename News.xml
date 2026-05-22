@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="22.05.26" link="https://www.youtube.com/live/5_0ZN-0IocM" mediaType="video" thumbnail="">
+		<Title>Re-watch: The 34th vvvv worldwide meetup</Title>
+	</Item>
 	<Item postedOn="20.05.26" link="https://www.youtube.com/watch?v=ktmVOzxFc80" mediaType="text" thumbnail="">
 		<Title>New Tutorial: Spray - build a dynamic particle system</Title>
-	</Item>
-	<Item postedOn="27.04.26" link="https://vvvv.org/blog/2026/34.-vvvv-worldwide-meetup/" mediaType="text" thumbnail="">
-		<Title>34th vvvv worldwide meetup on May 21</Title>
 	</Item>
 	<Item postedOn="14.04.26" link="https://thenodeinstitute.org/link-summer-camp-2026-were-back" mediaType="text" thumbnail="">
 		<Title>Save your spot: LINK Summer Camp 2026</Title>
