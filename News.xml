@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="04.06.26" link="https://vvvv.org/blog/2026/introducing-support-for-the-moncha-laser-dac/" mediaType="text" thumbnail="">
+		<Title>Introducing: Support for the Moncha Laser DAC</Title>
+	</Item>
 	<Item postedOn="02.06.26" link="https://vvvv.org/blog/2026/vl.rhino-rhino-grasshopper-for-vvvv-now-available/" mediaType="text" thumbnail="">
 		<Title>VL.Rhino - Rhino & Grasshopper for vvvv</Title>
 	</Item>
