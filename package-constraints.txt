@@ -44,3 +44,4 @@
   VL.CEF.Stride>=0.7.2
 2025.7.1
   VL.Nvidia.Streamline<=0.9.0-pre1 broken
+  VL.Skia3d>=1.1.3
