@@ -27,6 +27,7 @@
     <Lib nuget="VL.Elementa">
       <Link title="Chat" link="https://matrix.to/#/#VL.Elementa:matrix.org"/>
     </Lib>
+    <Lib nuget="VL.EditingFramework.Skia"/>
     <Lib nuget="VL.CEF.Skia"/>
     <Lib nuget="VL.Flex.Skia"/>
     <Lib nuget="VL.PDFReader"/>
@@ -50,11 +51,13 @@
         <Link title="Sponsor!" link="https://opencollective.com/the-fuse-lab"/>
       </Lib>
       <Lib nuget="VL.Fuse.Control"/>
+      <Lib nuget="VL.EditingFramework"/>
       <Lib nuget="VL.Stride"/>
-      <Lib nuget="VL.ShaderFXtension"/>
-      <Lib nuget="VL.Addons.Stride"/>
+      <Lib nuget="VL.Stride.Windows"/>
       <Lib nuget="VL.Stride.BezierPatch"/>
       <Lib nuget="VL.Stride.TextureFX"/>
+      <Lib nuget="VL.ShaderFXtension"/>
+      <Lib nuget="VL.Addons.Stride"/>
       <Lib nuget="VL.CEF.Stride"/>
       <Lib nuget="VL.ImGui.Stride"/>
       <Lib nuget="VL.PDFReader"/>
