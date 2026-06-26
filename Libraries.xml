@@ -18,6 +18,15 @@
     <Lib nuget="VL.Bookmarks.HDE"/>
     <Lib nuget="VL.Preview.HDE"/>
   </Category>
+  <Category title="Bindings">
+    <Lib nuget="VL.IO.Midi"/>
+    <Lib nuget="VL.IO.Redis"/>
+    <Lib nuget="VL.IO.OSCQuery"/>
+    <Lib nuget="VL.IO.OSC"/>
+    <Lib nuget="VL.IO.RCP"/>
+    <Lib nuget="VL.IO.MQTT"/>
+    <Lib nuget="VL.XMLModule"/>
+  </Category>
   <Category title="2d Graphics">
     <Lib nuget="VL.Skia" builtin="true"/>
     <Lib nuget="VL.ImGui.Skia"/>
