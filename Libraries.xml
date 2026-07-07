@@ -201,6 +201,7 @@
       <Lib nuget="VL.sACN"/>
     </Category>
     <Category title="Lasers">
+      <Lib nuget="VL.Devices.Helios"/>
       <Lib nuget="VL.Devices.Moncha"/>
       <Lib nuget="VL.Devices.LaserCube"/>
       <Lib nuget="VL.ILDA">
