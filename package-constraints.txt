@@ -36,6 +36,7 @@
   VL.SpoutMonitor.HDE>=0.1.0
   VL.TUIO.HDE>=0.2.1
   VL.Devices.Axis>=0.0.8-preview
+  VL.Video.MediaFoundation=>VL.Video>=2024.6.0
 2025.7.0
   VL.Fuse>=1.0.3-beta08
   VL.Devices.Axis>=0.0.9-preview
