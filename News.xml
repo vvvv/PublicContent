@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="17.07.26" link="https://thegraybook.vvvv.org/changelog/7.x.html" mediaType="text" thumbnail="">
+		<Title>vvvv gamma 7.4 is out!</Title>
+	</Item>
 	<Item postedOn="17.07.26" link="https://youtube.com/live/-0ElGQv9baQ" mediaType="text" thumbnail="">
 		<Title>Rewatch the last meetup!</Title>
 	</Item>
 	<Item postedOn="13.07.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-june-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in June</Title>
-	</Item>
-	<Item postedOn="24.06.26" link="https://thegraybook.vvvv.org/changelog/7.x.html" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 7.3 is out!</Title>
-	</Item>
+	</Item>	
 	<Item postedOn="20.05.26" link="https://www.youtube.com/watch?v=ktmVOzxFc80" mediaType="text" thumbnail="">
 		<Title>New Tutorial: Spray - build a dynamic particle system</Title>
 	</Item>
