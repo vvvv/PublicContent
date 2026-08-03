@@ -17,6 +17,7 @@
     <Lib nuget="VL.DebugInfo.HDE"/>
     <Lib nuget="VL.Bookmarks.HDE"/>
     <Lib nuget="VL.Preview.HDE"/>
+    <Lib nuget="VL.MCP.HDE"/>
   </Category>
   <Category title="Bindings">
     <Lib nuget="VL.IO.Midi"/>
