@@ -1,2 +1,4 @@
 VL.BadMapper@0.0.20-alpha
   VL.Video>=2025.7.0
+VL.Video.MediaFoundation@*
+  VL.Video>=2025.7.0
