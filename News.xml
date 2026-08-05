@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="05.08.26" link="https://vvvv.org/blog/2026/introducing-a-package-manager-for-vl-packs/" mediaType="text" thumbnail="">
+		<Title>Introducing: A package manager in 8.0 preview builds</Title>
+	</Item>
 	<Item postedOn="17.07.26" link="https://thegraybook.vvvv.org/changelog/7.x.html" mediaType="text" thumbnail="">
 		<Title>vvvv gamma 7.4 is out!</Title>
 	</Item>
