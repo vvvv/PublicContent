@@ -333,6 +333,7 @@
       <Lib nuget="VL.Devices.Nuitrack"/>
       <Lib nuget="VL.Devices.Ultraleap"/>
       <Lib nuget="VL.IO.OptiTrack"/>
+      <Lib nuget="VL.Captury"/>
       <Lib nuget="VL.DollarsMoCap"/>
       <Lib nuget="VL.Mediapipe"/>
   </Category>
