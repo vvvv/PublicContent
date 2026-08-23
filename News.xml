@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="21.08.26" link="https://vvvv.org/blog/2026/vvvv-beginner-classes-winter-2026-27-early-bird/" mediaType="text" thumbnail="">
+		<Title>Early Bird: vvvv beginner class starting October 19</Title>
+	</Item>
+	<Item postedOn="21.08.26" link="https://vvvv.org/blog/2026/vvvv-worldwide-meetup-ars-electronica-festival-2026/" mediaType="text" thumbnail="">
+		<Title>vvvv meetup September 12 at Ars Electronica Festival in Linz</Title>
+	</Item>
+	<Item postedOn="21.08.26" link="https://vvvv.org/blog/2026/introducing-support-for-captury/" mediaType="text" thumbnail="">
+		<Title>Introducing: VL.Captury</Title>
+	</Item>
 	<Item postedOn="20.08.26" link="https://vvvv.org/blog/2026/introducing-support-for-stereoscopic-rendering/" mediaType="text" thumbnail="">
 		<Title>Introducing: Support for Stereoscopic Rendering</Title>
 	</Item>
 	<Item postedOn="14.08.26" link="https://thenodeinstitute.org/learning-vvvv/?v=7d0db380a5b9#winter" mediaType="text" thumbnail="">
 		<Title>Early Bird: vvvv Winter courses are online!</Title>
 	</Item>	
-	<Item postedOn="08.08.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-july-2026/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in July</Title>
-	</Item>	
-	<Item postedOn="05.08.26" link="https://vvvv.org/blog/2026/introducing-a-package-manager-for-vl-packs/" mediaType="text" thumbnail="">
-		<Title>Introducing: A package manager in 8.0 preview builds</Title>
-	</Item>
-	<Item postedOn="17.07.26" link="https://thegraybook.vvvv.org/changelog/7.x.html" mediaType="text" thumbnail="">
-		<Title>vvvv gamma 7.4 is out!</Title>
-	</Item>
 </News>
