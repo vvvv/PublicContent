@@ -11,12 +11,6 @@
     <Lib nuget="VL.CEF"/>
   </Category>
   <Category title="Extensions">
-    <Lib nuget="VL.Pipette.HDE"/>
-    <Lib nuget="VL.SpoutMonitor.HDE"/>
-    <Lib nuget="VL.TUIO.HDE"/>
-    <Lib nuget="VL.DebugInfo.HDE"/>
-    <Lib nuget="VL.Bookmarks.HDE"/>
-    <Lib nuget="VL.Preview.HDE"/>
   </Category>
   <Category title="Bindings">
     <Lib nuget="VL.IO.Midi"/>
