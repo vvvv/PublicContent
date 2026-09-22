@@ -3,13 +3,4 @@
 	<Item postedOn="08.09.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-august-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in August</Title>
 	</Item>
-	<Item postedOn="21.08.26" link="https://vvvv.org/blog/2026/vvvv-worldwide-meetup-ars-electronica-festival-2026/" mediaType="text" thumbnail="">
-		<Title>vvvv meetup September 12 at Ars Electronica Festival in Linz</Title>
-	</Item>
-	<Item postedOn="21.08.26" link="https://vvvv.org/blog/2026/introducing-support-for-captury/" mediaType="text" thumbnail="">
-		<Title>Introducing: VL.Captury</Title>
-	</Item>
-	<Item postedOn="20.08.26" link="https://vvvv.org/blog/2026/introducing-support-for-stereoscopic-rendering/" mediaType="text" thumbnail="">
-		<Title>Introducing: Support for Stereoscopic Rendering</Title>
-	</Item>
 </News>
