@@ -415,6 +415,7 @@
     <Lib nuget="GithubPackageTest"/>
     <Lib nuget="VL.PluginTemplate"/>
     <Lib nuget="VL.NewLibrary.HDE"/>
+     <Lib nuget="VL.Inspector"/>
     <Lib nuget="VL.GStreamer"/>
     <Lib nuget="PaddleOCRSharp-VL-1.5"/>
     <Lib nuget="antokhio.Devices.LS2Lidar"/>
