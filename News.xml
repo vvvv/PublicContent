@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-part1-winter-2026?utm_source=vvvv&utm_medium=helpbrowser" mediaType="text" thumbnail="">
+		<Title>Online beginner course pt1 &quot;Playful Patching&quot; starting October 19</Title>
+	</Item>
+	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-part2-winter-2026?utm_source=vvvv&utm_medium=helpbrowser" mediaType="text" thumbnail="">
+		<Title>Online beginner course pt2 &quot;Foundations of VL Development&quot; starting January 11</Title>
+	</Item>
 	<Item postedOn="08.09.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-august-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in August</Title>
 	</Item>
