@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="01.10.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-september-2026/" mediaType="text" thumbnail="">
+		<Title>vvvvhat happened in September</Title>
+	</Item>
+	<Item postedOn="01.10.26" link="https://nodeforum.org/announcements/play-test-lantern-coding/" mediaType="text" thumbnail="">
+		<Title>Frankfurt: Beginner course &quot;Lantern Coding&quot;, October 9</Title>
+	</Item>
 	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-part1-winter-2026" mediaType="text" thumbnail="">
-		<Title>Online beginner course pt1 &quot;Playful Patching&quot; starting October 19</Title>
+		<Title>Online: Beginner course pt1 &quot;Playful Patching&quot;, starting October 19</Title>
 	</Item>
-	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-part2-winter-2026" mediaType="text" thumbnail="">
-		<Title>Online beginner course pt2 &quot;Foundations of VL Development&quot; starting January 11</Title>
-	</Item>
-	<Item postedOn="08.09.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-august-2026/" mediaType="text" thumbnail="">
-		<Title>vvvvhat happened in August</Title>
-	</Item>
+	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/advanced-texturefx-techniques-in-vvvv/?utm_source=tni&utm_medium=youtube&v=5f02f0889301" mediaType="text" thumbnail="">
+		<Title>Online: Advanced TextureFX Techniques, starting October 27</Title>
+	</Item>	
 </News>
