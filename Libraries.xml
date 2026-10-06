@@ -59,6 +59,9 @@
       <Lib nuget="VL.Stride.Windows"/>
       <Lib nuget="VL.Stride.BezierPatch"/>
       <Lib nuget="VL.Stride.TextureFX"/>
+      <Lib nuget="VL.Stride.DX12Bridge"/>
+      <Lib nuget="VL.Stride.glTF"/>
+      <Lib nuget="VL.Stride.Voxels"/>
       <Lib nuget="VL.ShaderFXtension"/>
       <Lib nuget="VL.Addons.Stride"/>
       <Lib nuget="VL.CEF.Stride"/>
@@ -219,11 +222,14 @@
     <Category title="Lidars">
       <Lib nuget="VL.Devices.Sick"/>
       <Lib nuget="VL.Devices.RPLidar"/>
+      <Lib nuget="VL.Devices.LS2Lidar"/>
     </Category>
     <Category title="Other">
+      <Lib nuget="VL.Devices.GearVR"/>
       <Lib nuget="VL.Devices.StreamDeck"/>
       <Lib nuget="VL.Devices.SpaceMouse"/>
       <Lib nuget="VL.Devices.SpaceMouseHID"/>
+      <Lib nuget="VL.Mcro.Devices.SpaceMouse"/>
       <Lib nuget="VL.Devices.TheEyeTribe"/>
       <Lib nuget="VL.Devices.WinTab"/>
       <Lib nuget="VL.IO.Xbox360Controller"/>
@@ -238,6 +244,7 @@
   </Category>
   <Category title="IO">
     <Category title="Networking">
+      <Lib nuget="VL.KNX"/>
       <Lib nuget="VL.IO.TCP"/>
       <Lib nuget="VL.IO.WebSocket"/>
       <Lib nuget="VL.IO.TUIO"/>
@@ -311,6 +318,7 @@
     <Lib nuget="VL.2DUtils"/>
     <Lib nuget="VL.SmallestCircle"/>
     <Lib nuget="VL.2D.CurveFitting"/>
+    <Lib nuget="VL.Nurbsy"/>
     <Category title="Noise">
       <Lib nuget="VL.FastNoiseLite"/>
       <Lib nuget="VL.FastNoise"/>
@@ -381,6 +389,7 @@
       <Lib nuget="VL.Video"/>
       <Lib nuget="VL.Video.MediaFoundation"/>
       <Lib nuget="VL.IO.NDI"/>
+      <Lib nuget="VL.FFmpeg"/>
     </Category>
     <Category title="Cameras">
       <Lib nuget="VL.Devices.TheImagingSource"/>
