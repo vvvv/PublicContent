@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="13.10.26" link="https://vvvv.org/blog/2026/update-improvements-for-the-package-manager/" mediaType="text" thumbnail="">
+		<Title>Update: Improvements for the Package manager</Title>
+	</Item>
 	<Item postedOn="01.10.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-september-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in September</Title>
 	</Item>
 	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/vvvv-beginner-class-part1-winter-2026" mediaType="text" thumbnail="">
 		<Title>Online: Beginner course pt1 &quot;Playful Patching&quot;, starting October 19</Title>
 	</Item>
+	<Item postedOn="30.09.26" link="https://vvvv.org/blog/2026/applied-2d-3d-math-for-creative-coders/" mediaType="text" thumbnail="">
+		<Title>Online: Applied 2D & 3D Math for Creative Coders, November 10th and 17th</Title>
+	</Item>	
 	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/advanced-texturefx-techniques-in-vvvv" mediaType="text" thumbnail="">
 		<Title>Online: Advanced TextureFX Techniques, December 1st and 2nd</Title>
 	</Item>	
