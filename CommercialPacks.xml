@@ -3,7 +3,7 @@
 <Packs>
   <Category title="2d Graphics">
     <Pack>
-      <Title>Title</Title>
+      <Id>Title</Id>
       <Author>Author</Author>
       <Description>Description</Description>
       <Tags>Tag1, Tag2</Tags>
