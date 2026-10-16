@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<Packs>
+  <Category title="2d Graphics">
+    <Pack>
+      <Title>Title</Title>
+      <Author>Author</Author>
+      <Description>Description</Description>
+      <Tags>Tag1, Tag2</Tags>
+      <Links>
+        <Link title="Source" url="https://github.com/foo/VL.CommercialPack"/>
+        <Link title="Website" url="https://wwww.commercialpack.org"/>
+      </Links>
+      <Icon url="https://vvvv.org/img/icons/github32x32.png"/>
+    </Pack>
+  </Category>
+ </Packs>
