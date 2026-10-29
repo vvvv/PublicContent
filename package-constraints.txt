@@ -49,3 +49,6 @@
   VL.Skia3d>=1.1.3
 2026.8.*-*
   VL.HelpAssets=1.0.0
+  VL.Audio>=1.9.21
+  VL.Audio.UI>=1.9.21
+  VL.Audio.VST>=0.1.9-alpha
