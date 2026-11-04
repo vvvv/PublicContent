@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="13.10.26" link="https://vvvv.org/blog/2026/update-improvements-for-the-package-manager/" mediaType="text" thumbnail="">
-		<Title>Update: Improvements for the Package manager</Title>
+	<Item postedOn="22.10.26" link="https://vvvv.org/blog/2026/introducing-distributed-rendering-aka-boygrouping/" mediaType="text" thumbnail="">
+		<Title>Introducing: Distributed Rendering aka Boygrouping</Title>
 	</Item>
 	<Item postedOn="01.10.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-september-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in September</Title>
