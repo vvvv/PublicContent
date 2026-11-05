@@ -1,0 +1,6 @@
+# Commits that only reformat (line endings, whitespace) and are skipped by git blame.
+# GitHub uses this file automatically. Locally, run once per clone:
+#   git config blame.ignoreRevsFile .git-blame-ignore-revs
+
+# Normalize line endings: store LF, check out native, via .gitattributes
+f98a8c611b8849809d5d9d2db804e223c6d2d1f5
