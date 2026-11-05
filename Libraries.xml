@@ -84,6 +84,8 @@
       <Lib nuget="VL.Alembic"/>
       <Lib nuget="VL.PolyTools"/>
       <Lib nuget="VL.Fresnel"/>
+      <Lib nuget="VL.Nvidia.PathTracing"/>
+      <Lib nuget="VL.Nvidia.Streamline"/>      
     </Category>
     <Category title="Geometry">
       <Lib nuget="VL.Rhino.3dm">
@@ -102,15 +104,16 @@
     </Category>
   </Category>
   <Category title="Animation">
+    <Lib nuget="VL.Automata"/>
     <Lib nuget="VL.Addons.Animation"/>
     <Lib nuget="VL.Animation.ParticleSystem"/>
     <Lib nuget="VL.TrackObjects"/>
     <Lib nuget="VL.LoopTool"/>
-    <Lib nuget="VL.AutomataUI"/>
     <Lib nuget="VL.Interpolator">
       <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
     </Lib>
     <Category title="Timelines">
+      <Lib nuget="VL.Interpole"/>
       <Lib nuget="VL.Interpolator.Addons">
         <Link title="Chat" link="https://matrix.to/#/#Interpolator:matrix.org"/>
         <Link title="Sponsor!" link="https://ko-fi.com/aristidesgarcia"/>
@@ -218,6 +221,7 @@
     <Category title="Robots">
       <Lib nuget="VL.Devices.Robotiq"/>
       <Lib nuget="VL.Bunraku"/>
+      <Lib nuget="VL.PRC"/>
     </Category>  
     <Category title="Lidars">
       <Lib nuget="VL.Devices.Sick"/>
