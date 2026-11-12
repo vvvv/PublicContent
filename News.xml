@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
-	<Item postedOn="12.11.26" link="https://thenodeinstitute.org/courses/driving-particle-systems-from-geospatial-data-in-vvvv?utm_source=vvvv&utm_medium=blog" mediaType="text" thumbnail="">
+	<Item postedOn="12.11.26" link="https://thenodeinstitute.org/courses/driving-particle-systems-from-geospatial-data-in-vvvv" mediaType="text" thumbnail="">
 		<Title>Online Course: Driving Particle Systems from Geospatial Data on November 24</Title>
 	</Item>
 	<Item postedOn="22.10.26" link="https://vvvv.org/blog/2026/introducing-distributed-rendering-aka-boygrouping/" mediaType="text" thumbnail="">
