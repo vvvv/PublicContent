@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News>
+	<Item postedOn="12.11.26" link="https://thenodeinstitute.org/courses/driving-particle-systems-from-geospatial-data-in-vvvv?utm_source=vvvv&utm_medium=blog" mediaType="text" thumbnail="">
+		<Title>Online Course: Driving Particle Systems from Geospatial Data on November 24</Title>
+	</Item>
 	<Item postedOn="22.10.26" link="https://vvvv.org/blog/2026/introducing-distributed-rendering-aka-boygrouping/" mediaType="text" thumbnail="">
 		<Title>Introducing: Distributed Rendering aka Boygrouping</Title>
 	</Item>
 	<Item postedOn="01.10.26" link="https://vvvv.org/blog/2026/vvvvhat-happened-in-september-2026/" mediaType="text" thumbnail="">
 		<Title>vvvvhat happened in September</Title>
-	</Item>
-	<Item postedOn="30.09.26" link="https://vvvv.org/blog/2026/applied-2d-3d-math-for-creative-coders/" mediaType="text" thumbnail="">
-		<Title>Online: Applied 2D &amp; 3D Math for Creative Coders, November 10th and 17th</Title>
-	</Item>	
+	</Item>		
 	<Item postedOn="30.09.26" link="https://thenodeinstitute.org/courses/advanced-texturefx-techniques-in-vvvv" mediaType="text" thumbnail="">
-		<Title>Online: Advanced TextureFX Techniques, December 1st and 2nd</Title>
+		<Title>Online Course: Advanced TextureFX Techniques, December 1st and 2nd</Title>
 	</Item>	
 </News>
