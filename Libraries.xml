@@ -6,8 +6,9 @@
     <Lib nuget="VL.Fuse"/>
     <Lib nuget="VL.Mapper"/>
     <Lib nuget="VL.MediaPipe"/>
-    <Lib nuget="VL.OpenCV"/>
-    <Lib nuget="VL.Rhino.3dm"/>
+    <Lib nuget="VL.Nvidia.PathTracing"/>
+    <Lib nuget="VL.Interpole"/>
+    <Lib nuget="VL.Automata"/>
     <Lib nuget="VL.CEF"/>
   </Category>
   <Category title="Extensions">
