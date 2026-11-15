@@ -37,6 +37,7 @@
     <Lib nuget="VL.PDFReader"/>
     <Lib nuget="VL.PolyTools"/>
     <Lib nuget="VL.QRCode"/>
+    <Lib nuget="VL.Qt"/>
     <Lib nuget="VL.SRT"/>
     <Lib nuget="VL.ScreenRecorder"/>
     <Lib nuget="VL.SmallestCircle"/>
@@ -382,6 +383,7 @@
     <Lib nuget="VL.Elementa"/>
     <Lib nuget="VL.Elementa.Editor"/>
     <Lib nuget="VL.IO.RCP"/>
+    <Lib nuget="VL.Qt"/>
     <Lib nuget="VL.Yoga"/>
   </Category>
   <Category title="Video">
