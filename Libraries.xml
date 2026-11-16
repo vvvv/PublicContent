@@ -247,6 +247,12 @@
       <Lib nuget="VL.AxiDraw"/>
     </Category>
   </Category>
+  <Category title="Geospatial">
+    <Lib nuget="VL.NetTopologySuite"/>
+    <Lib nuget="VL.NetTopologySuite.GeoJSON"/>
+    <Lib nuget="VL.Mapsui"/>
+    <Lib nuget="VL.PROJ"/>
+  </Category>
   <Category title="IO">
     <Category title="Networking">
       <Lib nuget="VL.KNX"/>
@@ -294,6 +300,7 @@
       <Lib nuget="VL.Serialization.MessagePack"/>
       <Lib nuget="VL.Serialization.FSPickler"/>
       <Lib nuget="VL.JSON"/>
+      <Lib nuget="VL.NetTopologySuite.GeoJSON"/>
     </Category>
   </Category>
   <Category title="Machine Learning">
@@ -324,6 +331,7 @@
     <Lib nuget="VL.SmallestCircle"/>
     <Lib nuget="VL.2D.CurveFitting"/>
     <Lib nuget="VL.Nurbsy"/>
+    <Lib nuget="VL.NetTopologySuite"/>
     <Category title="Noise">
       <Lib nuget="VL.FastNoiseLite"/>
       <Lib nuget="VL.FastNoise"/>
