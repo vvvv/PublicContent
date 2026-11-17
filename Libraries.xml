@@ -38,6 +38,7 @@
     <Lib nuget="VL.PolyTools"/>
     <Lib nuget="VL.QRCode"/>
     <Lib nuget="VL.Qt"/>
+    <Lib nuget="VL.Qt.Stride"/>
     <Lib nuget="VL.SRT"/>
     <Lib nuget="VL.ScreenRecorder"/>
     <Lib nuget="VL.SmallestCircle"/>
@@ -64,7 +65,6 @@
       <Lib nuget="VL.Stride.DX12Bridge"/>
       <Lib nuget="VL.Stride.glTF"/>
       <Lib nuget="VL.Stride.Voxels"/>
-      <Lib nuget="VL.Qt.Stride"/>
       <Lib nuget="VL.ShaderFXtension"/>
       <Lib nuget="VL.Addons.Stride"/>
       <Lib nuget="VL.CEF.Stride"/>
