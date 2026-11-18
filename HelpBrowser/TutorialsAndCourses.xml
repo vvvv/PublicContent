@@ -4,6 +4,8 @@
   <Topic title="vvvvTv">
 	  <Subtopic title="Season 3">
         <UriItem title="Tutorial Ep 1: Introduction to Public Channels" link="https://www.youtube.com/live/Lh1y8ezMsJM" mediaType="video"/>
+		<UriItem title="Tutorial Ep 2: Introduction to Presets" link="https://www.youtube.com/live/o15sx0Tso10" mediaType="video"/>
+		<UriItem title="Tutorial Ep 3: Introduction to Bindings" link="https://www.youtube.com/live/af_2P9gVbSE" mediaType="video"/>
       </Subtopic>
       <Subtopic title="Season 2">
         <UriItem title="Tutorial Pilot: Sensors &amp; Servos with Arduino" link="https://www.youtube.com/live/uvLNZsStve8" mediaType="video"/>
