@@ -2,14 +2,13 @@
 <!DOCTYPE ROOT PUBLIC "" ""[]>
 <Libraries>
   <Category title="Featured">
-    <Lib nuget="VL.Addons"/>
-    <Lib nuget="VL.Fuse"/>
-    <Lib nuget="VL.Mapper"/>
     <Lib nuget="VL.MediaPipe"/>
     <Lib nuget="VL.Nvidia.PathTracing"/>
     <Lib nuget="VL.Interpole"/>
     <Lib nuget="VL.Automata"/>
     <Lib nuget="VL.CEF"/>
+    <Lib nuget="VL.Rive"/>
+    <Lib nuget="VL.Qt.Stride"/>
   </Category>
   <Category title="Extensions">
   </Category>
