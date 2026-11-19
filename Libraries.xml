@@ -8,9 +8,7 @@
     <Lib nuget="VL.Automata"/>
     <Lib nuget="VL.CEF"/>
     <Lib nuget="VL.Rive"/>
-    <Lib nuget="VL.Qt.Stride"/>
-  </Category>
-  <Category title="Extensions">
+    <Lib nuget="VL.Qt"/>
   </Category>
   <Category title="Bindings">
     <Lib nuget="VL.IO.Midi"/>
