@@ -9,6 +9,7 @@
     <Lib nuget="VL.CEF"/>
     <Lib nuget="VL.Rive"/>
     <Lib nuget="VL.Qt"/>
+    <Lib nuget="VL.Polynesia"/>
   </Category>
   <Category title="Bindings">
     <Lib nuget="VL.IO.Midi"/>
