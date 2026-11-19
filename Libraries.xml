@@ -246,6 +246,12 @@
       <Lib nuget="VL.AxiDraw"/>
     </Category>
   </Category>
+  <Category title="Geospatial">
+    <Lib nuget="VL.NetTopologySuite"/>
+    <Lib nuget="VL.NetTopologySuite.GeoJSON"/>
+    <Lib nuget="VL.Mapsui"/>
+    <Lib nuget="VL.PROJ"/>
+  </Category>
   <Category title="IO">
     <Category title="Networking">
       <Lib nuget="VL.KNX"/>
