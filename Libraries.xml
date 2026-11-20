@@ -35,6 +35,8 @@
     <Lib nuget="VL.PDFReader"/>
     <Lib nuget="VL.PolyTools"/>
     <Lib nuget="VL.QRCode"/>
+    <Lib nuget="VL.Qt"/>
+    <Lib nuget="VL.Qt.Stride"/>
     <Lib nuget="VL.SRT"/>
     <Lib nuget="VL.ScreenRecorder"/>
     <Lib nuget="VL.SmallestCircle"/>
@@ -130,6 +132,7 @@
     <Lib nuget="VL.Audio.VST"/>
     <Lib nuget="VL.Audio.GPL"/>
     <Lib nuget="VL.Audio.LTC"/>
+    <Lib nuget="VL.Qt.Audio"/>
     <Lib nuget="VL.GameAudioPlayer"/>
     <Lib nuget="VL.SCSynth"/>
     <Lib nuget="VL.Audio.Analysis">
@@ -380,6 +383,7 @@
     <Lib nuget="VL.Elementa"/>
     <Lib nuget="VL.Elementa.Editor"/>
     <Lib nuget="VL.IO.RCP"/>
+    <Lib nuget="VL.Qt"/>
     <Lib nuget="VL.Yoga"/>
   </Category>
   <Category title="Video">
